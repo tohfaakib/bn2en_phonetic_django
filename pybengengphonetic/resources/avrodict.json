@@ -14,7 +14,269 @@
     "encoding": "utf-8"
   },
   "data": {
+    "district": [
+      {
+        "replace": "Barguna",
+        "find": "\u09ac\u09b0\u0997\u09c1\u09a8\u09be"
+      },
+      {
+        "replace": "Barishal",
+        "find": "\u09ac\u09b0\u09bf\u09b6\u09be\u09b2"
+      },
+      {
+        "replace": "Bhola",
+        "find": "\u09ad\u09cb\u09b2\u09be"
+      },
+      {
+        "replace": "Jhalokati",
+        "find": "\u099d\u09be\u09b2\u0995\u09be\u09a0\u09bf"
+      },
+      {
+        "replace": "Patuakhali",
+        "find": "\u09aa\u099f\u09c1\u09af\u09bc\u09be\u0996\u09be\u09b2\u09bf"
+      },
+      {
+        "replace": "Pirojpur",
+        "find": "\u09aa\u09bf\u09b0\u09cb\u099c\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Bandarban",
+        "find": "\u09ac\u09be\u09a8\u09cd\u09a6\u09b0\u09ac\u09be\u09a8"
+      },
+      {
+        "replace": "Brahmanbaria",
+        "find": "\u09ac\u09cd\u09b0\u09be\u09b9\u09cd\u09ae\u09a3\u09ac\u09be\u09a1\u09bc\u09bf\u09af\u09bc\u09be"
+      },
+      {
+        "replace": "Chandpur",
+        "find": "\u099a\u09be\u0981\u09a6\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Chattogram",
+        "find": "\u099a\u099f\u09cd\u099f\u0997\u09cd\u09b0\u09be\u09ae"
+      },
+      {
+        "replace": "Cumilla",
+        "find": "\u0995\u09c1\u09ae\u09bf\u09b2\u09cd\u09b2\u09be"
+      },
+      {
+        "replace": "Cox's Bazar",
+        "find": "\u0995\u0995\u09cd\u09b8\u09ac\u09be\u099c\u09be\u09b0"
+      },
+      {
+        "replace": "Feni",
+        "find": "\u09ab\u09c7\u09a8\u09c0"
+      },
+      {
+        "replace": "Khagrachhari",
+        "find": "\u0996\u09be\u0997\u09a1\u09bc\u09be\u099b\u09a1\u09bc\u09bf"
+      },
+      {
+        "replace": "Lakshmipur",
+        "find": "\u09b2\u0995\u09cd\u09b7\u09cd\u09ae\u09c0\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Noakhali",
+        "find": "\u09a8\u09cb\u09af\u09bc\u09be\u0996\u09be\u09b2\u09bf"
+      },
+      {
+        "replace": "Rangamati",
+        "find": "\u09b0\u09be\u0999\u09cd\u0997\u09be\u09ae\u09be\u099f\u09bf"
+      },
+      {
+        "replace": "Dhaka",
+        "find": "\u09a2\u09be\u0995\u09be"
+      },
+      {
+        "replace": "Faridpur",
+        "find": "\u09ab\u09b0\u09bf\u09a6\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Gazipur",
+        "find": "\u0997\u09be\u099c\u09c0\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Gopalganj",
+        "find": "\u0997\u09cb\u09aa\u09be\u09b2\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Kishoreganj",
+        "find": "\u0995\u09bf\u09b6\u09cb\u09b0\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Madaripur",
+        "find": "\u09ae\u09be\u09a6\u09be\u09b0\u09bf\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Manikganj",
+        "find": "\u09ae\u09be\u09a8\u09bf\u0995\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Munshiganj",
+        "find": "\u09ae\u09c1\u09a8\u09cd\u09b8\u09bf\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Narayanganj",
+        "find": "\u09a8\u09be\u09b0\u09be\u09af\u09bc\u09a3\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Narsingdi",
+        "find": "\u09a8\u09b0\u09b8\u09bf\u0982\u09a6\u09bf"
+      },
+      {
+        "replace": "Rajbari",
+        "find": "\u09b0\u09be\u099c\u09ac\u09be\u09a1\u09bc\u09bf"
+      },
+      {
+        "replace": "Shariatpur",
+        "find": "\u09b6\u09b0\u09bf\u09af\u09bc\u09a4\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Tangail",
+        "find": "\u099f\u09be\u0999\u09cd\u0997\u09be\u0987\u09b2"
+      },
+      {
+        "replace": "Bagerhat",
+        "find": "\u09ac\u09be\u0997\u09c7\u09b0\u09b9\u09be\u099f"
+      },
+      {
+        "replace": "Chuadanga",
+        "find": "\u099a\u09c1\u09af\u09bc\u09be\u09a1\u09be\u0999\u09cd\u0997\u09be"
+      },
+      {
+        "replace": "Jashore",
+        "find": "\u09af\u09b6\u09cb\u09b0"
+      },
+      {
+        "replace": "Jhenaidah",
+        "find": "\u099d\u09bf\u09a8\u09be\u0987\u09a6\u09b9"
+      },
+      {
+        "replace": "Khulna",
+        "find": "\u0996\u09c1\u09b2\u09a8\u09be"
+      },
+      {
+        "replace": "Kushtia",
+        "find": "\u0995\u09c1\u09b7\u09cd\u099f\u09bf\u09af\u09bc\u09be"
+      },
+      {
+        "replace": "Magura",
+        "find": "\u09ae\u09be\u0997\u09c1\u09b0\u09be"
+      },
+      {
+        "replace": "Meherpur",
+        "find": "\u09ae\u09c7\u09b9\u09c7\u09b0\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Narail",
+        "find": "\u09a8\u09a1\u09bc\u09be\u0987\u09b2"
+      },
+      {
+        "replace": "Satkhira",
+        "find": "\u09b8\u09be\u09a4\u0995\u09cd\u09b7\u09c0\u09b0\u09be"
+      },
+      {
+        "replace": "Jamalpur",
+        "find": "\u099c\u09be\u09ae\u09be\u09b2\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Mymensingh",
+        "find": "\u09ae\u09af\u09bc\u09ae\u09a8\u09b8\u09bf\u0982\u09b9"
+      },
+      {
+        "replace": "Netrokona",
+        "find": "\u09a8\u09c7\u09a4\u09cd\u09b0\u0995\u09cb\u09a8\u09be"
+      },
+      {
+        "replace": "Sherpur",
+        "find": "\u09b6\u09c7\u09b0\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Bogura",
+        "find": "\u09ac\u0997\u09c1\u09a1\u09bc\u09be"
+      },
+      {
+        "replace": "Joypurhat",
+        "find": "\u099c\u09af\u09bc\u09aa\u09c1\u09b0\u09b9\u09be\u099f"
+      },
+      {
+        "replace": "Naogaon",
+        "find": "\u09a8\u0993\u0997\u09be\u0981"
+      },
+      {
+        "replace": "Natore",
+        "find": "\u09a8\u09be\u099f\u09cb\u09b0"
+      },
+      {
+        "replace": "Chapainawabganj",
+        "find": "\u099a\u09be\u0981\u09aa\u09be\u0987\u09a8\u09ac\u09be\u09ac\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Pabna",
+        "find": "\u09aa\u09be\u09ac\u09a8\u09be"
+      },
+      {
+        "replace": "Rajshahi",
+        "find": "\u09b0\u09be\u099c\u09b6\u09be\u09b9\u09c0"
+      },
+      {
+        "replace": "Sirajganj",
+        "find": "\u09b8\u09bf\u09b0\u09be\u099c\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Dinajpur",
+        "find": "\u09a6\u09bf\u09a8\u09be\u099c\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Gaibandha",
+        "find": "\u0997\u09be\u0987\u09ac\u09be\u09a8\u09cd\u09a7\u09be"
+      },
+      {
+        "replace": "Kurigram",
+        "find": "\u0995\u09c1\u09a1\u09bc\u09bf\u0997\u09cd\u09b0\u09be\u09ae"
+      },
+      {
+        "replace": "Lalmonirhat",
+        "find": "\u09b2\u09be\u09b2\u09ae\u09a8\u09bf\u09b0\u09b9\u09be\u099f"
+      },
+      {
+        "replace": "Nilphamari",
+        "find": "\u09a8\u09c0\u09b2\u09ab\u09be\u09ae\u09be\u09b0\u09c0"
+      },
+      {
+        "replace": "Panchagarh",
+        "find": "\u09aa\u099e\u09cd\u099a\u0997\u09a1\u09bc"
+      },
+      {
+        "replace": "Rangpur",
+        "find": "\u09b0\u0982\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Thakurgaon",
+        "find": "\u09a0\u09be\u0995\u09c1\u09b0\u0997\u09be\u0981\u0993"
+      },
+      {
+        "replace": "Habiganj",
+        "find": "\u09b9\u09ac\u09bf\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Moulvibazar",
+        "find": "\u09ae\u09cc\u09b2\u09ad\u09c0\u09ac\u09be\u099c\u09be\u09b0"
+      },
+      {
+        "replace": "Sunamganj",
+        "find": "\u09b8\u09c1\u09a8\u09be\u09ae\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Sylhet",
+        "find": "\u09b8\u09bf\u09b2\u09c7\u099f"
+      }
+    ],
     "patterns": [
+      {
+        "replace": "a",
+        "find": "অ"
+      },
       {
         "replace": "bhl",
         "find": "ভ্ল"
@@ -640,11 +902,11 @@
         "find": "প"
       },
       {
-        "replace": "rri",
+        "replace": "ri",
         "find": "ৃ"
       },
       {
-        "replace": "rri",
+        "replace": "ri",
         "find": "ঋ"
       },
       {
@@ -664,7 +926,7 @@
         "find": "রর"
       },
       {
-        "replace": "rr",
+        "replace": "r",
         "find": "র্"
       },
       {
@@ -972,7 +1234,7 @@
         "find": "^"
       },
       {
-        "replace": "^",
+        "replace": "n",
         "find": "ঁ"
       },
       {
