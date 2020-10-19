@@ -14,6 +14,1972 @@
     "encoding": "utf-8"
   },
   "data": {
+    "sub_district": [
+      {
+        "replace": "Amtali",
+        "find": "\u0986\u09ae\u09a4\u09b2\u09c0"
+      },
+      {
+        "replace": "Bamna",
+        "find": "\u09ac\u09be\u09ae\u09a8\u09be"
+      },
+      {
+        "replace": "Barguna Sadar",
+        "find": "\u09ac\u09b0\u0997\u09c1\u09a8\u09be \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Betagi",
+        "find": "\u09ac\u09c7\u09a4\u09be\u0997\u09bf"
+      },
+      {
+        "replace": "Patharghata",
+        "find": "\u09aa\u09be\u09a5\u09b0\u0998\u09be\u099f\u09be"
+      },
+      {
+        "replace": "Taltali",
+        "find": "\u09a4\u09be\u09b2\u09a4\u09b2\u09c0"
+      },
+      {
+        "replace": "Muladi",
+        "find": "\u09ae\u09c1\u09b2\u09be\u09a6\u09bf"
+      },
+      {
+        "replace": "Babuganj",
+        "find": "\u09ac\u09be\u09ac\u09c1\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Agailjhara",
+        "find": "\u0986\u0997\u09be\u0987\u09b2\u099d\u09b0\u09be"
+      },
+      {
+        "replace": "Barisal Sadar",
+        "find": "\u09ac\u09b0\u09bf\u09b6\u09be\u09b2 \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Bakerganj",
+        "find": "\u09ac\u09be\u0995\u09c7\u09b0\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Banaripara",
+        "find": "\u09ac\u09be\u09a8\u09be\u09dc\u09bf\u09aa\u09be\u09b0\u09be"
+      },
+      {
+        "replace": "Gaurnadi",
+        "find": "\u0997\u09cc\u09b0\u09a8\u09a6\u09c0"
+      },
+      {
+        "replace": "Hizla",
+        "find": "\u09b9\u09bf\u099c\u09b2\u09be"
+      },
+      {
+        "replace": "Mehendiganj",
+        "find": "\u09ae\u09c7\u09b9\u09c7\u09a6\u09bf\u0997\u099e\u09cd\u099c "
+      },
+      {
+        "replace": "Wazirpur",
+        "find": "\u0993\u09df\u09be\u099c\u09bf\u09b0\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Bhola Sadar",
+        "find": "\u09ad\u09cb\u09b2\u09be \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Burhanuddin",
+        "find": "\u09ac\u09c1\u09b0\u09b9\u09be\u09a8\u0989\u09a6\u09cd\u09a6\u09bf\u09a8"
+      },
+      {
+        "replace": "Char Fasson",
+        "find": "\u099a\u09b0 \u09ab\u09cd\u09af\u09be\u09b6\u09a8"
+      },
+      {
+        "replace": "Daulatkhan",
+        "find": "\u09a6\u09cc\u09b2\u09a4\u0996\u09be\u09a8"
+      },
+      {
+        "replace": "Lalmohan",
+        "find": "\u09b2\u09be\u09b2\u09ae\u09cb\u09b9\u09a8"
+      },
+      {
+        "replace": "Manpura",
+        "find": "\u09ae\u09a8\u09aa\u09c1\u09b0\u09be"
+      },
+      {
+        "replace": "Tazumuddin",
+        "find": "\u09a4\u09be\u099c\u09c1\u09ae\u09c1\u09a6\u09cd\u09a6\u09bf\u09a8"
+      },
+      {
+        "replace": "Jhalokati Sadar",
+        "find": "\u099d\u09be\u09b2\u0995\u09be\u09a0\u09bf \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Kathalia",
+        "find": "\u0995\u09be\u0981\u09a0\u09be\u09b2\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "Nalchity",
+        "find": "\u09a8\u09be\u09b2\u099a\u09bf\u09a4\u09bf"
+      },
+      {
+        "replace": "Rajapur",
+        "find": "\u09b0\u09be\u099c\u09be\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Bauphal",
+        "find": "\u09ac\u09be\u0989\u09ab\u09b2"
+      },
+      {
+        "replace": "Dashmina",
+        "find": "\u09a6\u09b6\u09ae\u09bf\u09a8\u09be"
+      },
+      {
+        "replace": "Galachipa",
+        "find": "\u0997\u09b2\u09be\u099a\u09bf\u09aa\u09be"
+      },
+      {
+        "replace": "Kalapara",
+        "find": "\u0995\u09be\u09b2\u09be\u09aa\u09be\u09b0\u09be"
+      },
+      {
+        "replace": "Mirzaganj",
+        "find": "\u09ae\u09bf\u09b0\u09cd\u099c\u09be\u0997\u099e\u09cd\u099c "
+      },
+      {
+        "replace": "Patuakhali Sadar",
+        "find": "\u09aa\u099f\u09c1\u09df\u09be\u0996\u09be\u09b2\u09c0 \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Dumki",
+        "find": "\u09a1\u09c1\u09ae\u0995\u09bf"
+      },
+      {
+        "replace": "Rangabali",
+        "find": "\u09b0\u09be\u0999\u09cd\u0997\u09be\u09ac\u09be\u09b2\u09bf"
+      },
+      {
+        "replace": "Bhandaria",
+        "find": "\u09ad\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u09be\u09b0\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "Kaukhali",
+        "find": "\u0995\u09be\u0989\u0996\u09be\u09b2\u09bf"
+      },
+      {
+        "replace": "Mathbaria",
+        "find": "\u09ae\u09be\u09a0\u09ac\u09be\u09dc\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "Nazirpur",
+        "find": "\u09a8\u09be\u099c\u09bf\u09b0\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Nesarabad",
+        "find": "\u09a8\u09c7\u09b8\u09be\u09b0\u09be\u09ac\u09be\u09a6"
+      },
+      {
+        "replace": "Pirojpur Sadar",
+        "find": "\u09aa\u09bf\u09b0\u09cb\u099c\u09aa\u09c1\u09b0 \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Zianagar",
+        "find": "\u099c\u09bf\u09df\u09be\u09a8\u0997\u09b0"
+      },
+      {
+        "replace": "Bandarban Sadar",
+        "find": "\u09ac\u09be\u09a8\u09cd\u09a6\u09b0\u09ac\u09a8 \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Thanchi",
+        "find": "\u09a5\u09be\u09a8\u099a\u09bf"
+      },
+      {
+        "replace": "Lama",
+        "find": "\u09b2\u09be\u09ae\u09be"
+      },
+      {
+        "replace": "Naikhongchhari",
+        "find": "\u09a8\u09be\u0987\u0996\u0982\u099b\u09dc\u09bf "
+      },
+      {
+        "replace": "Ali kadam",
+        "find": "\u0986\u09b2\u09c0 \u0995\u09a6\u09ae"
+      },
+      {
+        "replace": "Rowangchhari",
+        "find": "\u09b0\u0989\u09df\u09be\u0982\u099b\u09dc\u09bf "
+      },
+      {
+        "replace": "Ruma",
+        "find": "\u09b0\u09c1\u09ae\u09be"
+      },
+      {
+        "replace": "Brahmanbaria Sadar",
+        "find": "\u09ac\u09cd\u09b0\u09be\u09b9\u09cd\u09ae\u09a3\u09ac\u09be\u09dc\u09bf\u09df\u09be \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Ashuganj",
+        "find": "\u0986\u09b6\u09c1\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Nasirnagar",
+        "find": "\u09a8\u09be\u09b8\u09bf\u09b0 \u09a8\u0997\u09b0"
+      },
+      {
+        "replace": "Nabinagar",
+        "find": "\u09a8\u09ac\u09c0\u09a8\u0997\u09b0"
+      },
+      {
+        "replace": "Sarail",
+        "find": "\u09b8\u09b0\u09be\u0987\u09b2"
+      },
+      {
+        "replace": "Shahbazpur Town",
+        "find": "\u09b6\u09be\u09b9\u09ac\u09be\u099c\u09aa\u09c1\u09b0 \u099f\u09be\u0989\u09a8"
+      },
+      {
+        "replace": "Kasba",
+        "find": "\u0995\u09b8\u09ac\u09be"
+      },
+      {
+        "replace": "Akhaura",
+        "find": "\u0986\u0996\u09be\u0989\u09b0\u09be"
+      },
+      {
+        "replace": "Bancharampur",
+        "find": "\u09ac\u09be\u099e\u09cd\u099b\u09be\u09b0\u09be\u09ae\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Bijoynagar",
+        "find": "\u09ac\u09bf\u099c\u09df \u09a8\u0997\u09b0"
+      },
+      {
+        "replace": "Chandpur Sadar",
+        "find": "\u099a\u09be\u0981\u09a6\u09aa\u09c1\u09b0 \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Faridganj",
+        "find": "\u09ab\u09b0\u09bf\u09a6\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Haimchar",
+        "find": "\u09b9\u09be\u0987\u09ae\u099a\u09b0"
+      },
+      {
+        "replace": "Haziganj",
+        "find": "\u09b9\u09be\u099c\u09c0\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Kachua",
+        "find": "\u0995\u099a\u09c1\u09df\u09be"
+      },
+      {
+        "replace": "Matlab Uttar",
+        "find": "\u09ae\u09a4\u09b2\u09ac \u0989\u09a4\u09cd\u09a4\u09b0"
+      },
+      {
+        "replace": "Matlab Dakkhin",
+        "find": "\u09ae\u09a4\u09b2\u09ac \u09a6\u0995\u09cd\u09b7\u09bf\u09a3"
+      },
+      {
+        "replace": "Shahrasti",
+        "find": "\u09b6\u09be\u09b9\u09b0\u09be\u09b8\u09cd\u09a4\u09bf"
+      },
+      {
+        "replace": "Anwara",
+        "find": "\u0986\u09a8\u09cb\u09df\u09be\u09b0\u09be"
+      },
+      {
+        "replace": "Banshkhali",
+        "find": "\u09ac\u09be\u09b6\u0996\u09be\u09b2\u09bf"
+      },
+      {
+        "replace": "Boalkhali",
+        "find": "\u09ac\u09cb\u09df\u09be\u09b2\u0996\u09be\u09b2\u09bf"
+      },
+      {
+        "replace": "Chandanaish",
+        "find": "\u099a\u09a8\u09cd\u09a6\u09a8\u09be\u0987\u09b6"
+      },
+      {
+        "replace": "Fatikchhari",
+        "find": "\u09ab\u099f\u09bf\u0995\u099b\u09dc\u09bf"
+      },
+      {
+        "replace": "Hathazari",
+        "find": "\u09b9\u09be\u09a0\u09b9\u09be\u099c\u09be\u09b0\u09c0"
+      },
+      {
+        "replace": "Lohagara",
+        "find": "\u09b2\u09cb\u09b9\u09be\u0997\u09be\u09b0\u09be"
+      },
+      {
+        "replace": "Mirsharai",
+        "find": "\u09ae\u09bf\u09b0\u09b8\u09b0\u09be\u0987"
+      },
+      {
+        "replace": "Patiya",
+        "find": "\u09aa\u099f\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "Rangunia",
+        "find": "\u09b0\u09be\u0999\u09cd\u0997\u09c1\u09a8\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "Raozan",
+        "find": "\u09b0\u09be\u0989\u099c\u09be\u09a8"
+      },
+      {
+        "replace": "Sandwip",
+        "find": "\u09b8\u09a8\u09cd\u09a6\u09cd\u09ac\u09c0\u09aa"
+      },
+      {
+        "replace": "Satkania",
+        "find": "\u09b8\u09be\u09a4\u0995\u09be\u09a8\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "Sitakunda",
+        "find": "\u09b8\u09c0\u09a4\u09be\u0995\u09c1\u09a3\u09cd\u09a1"
+      },
+      {
+        "replace": "Barura",
+        "find": "\u09ac\u09dc\u09c1\u09b0\u09be"
+      },
+      {
+        "replace": "Brahmanpara",
+        "find": "\u09ac\u09cd\u09b0\u09be\u09b9\u09cd\u09ae\u09a3\u09aa\u09be\u09dc\u09be"
+      },
+      {
+        "replace": "Burichong",
+        "find": "\u09ac\u09c1\u09dc\u09bf\u099a\u0982"
+      },
+      {
+        "replace": "Chandina",
+        "find": "\u099a\u09be\u09a8\u09cd\u09a6\u09bf\u09a8\u09be"
+      },
+      {
+        "replace": "Chauddagram",
+        "find": "\u099a\u09cc\u09a6\u09cd\u09a6\u0997\u09cd\u09b0\u09be\u09ae"
+      },
+      {
+        "replace": "Daudkandi",
+        "find": "\u09a6\u09be\u0989\u09a6\u0995\u09be\u09a8\u09cd\u09a6\u09bf"
+      },
+      {
+        "replace": "Debidwar",
+        "find": "\u09a6\u09c7\u09ac\u09c0\u09a6\u09cd\u09ac\u09be\u09b0"
+      },
+      {
+        "replace": "Homna",
+        "find": "\u09b9\u09cb\u09ae\u09a8\u09be"
+      },
+      {
+        "replace": "Comilla Sadar",
+        "find": "\u0995\u09c1\u09ae\u09bf\u09b2\u09cd\u09b2\u09be \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Laksam",
+        "find": "\u09b2\u09be\u0995\u09b8\u09be\u09ae"
+      },
+      {
+        "replace": "Monohorgonj",
+        "find": "\u09ae\u09a8\u09cb\u09b9\u09b0\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Meghna",
+        "find": "\u09ae\u09c7\u0998\u09a8\u09be"
+      },
+      {
+        "replace": "Muradnagar",
+        "find": "\u09ae\u09c1\u09b0\u09be\u09a6\u09a8\u0997\u09b0"
+      },
+      {
+        "replace": "Nangalkot",
+        "find": "\u09a8\u09be\u0999\u09cd\u0997\u09be\u09b2\u0995\u09cb\u099f"
+      },
+      {
+        "replace": "Comilla Sadar South",
+        "find": "\u0995\u09c1\u09ae\u09bf\u09b2\u09cd\u09b2\u09be \u09b8\u09a6\u09b0 \u09a6\u0995\u09cd\u09b7\u09bf\u09a3"
+      },
+      {
+        "replace": "Titas",
+        "find": "\u09a4\u09bf\u09a4\u09be\u09b8"
+      },
+      {
+        "replace": "Chakaria",
+        "find": "\u099a\u0995\u09b0\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "{{198}}''{{199}}",
+        "find": "\u0995\u0995\u09cd\u09b8 \u09ac\u09be\u099c\u09be\u09b0 \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Kutubdia",
+        "find": "\u0995\u09c1\u09a4\u09c1\u09ac\u09a6\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "Maheshkhali",
+        "find": "\u09ae\u09b9\u09c7\u09b6\u0996\u09be\u09b2\u09c0"
+      },
+      {
+        "replace": "Ramu",
+        "find": "\u09b0\u09be\u09ae\u09c1"
+      },
+      {
+        "replace": "Teknaf",
+        "find": "\u099f\u09c7\u0995\u09a8\u09be\u09ab"
+      },
+      {
+        "replace": "Ukhia",
+        "find": "\u0989\u0996\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "Pekua",
+        "find": "\u09aa\u09c7\u0995\u09c1\u09df\u09be"
+      },
+      {
+        "replace": "Feni Sadar",
+        "find": "\u09ab\u09c7\u09a8\u09c0 \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Chagalnaiya",
+        "find": "\u099b\u09be\u0997\u09b2 \u09a8\u09be\u0987\u09df\u09be"
+      },
+      {
+        "replace": "Daganbhyan",
+        "find": "\u09a6\u09be\u0997\u09be\u09a8\u09ad\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "Parshuram",
+        "find": "\u09aa\u09b0\u09b6\u09c1\u09b0\u09be\u09ae"
+      },
+      {
+        "replace": "Fhulgazi",
+        "find": "\u09ab\u09c1\u09b2\u0997\u09be\u099c\u09bf"
+      },
+      {
+        "replace": "Sonagazi",
+        "find": "\u09b8\u09cb\u09a8\u09be\u0997\u09be\u099c\u09bf"
+      },
+      {
+        "replace": "Dighinala",
+        "find": "\u09a6\u09bf\u0998\u09bf\u09a8\u09be\u09b2\u09be "
+      },
+      {
+        "replace": "Khagrachhari",
+        "find": "\u0996\u09be\u0997\u09dc\u09be\u099b\u09dc\u09bf"
+      },
+      {
+        "replace": "Lakshmichhari",
+        "find": "\u09b2\u0995\u09cd\u09b7\u09cd\u09ae\u09c0\u099b\u09dc\u09bf"
+      },
+      {
+        "replace": "Mahalchhari",
+        "find": "\u09ae\u09b9\u09b2\u099b\u09dc\u09bf"
+      },
+      {
+        "replace": "Manikchhari",
+        "find": "\u09ae\u09be\u09a8\u09bf\u0995\u099b\u09dc\u09bf"
+      },
+      {
+        "replace": "Matiranga",
+        "find": "\u09ae\u09be\u099f\u09bf\u09b0\u09be\u0999\u09cd\u0997\u09be"
+      },
+      {
+        "replace": "Panchhari",
+        "find": "\u09aa\u09be\u09a8\u099b\u09dc\u09bf"
+      },
+      {
+        "replace": "Ramgarh",
+        "find": "\u09b0\u09be\u09ae\u0997\u09dc"
+      },
+      {
+        "replace": "Lakshmipur Sadar",
+        "find": "\u09b2\u0995\u09cd\u09b7\u09cd\u09ae\u09c0\u09aa\u09c1\u09b0 \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Raipur",
+        "find": "\u09b0\u09be\u09df\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Ramganj",
+        "find": "\u09b0\u09be\u09ae\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Ramgati",
+        "find": "\u09b0\u09be\u09ae\u0997\u09a4\u09bf"
+      },
+      {
+        "replace": "Komol Nagar",
+        "find": "\u0995\u09ae\u09b2 \u09a8\u0997\u09b0"
+      },
+      {
+        "replace": "Noakhali Sadar",
+        "find": "\u09a8\u09cb\u09df\u09be\u0996\u09be\u09b2\u09c0 \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Begumganj",
+        "find": "\u09ac\u09c7\u0997\u09ae\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Chatkhil",
+        "find": "\u099a\u09be\u099f\u0996\u09bf\u09b2"
+      },
+      {
+        "replace": "Companyganj",
+        "find": "\u0995\u09cb\u09ae\u09cd\u09aa\u09be\u09a8\u09c0\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Shenbag",
+        "find": "\u09b6\u09c7\u09a8\u09ac\u09be\u0997"
+      },
+      {
+        "replace": "Hatia",
+        "find": "\u09b9\u09be\u09a4\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "Kobirhat",
+        "find": "\u0995\u09ac\u09bf\u09b0\u09b9\u09be\u099f "
+      },
+      {
+        "replace": "Sonaimuri",
+        "find": "\u09b8\u09cb\u09a8\u09be\u0987\u09ae\u09c1\u09b0\u09bf"
+      },
+      {
+        "replace": "Suborno Char",
+        "find": "\u09b8\u09c1\u09ac\u09b0\u09cd\u09a3 \u099a\u09b0 "
+      },
+      {
+        "replace": "Rangamati Sadar",
+        "find": "\u09b0\u09be\u0999\u09cd\u0997\u09be\u09ae\u09be\u099f\u09bf \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Belaichhari",
+        "find": "\u09ac\u09c7\u09b2\u09be\u0987\u099b\u09dc\u09bf"
+      },
+      {
+        "replace": "Bagaichhari",
+        "find": "\u09ac\u09be\u0998\u09be\u0987\u099b\u09dc\u09bf"
+      },
+      {
+        "replace": "Barkal",
+        "find": "\u09ac\u09b0\u0995\u09b2"
+      },
+      {
+        "replace": "Juraichhari",
+        "find": "\u099c\u09c1\u09b0\u09be\u0987\u099b\u09dc\u09bf"
+      },
+      {
+        "replace": "Rajasthali",
+        "find": "\u09b0\u09be\u099c\u09be\u09b8\u09cd\u09a5\u09b2\u09bf"
+      },
+      {
+        "replace": "Kaptai",
+        "find": "\u0995\u09be\u09aa\u09cd\u09a4\u09be\u0987"
+      },
+      {
+        "replace": "Langadu",
+        "find": "\u09b2\u09be\u0999\u09cd\u0997\u09be\u09a1\u09c1"
+      },
+      {
+        "replace": "Nannerchar",
+        "find": "\u09a8\u09be\u09a8\u09cd\u09a8\u09c7\u09b0\u099a\u09b0 "
+      },
+      {
+        "replace": "Kaukhali",
+        "find": "\u0995\u09be\u0989\u0996\u09be\u09b2\u09bf"
+      },
+      {
+        "replace": "Dhamrai",
+        "find": "\u09a7\u09be\u09ae\u09b0\u09be\u0987"
+      },
+      {
+        "replace": "Dohar",
+        "find": "\u09a6\u09cb\u09b9\u09be\u09b0"
+      },
+      {
+        "replace": "Keraniganj",
+        "find": "\u0995\u09c7\u09b0\u09be\u09a8\u09c0\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Nawabganj",
+        "find": "\u09a8\u09ac\u09be\u09ac\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Savar",
+        "find": "\u09b8\u09be\u09ad\u09be\u09b0"
+      },
+      {
+        "replace": "Faridpur Sadar",
+        "find": "\u09ab\u09b0\u09bf\u09a6\u09aa\u09c1\u09b0 \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Boalmari",
+        "find": "\u09ac\u09cb\u09df\u09be\u09b2\u09ae\u09be\u09b0\u09c0"
+      },
+      {
+        "replace": "Alfadanga",
+        "find": "\u0986\u09b2\u09ab\u09be\u09a1\u09be\u0999\u09cd\u0997\u09be"
+      },
+      {
+        "replace": "Madhukhali",
+        "find": "\u09ae\u09a7\u09c1\u0996\u09be\u09b2\u09bf"
+      },
+      {
+        "replace": "Bhanga",
+        "find": "\u09ad\u09be\u0999\u09cd\u0997\u09be"
+      },
+      {
+        "replace": "Nagarkanda",
+        "find": "নগরকান্দা"
+      },
+      {
+        "replace": "Charbhadrasan",
+        "find": "\u099a\u09b0\u09ad\u09a6\u09cd\u09b0\u09be\u09b8\u09a8 "
+      },
+      {
+        "replace": "Sadarpur",
+        "find": "\u09b8\u09a6\u09b0\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Shaltha",
+        "find": "\u09b6\u09be\u09b2\u09a5\u09be"
+      },
+      {
+        "replace": "Gazipur Sadar-Joydebpur",
+        "find": "\u0997\u09be\u099c\u09c0\u09aa\u09c1\u09b0 \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Kaliakior",
+        "find": "\u0995\u09be\u09b2\u09bf\u09df\u09be\u0995\u09c8\u09b0"
+      },
+      {
+        "replace": "Kapasia",
+        "find": "\u0995\u09be\u09aa\u09be\u09b8\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "Sripur",
+        "find": "\u09b6\u09cd\u09b0\u09c0\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Kaliganj",
+        "find": "\u0995\u09be\u09b2\u09c0\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Tongi",
+        "find": "\u099f\u0999\u09cd\u0997\u09bf"
+      },
+      {
+        "replace": "Gopalganj Sadar",
+        "find": "\u0997\u09cb\u09aa\u09be\u09b2\u0997\u099e\u09cd\u099c \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Kashiani",
+        "find": "\u0995\u09be\u09b6\u09bf\u09df\u09be\u09a8\u09bf"
+      },
+      {
+        "replace": "Kotalipara",
+        "find": "\u0995\u09cb\u099f\u09be\u09b2\u09bf\u09aa\u09be\u09dc\u09be"
+      },
+      {
+        "replace": "Muksudpur",
+        "find": "\u09ae\u09c1\u0995\u09b8\u09c1\u09a6\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Tungipara",
+        "find": "\u099f\u09c1\u0999\u09cd\u0997\u09bf\u09aa\u09be\u09dc\u09be"
+      },
+      {
+        "replace": "Dewanganj",
+        "find": "\u09a6\u09c7\u0993\u09df\u09be\u09a8\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Baksiganj",
+        "find": "\u09ac\u0995\u09b8\u09bf\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Islampur",
+        "find": "\u0987\u09b8\u09b2\u09be\u09ae\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Jamalpur Sadar",
+        "find": "\u099c\u09be\u09ae\u09be\u09b2\u09aa\u09c1\u09b0 \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Madarganj",
+        "find": "\u09ae\u09be\u09a6\u09be\u09b0\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Melandaha",
+        "find": "\u09ae\u09c7\u09b2\u09be\u09a8\u09a6\u09be\u09b9\u09be"
+      },
+      {
+        "replace": "Sarishabari",
+        "find": "\u09b8\u09b0\u09bf\u09b7\u09be\u09ac\u09be\u09dc\u09bf "
+      },
+      {
+        "replace": "Narundi Police I.C",
+        "find": "\u09a8\u09be\u09b0\u09c1\u09a8\u09cd\u09a6\u09bf"
+      },
+      {
+        "replace": "Astagram",
+        "find": "\u0985\u09b7\u09cd\u099f\u0997\u09cd\u09b0\u09be\u09ae"
+      },
+      {
+        "replace": "Bajitpur",
+        "find": "\u09ac\u09be\u099c\u09bf\u09a4\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Bhairab",
+        "find": "\u09ad\u09c8\u09b0\u09ac"
+      },
+      {
+        "replace": "Hossainpur",
+        "find": "\u09b9\u09cb\u09b8\u09c7\u09a8\u09aa\u09c1\u09b0 "
+      },
+      {
+        "replace": "Itna",
+        "find": "\u0987\u099f\u09a8\u09be"
+      },
+      {
+        "replace": "Karimganj",
+        "find": "\u0995\u09b0\u09bf\u09ae\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Katiadi",
+        "find": "\u0995\u09a4\u09bf\u09df\u09be\u09a6\u09bf"
+      },
+      {
+        "replace": "Kishoreganj Sadar",
+        "find": "\u0995\u09bf\u09b6\u09cb\u09b0\u0997\u099e\u09cd\u099c \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Kuliarchar",
+        "find": "\u0995\u09c1\u09b2\u09bf\u09df\u09be\u09b0\u099a\u09b0"
+      },
+      {
+        "replace": "Mithamain",
+        "find": "\u09ae\u09bf\u09a0\u09be\u09ae\u09be\u0987\u09a8"
+      },
+      {
+        "replace": "Nikli",
+        "find": "\u09a8\u09bf\u0995\u09b2\u09bf"
+      },
+      {
+        "replace": "Pakundia",
+        "find": "\u09aa\u09be\u0995\u09c1\u09a8\u09cd\u09a1\u09be"
+      },
+      {
+        "replace": "Tarail",
+        "find": "\u09a4\u09be\u09dc\u09be\u0987\u09b2"
+      },
+      {
+        "replace": "Madaripur Sadar",
+        "find": "\u09ae\u09be\u09a6\u09be\u09b0\u09c0\u09aa\u09c1\u09b0 \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Kalkini",
+        "find": "\u0995\u09be\u09b2\u0995\u09bf\u09a8\u09bf"
+      },
+      {
+        "replace": "Rajoir",
+        "find": "\u09b0\u09be\u099c\u0987\u09b0"
+      },
+      {
+        "replace": "Shibchar",
+        "find": "\u09b6\u09bf\u09ac\u099a\u09b0"
+      },
+      {
+        "replace": "Manikganj Sadar",
+        "find": "\u09ae\u09be\u09a8\u09bf\u0995\u0997\u099e\u09cd\u099c \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Singair",
+        "find": "\u09b8\u09bf\u0999\u09cd\u0997\u09be\u0987\u09b0"
+      },
+      {
+        "replace": "Shibalaya",
+        "find": "\u09b6\u09bf\u09ac\u09be\u09b2\u09df"
+      },
+      {
+        "replace": "Saturia",
+        "find": "\u09b8\u09be\u09a0\u09c1\u09b0\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "Harirampur",
+        "find": "\u09b9\u09b0\u09bf\u09b0\u09be\u09ae\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Ghior",
+        "find": "\u0998\u09bf\u0993\u09b0"
+      },
+      {
+        "replace": "Daulatpur",
+        "find": "\u09a6\u09cc\u09b2\u09a4\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Lohajang",
+        "find": "\u09b2\u09cb\u09b9\u09be\u099c\u0982"
+      },
+      {
+        "replace": "Sreenagar",
+        "find": "\u09b6\u09cd\u09b0\u09c0\u09a8\u0997\u09b0"
+      },
+      {
+        "replace": "Munshiganj Sadar",
+        "find": "\u09ae\u09c1\u09a8\u09cd\u09b8\u09bf\u0997\u099e\u09cd\u099c \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Sirajdikhan",
+        "find": "\u09b8\u09bf\u09b0\u09be\u099c\u09a6\u09bf\u0996\u09be\u09a8"
+      },
+      {
+        "replace": "Tongibari",
+        "find": "\u099f\u0999\u09cd\u0997\u09bf\u09ac\u09be\u09dc\u09bf"
+      },
+      {
+        "replace": "Gazaria",
+        "find": "\u0997\u099c\u09be\u09b0\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "Bhaluka",
+        "find": "\u09ad\u09be\u09b2\u09c1\u0995\u09be"
+      },
+      {
+        "replace": "Trishal",
+        "find": "\u09a4\u09cd\u09b0\u09bf\u09b6\u09be\u09b2"
+      },
+      {
+        "replace": "Haluaghat",
+        "find": "\u09b9\u09be\u09b2\u09c1\u09df\u09be\u0998\u09be\u099f"
+      },
+      {
+        "replace": "Muktagachha",
+        "find": "\u09ae\u09c1\u0995\u09cd\u09a4\u09be\u0997\u09be\u099b\u09be"
+      },
+      {
+        "replace": "Dhobaura",
+        "find": "\u09a7\u09ac\u09be\u09b0\u09c1\u09df\u09be"
+      },
+      {
+        "replace": "Fulbaria",
+        "find": "\u09ab\u09c1\u09b2\u09ac\u09be\u09dc\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "Gaffargaon",
+        "find": "\u0997\u09ab\u09b0\u0997\u09be\u0981\u0993"
+      },
+      {
+        "replace": "Gauripur",
+        "find": "\u0997\u09cc\u09b0\u09bf\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Ishwarganj",
+        "find": "\u0988\u09b6\u09cd\u09ac\u09b0\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Mymensingh Sadar",
+        "find": "\u09ae\u09df\u09ae\u09a8\u09b8\u09bf\u0982 \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Nandail",
+        "find": "\u09a8\u09a8\u09cd\u09a6\u09be\u0987\u09b2"
+      },
+      {
+        "replace": "Phulpur",
+        "find": "\u09ab\u09c1\u09b2\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Araihazar",
+        "find": "\u0986\u09dc\u09be\u0987\u09b9\u09be\u099c\u09be\u09b0"
+      },
+      {
+        "replace": "Sonargaon",
+        "find": "\u09b8\u09cb\u09a8\u09be\u09b0\u0997\u09be\u0981\u0993"
+      },
+      {
+        "replace": "Bandar",
+        "find": "\u09ac\u09be\u09a8\u09cd\u09a6\u09be\u09b0"
+      },
+      {
+        "replace": "Naryanganj Sadar",
+        "find": "\u09a8\u09be\u09b0\u09be\u09df\u09be\u09a8\u0997\u099e\u09cd\u099c \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Rupganj",
+        "find": "\u09b0\u09c2\u09aa\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Siddirgonj",
+        "find": "\u09b8\u09bf\u09a6\u09cd\u09a7\u09bf\u09b0\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Belabo",
+        "find": "\u09ac\u09c7\u09b2\u09be\u09ac\u09cb"
+      },
+      {
+        "replace": "Monohardi",
+        "find": "\u09ae\u09a8\u09cb\u09b9\u09b0\u09a6\u09bf"
+      },
+      {
+        "replace": "Narsingdi Sadar",
+        "find": "\u09a8\u09b0\u09b8\u09bf\u0982\u09a6\u09c0 \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Palash",
+        "find": "\u09aa\u09b2\u09be\u09b6"
+      },
+      {
+        "replace": "Raipura , Narsingdi",
+        "find": "\u09b0\u09be\u09df\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Shibpur",
+        "find": "\u09b6\u09bf\u09ac\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Kendua Upazilla",
+        "find": "\u0995\u09c7\u09a8\u09cd\u09a6\u09c1\u09df\u09be"
+      },
+      {
+        "replace": "Atpara Upazilla",
+        "find": "\u0986\u099f\u09aa\u09be\u09dc\u09be"
+      },
+      {
+        "replace": "Barhatta Upazilla",
+        "find": "\u09ac\u09b0\u09b9\u09be\u099f\u09cd\u099f\u09be"
+      },
+      {
+        "replace": "Durgapur Upazilla",
+        "find": "\u09a6\u09c1\u09b0\u09cd\u0997\u09be\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Kalmakanda Upazilla",
+        "find": "\u0995\u09b2\u09ae\u09be\u0995\u09be\u09a8\u09cd\u09a6\u09be"
+      },
+      {
+        "replace": "Madan Upazilla",
+        "find": "\u09ae\u09a6\u09a8"
+      },
+      {
+        "replace": "Mohanganj Upazilla",
+        "find": "\u09ae\u09cb\u09b9\u09a8\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Netrakona-S Upazilla",
+        "find": "\u09a8\u09c7\u09a4\u09cd\u09b0\u0995\u09cb\u09a8\u09be \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Purbadhala Upazilla",
+        "find": "\u09aa\u09c2\u09b0\u09cd\u09ac\u09a7\u09b2\u09be"
+      },
+      {
+        "replace": "Khaliajuri Upazilla",
+        "find": "\u0996\u09be\u09b2\u09bf\u09df\u09be\u099c\u09c1\u09b0\u09bf"
+      },
+      {
+        "replace": "Baliakandi",
+        "find": "\u09ac\u09be\u09b2\u09bf\u09df\u09be\u0995\u09be\u09a8\u09cd\u09a6\u09bf"
+      },
+      {
+        "replace": "Goalandaghat",
+        "find": "\u0997\u09cb\u09df\u09be\u09b2\u09a8\u09cd\u09a6 \u0998\u09be\u099f"
+      },
+      {
+        "replace": "Pangsha",
+        "find": "\u09aa\u09be\u0982\u09b6\u09be"
+      },
+      {
+        "replace": "Kalukhali",
+        "find": "\u0995\u09be\u09b2\u09c1\u0996\u09be\u09b2\u09bf"
+      },
+      {
+        "replace": "Rajbari Sadar",
+        "find": "\u09b0\u09be\u099c\u09ac\u09be\u09dc\u09bf \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Shariatpur Sadar -Palong",
+        "find": "\u09b6\u09b0\u09c0\u09df\u09a4\u09aa\u09c1\u09b0 \u09b8\u09a6\u09b0 "
+      },
+      {
+        "replace": "Damudya",
+        "find": "\u09a6\u09be\u09ae\u09c1\u09a6\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "Naria",
+        "find": "\u09a8\u09dc\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "Jajira",
+        "find": "\u099c\u09be\u099c\u09bf\u09b0\u09be"
+      },
+      {
+        "replace": "Bhedarganj",
+        "find": "\u09ad\u09c7\u09a6\u09be\u09b0\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Gosairhat",
+        "find": "\u0997\u09cb\u09b8\u09be\u0987\u09b0 \u09b9\u09be\u099f "
+      },
+      {
+        "replace": "Jhenaigati",
+        "find": "\u099d\u09bf\u09a8\u09be\u0987\u0997\u09be\u09a4\u09bf"
+      },
+      {
+        "replace": "Nakla",
+        "find": "\u09a8\u09be\u0995\u09b2\u09be"
+      },
+      {
+        "replace": "Nalitabari",
+        "find": "\u09a8\u09be\u09b2\u09bf\u09a4\u09be\u09ac\u09be\u09dc\u09bf"
+      },
+      {
+        "replace": "Sherpur Sadar",
+        "find": "\u09b6\u09c7\u09b0\u09aa\u09c1\u09b0 \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Sreebardi",
+        "find": "\u09b6\u09cd\u09b0\u09c0\u09ac\u09b0\u09a6\u09bf"
+      },
+      {
+        "replace": "Tangail Sadar",
+        "find": "\u099f\u09be\u0999\u09cd\u0997\u09be\u0987\u09b2 \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Sakhipur",
+        "find": "\u09b8\u0996\u09bf\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Basail",
+        "find": "\u09ac\u09b8\u09be\u0987\u09b2"
+      },
+      {
+        "replace": "Madhupur",
+        "find": "\u09ae\u09a7\u09c1\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Ghatail",
+        "find": "\u0998\u09be\u099f\u09be\u0987\u09b2"
+      },
+      {
+        "replace": "Kalihati",
+        "find": "\u0995\u09be\u09b2\u09bf\u09b9\u09be\u09a4\u09bf"
+      },
+      {
+        "replace": "Nagarpur",
+        "find": "\u09a8\u0997\u09b0\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Mirzapur",
+        "find": "\u09ae\u09bf\u09b0\u09cd\u099c\u09be\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Gopalpur",
+        "find": "\u0997\u09cb\u09aa\u09be\u09b2\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Delduar",
+        "find": "\u09a6\u09c7\u09b2\u09a6\u09c1\u09df\u09be\u09b0"
+      },
+      {
+        "replace": "Bhuapur",
+        "find": "\u09ad\u09c1\u09df\u09be\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Dhanbari",
+        "find": "\u09a7\u09be\u09a8\u09ac\u09be\u09dc\u09bf"
+      },
+      {
+        "replace": "Bagerhat Sadar",
+        "find": "\u09ac\u09be\u0997\u09c7\u09b0\u09b9\u09be\u099f \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Chitalmari",
+        "find": "\u099a\u09bf\u09a4\u09b2\u09ae\u09be\u09dc\u09bf"
+      },
+      {
+        "replace": "Fakirhat",
+        "find": "\u09ab\u0995\u09bf\u09b0\u09b9\u09be\u099f"
+      },
+      {
+        "replace": "Kachua",
+        "find": "\u0995\u099a\u09c1\u09df\u09be"
+      },
+      {
+        "replace": "Mollahat",
+        "find": "\u09ae\u09cb\u09b2\u09cd\u09b2\u09be\u09b9\u09be\u099f "
+      },
+      {
+        "replace": "Mongla",
+        "find": "\u09ae\u0982\u09b2\u09be"
+      },
+      {
+        "replace": "Morrelganj",
+        "find": "\u09ae\u09b0\u09c7\u09b2\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Rampal",
+        "find": "\u09b0\u09be\u09ae\u09aa\u09be\u09b2"
+      },
+      {
+        "replace": "Sarankhola",
+        "find": "\u09b8\u09cd\u09ae\u09b0\u09a3\u0996\u09cb\u09b2\u09be"
+      },
+      {
+        "replace": "Damurhuda",
+        "find": "\u09a6\u09be\u09ae\u09c1\u09b0\u09b9\u09c1\u09a6\u09be"
+      },
+      {
+        "replace": "Chuadanga-S",
+        "find": "\u099a\u09c1\u09df\u09be\u09a1\u09be\u0999\u09cd\u0997\u09be \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Jibannagar",
+        "find": "\u099c\u09c0\u09ac\u09a8 \u09a8\u0997\u09b0 "
+      },
+      {
+        "replace": "Alamdanga",
+        "find": "\u0986\u09b2\u09ae\u09a1\u09be\u0999\u09cd\u0997\u09be"
+      },
+      {
+        "replace": "Abhaynagar",
+        "find": "\u0985\u09ad\u09df\u09a8\u0997\u09b0"
+      },
+      {
+        "replace": "Keshabpur",
+        "find": "\u0995\u09c7\u09b6\u09ac\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Bagherpara",
+        "find": "\u09ac\u09be\u0998\u09c7\u09b0 \u09aa\u09be\u09dc\u09be "
+      },
+      {
+        "replace": "Jessore Sadar",
+        "find": "\u09af\u09b6\u09cb\u09b0 \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Chaugachha",
+        "find": "\u099a\u09cc\u0997\u09be\u099b\u09be"
+      },
+      {
+        "replace": "Manirampur",
+        "find": "\u09ae\u09a8\u09bf\u09b0\u09be\u09ae\u09aa\u09c1\u09b0 "
+      },
+      {
+        "replace": "Jhikargachha",
+        "find": "\u099d\u09bf\u0995\u09b0\u0997\u09be\u099b\u09be"
+      },
+      {
+        "replace": "Sharsha",
+        "find": "\u09b8\u09be\u09b0\u09b6\u09be"
+      },
+      {
+        "replace": "Jhenaidah Sadar",
+        "find": "\u099d\u09bf\u09a8\u09be\u0987\u09a6\u09b9 \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Maheshpur",
+        "find": "\u09ae\u09b9\u09c7\u09b6\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Kaliganj",
+        "find": "\u0995\u09be\u09b2\u09c0\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Kotchandpur",
+        "find": "\u0995\u09cb\u099f \u099a\u09be\u0981\u09a6\u09aa\u09c1\u09b0 "
+      },
+      {
+        "replace": "Shailkupa",
+        "find": "\u09b6\u09c8\u09b2\u0995\u09c1\u09aa\u09be"
+      },
+      {
+        "replace": "Harinakunda",
+        "find": "\u09b9\u09be\u09dc\u09bf\u09a8\u09be\u0995\u09c1\u09a8\u09cd\u09a6\u09be"
+      },
+      {
+        "replace": "Terokhada",
+        "find": "\u09a4\u09c7\u09b0\u09cb\u0996\u09be\u09a6\u09be"
+      },
+      {
+        "replace": "Batiaghata",
+        "find": "\u09ac\u09be\u099f\u09bf\u09df\u09be\u0998\u09be\u099f\u09be "
+      },
+      {
+        "replace": "Dacope",
+        "find": "\u09a1\u09be\u0995\u09aa\u09c7"
+      },
+      {
+        "replace": "Dumuria",
+        "find": "\u09a1\u09c1\u09ae\u09c1\u09b0\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "Dighalia",
+        "find": "\u09a6\u09bf\u0998\u09b2\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "Koyra",
+        "find": "\u0995\u09df\u09dc\u09be"
+      },
+      {
+        "replace": "Paikgachha",
+        "find": "\u09aa\u09be\u0987\u0995\u0997\u09be\u099b\u09be"
+      },
+      {
+        "replace": "Phultala",
+        "find": "\u09ab\u09c1\u09b2\u09a4\u09b2\u09be"
+      },
+      {
+        "replace": "Rupsa",
+        "find": "\u09b0\u09c2\u09aa\u09b8\u09be"
+      },
+      {
+        "replace": "Kushtia Sadar",
+        "find": "\u0995\u09c1\u09b7\u09cd\u099f\u09bf\u09df\u09be \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Kumarkhali",
+        "find": "\u0995\u09c1\u09ae\u09be\u09b0\u0996\u09be\u09b2\u09bf"
+      },
+      {
+        "replace": "Daulatpur",
+        "find": "\u09a6\u09cc\u09b2\u09a4\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Mirpur",
+        "find": "\u09ae\u09bf\u09b0\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Bheramara",
+        "find": "\u09ad\u09c7\u09b0\u09be\u09ae\u09be\u09b0\u09be"
+      },
+      {
+        "replace": "Khoksa",
+        "find": "\u0996\u09cb\u0995\u09b8\u09be"
+      },
+      {
+        "replace": "Magura Sadar",
+        "find": "\u09ae\u09be\u0997\u09c1\u09b0\u09be \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Mohammadpur",
+        "find": "\u09ae\u09cb\u09b9\u09be\u09ae\u09cd\u09ae\u09be\u09a6\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Shalikha",
+        "find": "\u09b6\u09be\u09b2\u09bf\u0996\u09be"
+      },
+      {
+        "replace": "Sreepur",
+        "find": "\u09b6\u09cd\u09b0\u09c0\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "angni",
+        "find": "\u0986\u0982\u09a8\u09bf"
+      },
+      {
+        "replace": "Mujib Nagar",
+        "find": "\u09ae\u09c1\u099c\u09bf\u09ac \u09a8\u0997\u09b0"
+      },
+      {
+        "replace": "Meherpur-S",
+        "find": "\u09ae\u09c7\u09b9\u09c7\u09b0\u09aa\u09c1\u09b0 \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Narail-S Upazilla",
+        "find": "\u09a8\u09dc\u09be\u0987\u09b2 \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Lohagara Upazilla",
+        "find": "\u09b2\u09cb\u09b9\u09be\u0997\u09be\u09dc\u09be"
+      },
+      {
+        "replace": "Kalia Upazilla",
+        "find": "\u0995\u09be\u09b2\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "Satkhira Sadar",
+        "find": "\u09b8\u09be\u09a4\u0995\u09cd\u09b7\u09c0\u09b0\u09be \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Assasuni",
+        "find": "\u0986\u09b8\u09b8\u09be\u09b6\u09c1\u09a8\u09bf "
+      },
+      {
+        "replace": "Debhata",
+        "find": "\u09a6\u09c7\u09ad\u09be\u099f\u09be"
+      },
+      {
+        "replace": "Tala",
+        "find": "\u09a4\u09be\u09b2\u09be"
+      },
+      {
+        "replace": "Kalaroa",
+        "find": "\u0995\u09b2\u09b0\u09cb\u09df\u09be"
+      },
+      {
+        "replace": "Kaliganj",
+        "find": "\u0995\u09be\u09b2\u09c0\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Shyamnagar",
+        "find": "\u09b6\u09cd\u09af\u09be\u09ae\u09a8\u0997\u09b0"
+      },
+      {
+        "replace": "Adamdighi",
+        "find": "\u0986\u09a6\u09ae\u09a6\u09bf\u0998\u09c0"
+      },
+      {
+        "replace": "Bogra Sadar",
+        "find": "\u09ac\u0997\u09c1\u09dc\u09be \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Sherpur",
+        "find": "\u09b6\u09c7\u09b0\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Dhunat",
+        "find": "\u09a7\u09c1\u09a8\u099f"
+      },
+      {
+        "replace": "Dhupchanchia",
+        "find": "\u09a6\u09c1\u09aa\u099a\u09be\u099a\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "Gabtali",
+        "find": "\u0997\u09be\u09ac\u09a4\u09b2\u09bf"
+      },
+      {
+        "replace": "Kahaloo",
+        "find": "\u0995\u09be\u09b9\u09be\u09b2\u09c1"
+      },
+      {
+        "replace": "Nandigram",
+        "find": "\u09a8\u09a8\u09cd\u09a6\u09bf\u0997\u09cd\u09b0\u09be\u09ae"
+      },
+      {
+        "replace": "Sahajanpur",
+        "find": "\u09b6\u09be\u09b9\u099c\u09be\u09b9\u09be\u09a8\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Sariakandi",
+        "find": "\u09b8\u09be\u09b0\u09bf\u09df\u09be\u0995\u09be\u09a8\u09cd\u09a6\u09bf"
+      },
+      {
+        "replace": "Shibganj",
+        "find": "\u09b6\u09bf\u09ac\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Sonatala",
+        "find": "\u09b8\u09cb\u09a8\u09be\u09a4\u09b2\u09be"
+      },
+      {
+        "replace": "Joypurhat S",
+        "find": "\u099c\u09df\u09aa\u09c1\u09b0\u09b9\u09be\u099f \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Akkelpur",
+        "find": "\u0986\u0995\u09cd\u0995\u09c7\u09b2\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Kalai",
+        "find": "\u0995\u09be\u09b2\u09be\u0987"
+      },
+      {
+        "replace": "Khetlal",
+        "find": "\u0996\u09c7\u09a4\u09b2\u09be\u09b2"
+      },
+      {
+        "replace": "Panchbibi",
+        "find": "\u09aa\u09be\u0981\u099a\u09ac\u09bf\u09ac\u09bf"
+      },
+      {
+        "replace": "Naogaon Sadar",
+        "find": "\u09a8\u0993\u0997\u09be\u0981 \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Mohadevpur",
+        "find": "\u09ae\u09b9\u09be\u09a6\u09c7\u09ac\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Manda",
+        "find": "\u09ae\u09be\u09a8\u09cd\u09a6\u09be"
+      },
+      {
+        "replace": "Niamatpur",
+        "find": "\u09a8\u09bf\u09df\u09be\u09ae\u09a4\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Atrai",
+        "find": "\u0986\u09a4\u09cd\u09b0\u09be\u0987"
+      },
+      {
+        "replace": "Raninagar",
+        "find": "\u09b0\u09be\u09a3\u09c0\u09a8\u0997\u09b0"
+      },
+      {
+        "replace": "Patnitala",
+        "find": "\u09aa\u09a4\u09cd\u09a8\u09c0\u09a4\u09b2\u09be"
+      },
+      {
+        "replace": "Dhamoirhat",
+        "find": "\u09a7\u09be\u09ae\u0987\u09b0\u09b9\u09be\u099f "
+      },
+      {
+        "replace": "Sapahar",
+        "find": "\u09b8\u09be\u09aa\u09be\u09b9\u09be\u09b0"
+      },
+      {
+        "replace": "Porsha",
+        "find": "\u09aa\u09cb\u09b0\u09b6\u09be"
+      },
+      {
+        "replace": "Badalgachhi",
+        "find": "\u09ac\u09a6\u09b2\u0997\u09be\u099b\u09bf"
+      },
+      {
+        "replace": "Natore Sadar",
+        "find": "\u09a8\u09be\u099f\u09cb\u09b0 \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Baraigram",
+        "find": "\u09ac\u09dc\u09be\u0987\u0997\u09cd\u09b0\u09be\u09ae"
+      },
+      {
+        "replace": "Bagatipara",
+        "find": "\u09ac\u09be\u0997\u09be\u09a4\u09bf\u09aa\u09be\u09dc\u09be"
+      },
+      {
+        "replace": "Lalpur",
+        "find": "\u09b2\u09be\u09b2\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Natore Sadar",
+        "find": "\u09a8\u09be\u099f\u09cb\u09b0 \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Baraigram",
+        "find": "\u09ac\u09dc\u09be\u0987 \u0997\u09cd\u09b0\u09be\u09ae"
+      },
+      {
+        "replace": "Bholahat",
+        "find": "\u09ad\u09cb\u09b2\u09be\u09b9\u09be\u099f"
+      },
+      {
+        "replace": "Gomastapur",
+        "find": "\u0997\u09cb\u09ae\u09b8\u09cd\u09a4\u09be\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Nachole",
+        "find": "\u09a8\u09be\u099a\u09cb\u09b2"
+      },
+      {
+        "replace": "Nawabganj Sadar",
+        "find": "\u09a8\u09ac\u09be\u09ac\u0997\u099e\u09cd\u099c \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Shibganj",
+        "find": "\u09b6\u09bf\u09ac\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Atgharia",
+        "find": "\u0986\u099f\u0998\u09b0\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "Bera",
+        "find": "\u09ac\u09c7\u09dc\u09be"
+      },
+      {
+        "replace": "Bhangura",
+        "find": "\u09ad\u09be\u0999\u09cd\u0997\u09c1\u09b0\u09be"
+      },
+      {
+        "replace": "Chatmohar",
+        "find": "\u099a\u09be\u099f\u09ae\u09cb\u09b9\u09b0"
+      },
+      {
+        "replace": "Faridpur",
+        "find": "\u09ab\u09b0\u09bf\u09a6\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Ishwardi",
+        "find": "\u0988\u09b6\u09cd\u09ac\u09b0\u09a6\u09c0"
+      },
+      {
+        "replace": "Pabna Sadar",
+        "find": "\u09aa\u09be\u09ac\u09a8\u09be \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Santhia",
+        "find": "\u09b8\u09be\u09a5\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "Sujanagar",
+        "find": "\u09b8\u09c1\u099c\u09be\u09a8\u0997\u09b0"
+      },
+      {
+        "replace": "Bagha",
+        "find": "\u09ac\u09be\u0998\u09be"
+      },
+      {
+        "replace": "Bagmara",
+        "find": "\u09ac\u09be\u0997\u09ae\u09be\u09b0\u09be"
+      },
+      {
+        "replace": "Charghat",
+        "find": "\u099a\u09be\u09b0\u0998\u09be\u099f"
+      },
+      {
+        "replace": "Durgapur",
+        "find": "\u09a6\u09c1\u09b0\u09cd\u0997\u09be\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Godagari",
+        "find": "\u0997\u09cb\u09a6\u09be\u0997\u09be\u09b0\u09bf"
+      },
+      {
+        "replace": "Mohanpur",
+        "find": "\u09ae\u09cb\u09b9\u09a8\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Paba",
+        "find": "\u09aa\u09ac\u09be"
+      },
+      {
+        "replace": "Puthia",
+        "find": "\u09aa\u09c1\u09a0\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "Tanore",
+        "find": "\u09a4\u09be\u09a8\u09cb\u09b0"
+      },
+      {
+        "replace": "Sirajganj Sadar",
+        "find": "\u09b8\u09bf\u09b0\u09be\u099c\u0997\u099e\u09cd\u099c \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Belkuchi",
+        "find": "\u09ac\u09c7\u09b2\u0995\u09c1\u099a\u09bf"
+      },
+      {
+        "replace": "Chauhali",
+        "find": "\u099a\u09cc\u09b9\u09be\u09b2\u09bf"
+      },
+      {
+        "replace": "Kamarkhanda",
+        "find": "\u0995\u09be\u09ae\u09be\u09b0\u0996\u09be\u09a8\u09cd\u09a6\u09be"
+      },
+      {
+        "replace": "Kazipur",
+        "find": "\u0995\u09be\u099c\u09c0\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Raiganj",
+        "find": "\u09b0\u09be\u09df\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Shahjadpur",
+        "find": "\u09b6\u09be\u09b9\u099c\u09be\u09a6\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Tarash",
+        "find": "\u09a4\u09be\u09b0\u09be\u09b6"
+      },
+      {
+        "replace": "Ullahpara",
+        "find": "\u0989\u09b2\u09cd\u09b2\u09be\u09aa\u09be\u09dc\u09be"
+      },
+      {
+        "replace": "Birampur",
+        "find": "\u09ac\u09bf\u09b0\u09be\u09ae\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Birganj",
+        "find": "\u09ac\u09c0\u09b0\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Biral",
+        "find": "\u09ac\u09bf\u09dc\u09be\u09b2"
+      },
+      {
+        "replace": "Bochaganj",
+        "find": "\u09ac\u09cb\u099a\u09be\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Chirirbandar",
+        "find": "\u099a\u09bf\u09b0\u09bf\u09b0\u09ac\u09a8\u09cd\u09a6\u09b0"
+      },
+      {
+        "replace": "Phulbari",
+        "find": "\u09ab\u09c1\u09b2\u09ac\u09be\u09dc\u09bf"
+      },
+      {
+        "replace": "Ghoraghat",
+        "find": "\u0998\u09cb\u09dc\u09be\u0998\u09be\u099f"
+      },
+      {
+        "replace": "Hakimpur",
+        "find": "\u09b9\u09be\u0995\u09bf\u09ae\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Kaharole",
+        "find": "\u0995\u09be\u09b9\u09be\u09b0\u09cb\u09b2"
+      },
+      {
+        "replace": "Khansama",
+        "find": "\u0996\u09be\u09a8\u09b8\u09be\u09ae\u09be"
+      },
+      {
+        "replace": "Dinajpur Sadar",
+        "find": "\u09a6\u09bf\u09a8\u09be\u099c\u09aa\u09c1\u09b0 \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Nawabganj",
+        "find": "\u09a8\u09ac\u09be\u09ac\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Parbatipur",
+        "find": "\u09aa\u09be\u09b0\u09cd\u09ac\u09a4\u09c0\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Fulchhari",
+        "find": "\u09ab\u09c1\u09b2\u099b\u09dc\u09bf"
+      },
+      {
+        "replace": "Gaibandha sadar",
+        "find": "\u0997\u09be\u0987\u09ac\u09be\u09a8\u09cd\u09a7\u09be \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Gobindaganj",
+        "find": "\u0997\u09cb\u09ac\u09bf\u09a8\u09cd\u09a6\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Palashbari",
+        "find": "\u09aa\u09b2\u09be\u09b6\u09ac\u09be\u09dc\u09c0"
+      },
+      {
+        "replace": "Sadullapur",
+        "find": "\u09b8\u09be\u09a6\u09c1\u09b2\u09cd\u09af\u09be\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Saghata",
+        "find": "\u09b8\u09be\u0998\u09be\u099f\u09be"
+      },
+      {
+        "replace": "Sundarganj",
+        "find": "\u09b8\u09c1\u09a8\u09cd\u09a6\u09b0\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Kurigram Sadar",
+        "find": "\u0995\u09c1\u09dc\u09bf\u0997\u09cd\u09b0\u09be\u09ae \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Nageshwari",
+        "find": "\u09a8\u09be\u0997\u09c7\u09b6\u09cd\u09ac\u09b0\u09c0"
+      },
+      {
+        "replace": "Bhurungamari",
+        "find": "\u09ad\u09c1\u09b0\u09c1\u0999\u09cd\u0997\u09be\u09ae\u09be\u09b0\u09bf"
+      },
+      {
+        "replace": "Phulbari",
+        "find": "\u09ab\u09c1\u09b2\u09ac\u09be\u09dc\u09bf"
+      },
+      {
+        "replace": "Rajarhat",
+        "find": "\u09b0\u09be\u099c\u09be\u09b0\u09b9\u09be\u099f"
+      },
+      {
+        "replace": "Ulipur",
+        "find": "\u0989\u09b2\u09bf\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Chilmari",
+        "find": "\u099a\u09bf\u09b2\u09ae\u09be\u09b0\u09bf"
+      },
+      {
+        "replace": "Rowmari",
+        "find": "\u09b0\u0989\u09ae\u09be\u09b0\u09bf"
+      },
+      {
+        "replace": "Char Rajibpur",
+        "find": "\u099a\u09b0 \u09b0\u09be\u099c\u09bf\u09ac\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Lalmanirhat Sadar",
+        "find": "\u09b2\u09be\u09b2\u09ae\u09a8\u09bf\u09b0\u09b9\u09be\u099f \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Aditmari",
+        "find": "\u0986\u09a6\u09bf\u09a4\u09ae\u09be\u09b0\u09bf"
+      },
+      {
+        "replace": "Kaliganj",
+        "find": "\u0995\u09be\u09b2\u09c0\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Hatibandha",
+        "find": "\u09b9\u09be\u09a4\u09bf\u09ac\u09be\u09a8\u09cd\u09a7\u09be"
+      },
+      {
+        "replace": "Patgram",
+        "find": "\u09aa\u09be\u099f\u0997\u09cd\u09b0\u09be\u09ae"
+      },
+      {
+        "replace": "Nilphamari Sadar",
+        "find": "\u09a8\u09c0\u09b2\u09ab\u09be\u09ae\u09be\u09b0\u09c0 \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Saidpur",
+        "find": "\u09b8\u09c8\u09df\u09a6\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Jaldhaka",
+        "find": "\u099c\u09b2\u09a2\u09be\u0995\u09be"
+      },
+      {
+        "replace": "Kishoreganj",
+        "find": "\u0995\u09bf\u09b6\u09cb\u09b0\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Domar",
+        "find": "\u09a1\u09cb\u09ae\u09be\u09b0"
+      },
+      {
+        "replace": "Dimla",
+        "find": "\u09a1\u09bf\u09ae\u09b2\u09be"
+      },
+      {
+        "replace": "Panchagarh Sadar",
+        "find": "\u09aa\u099e\u09cd\u099a\u0997\u09dc \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Debiganj",
+        "find": "\u09a6\u09c7\u09ac\u09c0\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Boda",
+        "find": "\u09ac\u09cb\u09a6\u09be"
+      },
+      {
+        "replace": "Atwari",
+        "find": "\u0986\u099f\u09cb\u09df\u09be\u09b0\u09bf"
+      },
+      {
+        "replace": "Tetulia",
+        "find": "\u09a4\u09c7\u09a4\u09c1\u09b2\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "Badarganj",
+        "find": "\u09ac\u09a6\u09b0\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Mithapukur",
+        "find": "\u09ae\u09bf\u09a0\u09be\u09aa\u09c1\u0995\u09c1\u09b0"
+      },
+      {
+        "replace": "Gangachara",
+        "find": "\u0997\u0999\u09cd\u0997\u09be\u099a\u09b0\u09be"
+      },
+      {
+        "replace": "Kaunia",
+        "find": "\u0995\u09be\u0989\u09a8\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "Rangpur Sadar",
+        "find": "\u09b0\u0982\u09aa\u09c1\u09b0 \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Pirgachha",
+        "find": "\u09aa\u09c0\u09b0\u0997\u09be\u099b\u09be"
+      },
+      {
+        "replace": "Pirganj",
+        "find": "\u09aa\u09c0\u09b0\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Taraganj",
+        "find": "\u09a4\u09be\u09b0\u09be\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Thakurgaon Sadar",
+        "find": "\u09a0\u09be\u0995\u09c1\u09b0\u0997\u09be\u0981\u0993 \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Pirganj",
+        "find": "\u09aa\u09c0\u09b0\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Baliadangi",
+        "find": "\u09ac\u09be\u09b2\u09bf\u09df\u09be\u09a1\u09be\u0999\u09cd\u0997\u09bf"
+      },
+      {
+        "replace": "Haripur",
+        "find": "\u09b9\u09b0\u09bf\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Ranisankail",
+        "find": "\u09b0\u09be\u09a3\u09c0\u09b8\u0982\u0995\u0987\u09b2"
+      },
+      {
+        "replace": "Ajmiriganj",
+        "find": "\u0986\u099c\u09ae\u09bf\u09b0\u09bf\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Baniachang",
+        "find": "\u09ac\u09be\u09a8\u09bf\u09df\u09be\u099a\u0982"
+      },
+      {
+        "replace": "Bahubal",
+        "find": "\u09ac\u09be\u09b9\u09c1\u09ac\u09b2"
+      },
+      {
+        "replace": "Chunarughat",
+        "find": "\u099a\u09c1\u09a8\u09be\u09b0\u09c1\u0998\u09be\u099f"
+      },
+      {
+        "replace": "Habiganj Sadar",
+        "find": "\u09b9\u09ac\u09bf\u0997\u099e\u09cd\u099c \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Lakhai",
+        "find": "\u09b2\u09be\u0995\u09cd\u09b7\u09be\u0987"
+      },
+      {
+        "replace": "Madhabpur",
+        "find": "\u09ae\u09be\u09a7\u09ac\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Nabiganj",
+        "find": "\u09a8\u09ac\u09c0\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Shaistagonj",
+        "find": "\u09b6\u09be\u09df\u09c7\u09b8\u09cd\u09a4\u09be\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Moulvibazar Sadar",
+        "find": "\u09ae\u09cc\u09b2\u09ad\u09c0\u09ac\u09be\u099c\u09be\u09b0"
+      },
+      {
+        "replace": "Barlekha",
+        "find": "\u09ac\u09dc\u09b2\u09c7\u0996\u09be"
+      },
+      {
+        "replace": "Juri",
+        "find": "\u099c\u09c1\u09dc\u09bf"
+      },
+      {
+        "replace": "Kamalganj",
+        "find": "\u0995\u09be\u09ae\u09be\u09b2\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Kulaura",
+        "find": "\u0995\u09c1\u09b2\u09be\u0989\u09b0\u09be"
+      },
+      {
+        "replace": "Rajnagar",
+        "find": "\u09b0\u09be\u099c\u09a8\u0997\u09b0"
+      },
+      {
+        "replace": "Sreemangal",
+        "find": "\u09b6\u09cd\u09b0\u09c0\u09ae\u0999\u09cd\u0997\u09b2"
+      },
+      {
+        "replace": "Bishwamvarpur",
+        "find": "\u09ac\u09bf\u09b8\u09b6\u09ae\u09cd\u09ad\u09be\u09b0\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Chhatak",
+        "find": "\u099b\u09be\u09a4\u0995"
+      },
+      {
+        "replace": "Derai",
+        "find": "\u09a6\u09c7\u09dc\u09be\u0987"
+      },
+      {
+        "replace": "Dharampasha",
+        "find": "\u09a7\u09b0\u09ae\u09aa\u09be\u09b6\u09be"
+      },
+      {
+        "replace": "Dowarabazar",
+        "find": "\u09a6\u09cb\u09df\u09be\u09b0\u09be\u09ac\u09be\u099c\u09be\u09b0"
+      },
+      {
+        "replace": "Jagannathpur",
+        "find": "\u099c\u0997\u09a8\u09cd\u09a8\u09be\u09a5\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Jamalganj",
+        "find": "\u099c\u09be\u09ae\u09be\u09b2\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Sulla",
+        "find": "\u09b8\u09c1\u09b2\u09cd\u09b2\u09be"
+      },
+      {
+        "replace": "Sunamganj Sadar",
+        "find": "\u09b8\u09c1\u09a8\u09be\u09ae\u0997\u099e\u09cd\u099c \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Shanthiganj",
+        "find": "\u09b6\u09be\u09a8\u09cd\u09a4\u09bf\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Tahirpur",
+        "find": "\u09a4\u09be\u09b9\u09bf\u09b0\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Sylhet Sadar",
+        "find": "\u09b8\u09bf\u09b2\u09c7\u099f \u09b8\u09a6\u09b0"
+      },
+      {
+        "replace": "Beanibazar",
+        "find": "\u09ac\u09c7\u09df\u09be\u09a8\u09bf\u09ac\u09be\u099c\u09be\u09b0"
+      },
+      {
+        "replace": "Bishwanath",
+        "find": "\u09ac\u09bf\u09b6\u09cd\u09ac\u09a8\u09be\u09a5"
+      },
+      {
+        "replace": "Dakshin Surma",
+        "find": "\u09a6\u0995\u09cd\u09b7\u09bf\u09a3 \u09b8\u09c1\u09b0\u09ae\u09be"
+      },
+      {
+        "replace": "Balaganj",
+        "find": "\u09ac\u09be\u09b2\u09be\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Companiganj",
+        "find": "\u0995\u09cb\u09ae\u09cd\u09aa\u09be\u09a8\u09bf\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Fenchuganj",
+        "find": "\u09ab\u09c7\u099e\u09cd\u099a\u09c1\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Golapganj",
+        "find": "\u0997\u09cb\u09b2\u09be\u09aa\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Gowainghat",
+        "find": "\u0997\u09cb\u09df\u09be\u0987\u09a8\u0998\u09be\u099f"
+      },
+      {
+        "replace": "Jaintiapur",
+        "find": "\u099c\u09df\u09a8\u09cd\u09a4\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Kanaighat",
+        "find": "\u0995\u09be\u09a8\u09be\u0987\u0998\u09be\u099f"
+      },
+      {
+        "replace": "Zakiganj",
+        "find": "\u099c\u09be\u0995\u09bf\u0997\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "Nobigonj",
+        "find": "\u09a8\u09ac\u09c0\u0997\u099e\u09cd\u099c"
+      }
+    ],
     "district": [
       {
         "replace": "Barguna",
