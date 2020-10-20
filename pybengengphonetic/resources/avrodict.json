@@ -1161,7 +1161,7 @@
       },
       {
         "replace": "Manirampur",
-        "find": "\u09ae\u09a8\u09bf\u09b0\u09be\u09ae\u09aa\u09c1\u09b0 "
+        "find": "\u09ae\u09a8\u09bf\u09b0\u09be\u09ae\u09aa\u09c1\u09b0"
       },
       {
         "replace": "Jhikargachha",
@@ -2589,7 +2589,7 @@
       },
       {
         "replace": "1",
-        "find": "ak"
+        "find": "১"
       },
       {
         "replace": "2",
