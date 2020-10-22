@@ -6,9 +6,10 @@ from pybengengphonetic import config
 
 
 # Constants
+NAMES = config.NAMES_DICT['data']['names']
 SUB_DISTRICT = config.AVRO_DICT['data']['sub_district']
 DISTRICT = config.AVRO_DICT['data']['district']
-PATTERNS = SUB_DISTRICT + DISTRICT + config.AVRO_DICT['data']['patterns']
+PATTERNS = NAMES + SUB_DISTRICT + DISTRICT + config.AVRO_DICT['data']['patterns']
 NON_RULE_PATTERNS = [p for p in PATTERNS if 'rules' not in p]
 RULE_PATTERNS = [p for p in PATTERNS if 'rules' in p]
 

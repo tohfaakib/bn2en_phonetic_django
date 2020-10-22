@@ -1,0 +1,5010 @@
+{
+  "data": {
+    "names": [
+      {
+        "replace": "Tahmina",
+        "find": "\u09a4\u09be\u09b9\u09ae\u09bf\u09a8\u09be"
+      },
+      {
+        "replace": "Akter",
+        "find": "\u0986\u0995\u09cd\u09a4\u09be\u09b0"
+      },
+      {
+        "replace": "MIRZA",
+        "find": "\u09ae\u09bf\u09b0\u09cd\u099c\u09be"
+      },
+      {
+        "replace": "MAHTAB",
+        "find": "\u09ae\u09be\u09b9\u09a4\u09be\u09ac"
+      },
+      {
+        "replace": "HASAN",
+        "find": "\u09b9\u09be\u09b8\u09be\u09a8"
+      },
+      {
+        "replace": "Amdidullah",
+        "find": "\u098f\u09ae\u09a6\u09be\u09a6\u09c1\u09b2\u09cd\u09b2\u09be\u09b9"
+      },
+      {
+        "replace": "SHARMIN",
+        "find": "\u09b6\u09be\u09b0\u09ae\u09bf\u09a8"
+      },
+      {
+        "replace": "AFROZ",
+        "find": "\u0986\u09ab\u09b0\u09cb\u099c"
+      },
+      {
+        "replace": "ABID",
+        "find": "\u0986\u09ac\u09bf\u09a6"
+      },
+      {
+        "replace": "HOSSAIN",
+        "find": "\u09b9\u09cb\u09b8\u09be\u0987\u09a8"
+      },
+      {
+        "replace": "Muhammad",
+        "find": "\u09ae\u09c1\u09b9\u09be\u09ae\u09cd\u09ae\u09be\u09a6"
+      },
+      {
+        "replace": "Omar",
+        "find": "\u0993\u09ae\u09b0"
+      },
+      {
+        "replace": "F",
+        "find": "\u09ab\u09be\u09b0\u09c1\u0995"
+      },
+      {
+        "replace": "aruk",
+        "find": "\u09ac\u09bf\u09b6\u09cd\u09ac\u09be\u09b8"
+      },
+      {
+        "replace": "MD.",
+        "find": "\u09ae\u09cb\u0983"
+      },
+      {
+        "replace": "FAZLE",
+        "find": "\u09ab\u099c\u09b2\u09c7"
+      },
+      {
+        "replace": "RABBE",
+        "find": "\u09b0\u09be\u09ac\u09cd\u09ac\u09bf"
+      },
+      {
+        "replace": "KHAN",
+        "find": "\u0996\u09be\u09a8"
+      },
+      {
+        "replace": "DR.",
+        "find": "\u09a1\u09be\u0983"
+      },
+      {
+        "replace": "MST.",
+        "find": "\u09ae\u09cb\u099b\u09be\u0983"
+      },
+      {
+        "replace": "MAZEDA",
+        "find": "\u09ae\u09be\u099c\u09c7\u09a6\u09be"
+      },
+      {
+        "replace": "BEGUM",
+        "find": "\u09ac\u09c7\u0997\u09ae"
+      },
+      {
+        "replace": "LOVELY",
+        "find": "\u09b2\u09be\u09ad\u09b2\u09c0"
+      },
+      {
+        "replace": "ROZA",
+        "find": "\u0995\u09b0\u09cb\u099c\u09be"
+      },
+      {
+        "replace": "AKTER",
+        "find": "\u0986\u0995\u09cd\u09a4\u09be\u09b0"
+      },
+      {
+        "replace": "JASHIM",
+        "find": "\u099c\u09b8\u09c0\u09ae"
+      },
+      {
+        "replace": "UDDIN",
+        "find": "\u0989\u09a6\u09cd\u09a6\u09c0\u09a8"
+      },
+      {
+        "replace": "KOHENOOR",
+        "find": "\u0995\u09b9\u09bf\u09a8\u09c1\u09b0"
+      },
+      {
+        "replace": "RASEL",
+        "find": "\u09b0\u09be\u09b8\u09c7\u09b2"
+      },
+      {
+        "replace": "HOSSEN",
+        "find": "\u09b9\u09cb\u09b8\u09c7\u09a8"
+      },
+      {
+        "replace": "ABU",
+        "find": "\u0986\u09ac\u09c1"
+      },
+      {
+        "replace": "BAKKAR",
+        "find": "\u09ac\u0995\u09b0"
+      },
+      {
+        "replace": "SIDDIK",
+        "find": "\u099b\u09bf\u09a6\u09cd\u09a6\u09bf\u0995"
+      },
+      {
+        "replace": "IMD.",
+        "find": "\u09ae\u09cb\u0983"
+      },
+      {
+        "replace": "RAJU",
+        "find": "\u09b0\u09be\u099c\u09c1"
+      },
+      {
+        "replace": "AHMED",
+        "find": "\u0986\u09b9\u09ae\u09c7\u09a6"
+      },
+      {
+        "replace": "MUHAMMAD",
+        "find": "\u09ae\u09c1\u09b9\u09be\u09ae\u09be\u09a6"
+      },
+      {
+        "replace": "SALAUDDIN",
+        "find": "\u09b8\u09be\u09b2\u09be\u0989\u09a6\u09cd\u09a6\u09bf\u09a8"
+      },
+      {
+        "replace": "SABBIR",
+        "find": "\u09b8\u09be\u09ac\u09cd\u09ac\u09bf\u09b0"
+      },
+      {
+        "replace": "Md",
+        "find": "\u09ae\u09cb\u0983"
+      },
+      {
+        "replace": "Sultan",
+        "find": "\u09b8\u09c1\u09b2\u09a4\u09be\u09a8"
+      },
+      {
+        "replace": "Fokir",
+        "find": "\u09ab\u0995\u09bf\u09b0"
+      },
+      {
+        "replace": "MD.ABU",
+        "find": "\u09ae\u09cb\u0983"
+      },
+      {
+        "replace": "BAKAR",
+        "find": "\u0986\u09ac\u09c1"
+      },
+      {
+        "replace": "Md.",
+        "find": "\u09ae\u09cb\u0983"
+      },
+      {
+        "replace": "Mahade",
+        "find": "\u09ae\u09c7\u09b9\u09c7\u09a6\u09c0"
+      },
+      {
+        "replace": "Hasan",
+        "find": "\u09b9\u09be\u09b8\u09be\u09a8"
+      },
+      {
+        "replace": "Rabiul",
+        "find": "\u09b0\u09ac\u09bf\u0989\u09b2"
+      },
+      {
+        "replace": "Islam",
+        "find": "\u0987\u09b8\u09b2\u09be\u09ae"
+      },
+      {
+        "replace": "FIROZ",
+        "find": "\u09ab\u09bf\u09b0\u09cb\u099c"
+      },
+      {
+        "replace": "Mahbub",
+        "find": "\u09ae\u09be\u09b9\u09ac\u09c1\u09ac"
+      },
+      {
+        "replace": "Alam",
+        "find": "\u0986\u09b2\u09ae"
+      },
+      {
+        "replace": "Abdur",
+        "find": "\u0986\u09ac\u09a6\u09c1\u09b0"
+      },
+      {
+        "replace": "Rajjak",
+        "find": "\u09b0\u09be\u099c\u09cd\u099c\u09be\u0995"
+      },
+      {
+        "replace": "RUHUL",
+        "find": "\u09b0\u09c1\u099a\u09c1\u09b2"
+      },
+      {
+        "replace": "AMIN",
+        "find": "\u0986\u09ae\u09bf\u09a8"
+      },
+      {
+        "replace": "Abdul",
+        "find": "\u0986\u09ac\u09cd\u09a6\u09c1\u09b2"
+      },
+      {
+        "replace": "Haque",
+        "find": "\u09b9\u0995"
+      },
+      {
+        "replace": "ABDULLAH",
+        "find": "\u0986\u09ac\u09cd\u09a6\u09c1\u09b2\u09cd\u09b2\u09be\u09b9"
+      },
+      {
+        "replace": "AL",
+        "find": "\u0986\u09b2"
+      },
+      {
+        "replace": "SHABIR",
+        "find": "\u09b6\u09be\u09ac\u09bf\u09b0"
+      },
+      {
+        "replace": "Taraq",
+        "find": "\u09a4\u09be\u09b0\u0995"
+      },
+      {
+        "replace": "Nath",
+        "find": "\u09a8\u09be\u09a5"
+      },
+      {
+        "replace": "Podder",
+        "find": "\u09aa\u09cb\u09a6\u09cd\u09a6\u09be\u09b0"
+      },
+      {
+        "replace": "AFROGA",
+        "find": "\u0986\u09ab\u09b0\u09cb\u099c\u09be"
+      },
+      {
+        "replace": "Jahurul",
+        "find": "\u099c\u09b9\u09c1\u09b0\u09c1\u09b2"
+      },
+      {
+        "replace": "Abdulla",
+        "find": "\u0986\u09ac\u09cd\u09a6\u09c1\u09b2\u09cd\u09b2\u09be\u09b9\u09c1"
+      },
+      {
+        "replace": "Al",
+        "find": "\u0986\u09b2"
+      },
+      {
+        "replace": "Faishal",
+        "find": "\u09ab\u09df\u09b8\u09be\u09b2"
+      },
+      {
+        "replace": "lame",
+        "find": "\u09a4\u09be\u09b0\u09c7\u0995"
+      },
+      {
+        "replace": "TAREQUE",
+        "find": "\u09ae\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "Nurjahan",
+        "find": "\u09a8\u09c1\u09b0\u099c\u09be\u09b9\u09be\u09a8"
+      },
+      {
+        "replace": "ZAHID",
+        "find": "\u099c\u09be\u09b9\u09bf\u09a6"
+      },
+      {
+        "replace": "HASSAN",
+        "find": "\u09b9\u09be\u09b8\u09be\u09a8"
+      },
+      {
+        "replace": "NAHID",
+        "find": "\u09a8\u09be\u09b9\u09bf\u09a6"
+      },
+      {
+        "replace": "Ainuddin",
+        "find": "\u0986\u0987\u09a8\u09c1\u09a6\u09cd\u09a6\u09c0\u09a8"
+      },
+      {
+        "replace": "ABDUL",
+        "find": "\u0986\u09ac\u09cd\u09a6\u09c1\u09b2"
+      },
+      {
+        "replace": "KHALAQ",
+        "find": "\u0996\u09be\u09b2\u09c7\u0995"
+      },
+      {
+        "replace": "MOSADDEQ",
+        "find": "\u09ae\u09cb\u09b8\u09be\u09a6\u09cd\u09a6\u09c7\u0995"
+      },
+      {
+        "replace": "Samsur",
+        "find": "\u09b6\u09be\u09ae\u09b8\u09c1\u09b0"
+      },
+      {
+        "replace": "Rahmman",
+        "find": "\u09b0\u09b9\u09ae\u09be\u09a8"
+      },
+      {
+        "replace": "PALIAKTER",
+        "find": "\u09aa\u09b2\u09bf"
+      },
+      {
+        "replace": "HASIBUL",
+        "find": "\u09b9\u09be\u09b8\u09bf\u09ac\u09c1\u09b2"
+      },
+      {
+        "replace": "SHANTO",
+        "find": "\u09b6\u09be\u09a8\u09cd\u09a4"
+      },
+      {
+        "replace": "Tanzila",
+        "find": "\u09a4\u09be\u09a8\u099c\u09bf\u09b2\u09be"
+      },
+      {
+        "replace": "Khanom",
+        "find": "\u0996\u09be\u09a8\u09ae"
+      },
+      {
+        "replace": "Mou",
+        "find": "\u09ae\u09cc"
+      },
+      {
+        "replace": "SHARIF",
+        "find": "\u09b6\u09b0\u09c0\u09ab"
+      },
+      {
+        "replace": "MIAH",
+        "find": "\u09ae\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "Mahabub",
+        "find": "\u09ae\u09be\u09b9\u09ac\u09c1\u09ac"
+      },
+      {
+        "replace": "Hossain",
+        "find": "\u09b9\u09b8\u09be\u0987\u09a8"
+      },
+      {
+        "replace": "MUNNA",
+        "find": "\u09ae\u09c1\u09a8\u09cd\u09a8\u09be"
+      },
+      {
+        "replace": "RUKSANA",
+        "find": "\u09b0\u09cb\u0995\u09b8\u09be\u09a8\u09be"
+      },
+      {
+        "replace": "Begum",
+        "find": "\u09ac\u09c7\u0997\u09ae"
+      },
+      {
+        "replace": "BABLY",
+        "find": "\u09ac\u09be\u09ac\u09b2\u09c0"
+      },
+      {
+        "replace": "HAQUE",
+        "find": "\u09b9\u0995"
+      },
+      {
+        "replace": "Masum",
+        "find": "\u09ae\u09be\u099b\u09c1\u099e\u09cd\u099c\u09c1\u09ae"
+      },
+      {
+        "replace": "Masba",
+        "find": "\u09ae\u09c7\u09b8\u09ac\u09be"
+      },
+      {
+        "replace": "MONOZAKHATUN",
+        "find": "\u09ae\u09a8\u099c\u09be"
+      },
+      {
+        "replace": "ATOWAR",
+        "find": "\u0986\u09a4\u09cb\u09df\u09be\u09b0"
+      },
+      {
+        "replace": "RAHMAN",
+        "find": "\u09b0\u09b9\u09ae\u09be\u09a8"
+      },
+      {
+        "replace": "AMIRIHASAN",
+        "find": "\u0985\u09ae\u09bf\u09a4"
+      },
+      {
+        "replace": "SAIDI",
+        "find": "\u09b9\u09be\u09b8\u09be\u09a8"
+      },
+      {
+        "replace": "MD",
+        "find": "\u09ae\u09cb\u0983"
+      },
+      {
+        "replace": "MONIR",
+        "find": "\u09ae\u09a8\u09bf\u09b0"
+      },
+      {
+        "replace": "HOSEN",
+        "find": "\u09b9\u09cb\u09b8\u09c7\u09a8"
+      },
+      {
+        "replace": "FARUK",
+        "find": "\u09ab\u09be\u09b0\u09c1\u0995"
+      },
+      {
+        "replace": "CHOWDHURY",
+        "find": "\u099a\u09cc\u09a7\u09c1\u09b0\u09c0"
+      },
+      {
+        "replace": "NUR",
+        "find": "\u09a8\u09c1\u09b0"
+      },
+      {
+        "replace": "MOHAMMAD",
+        "find": "\u09ae\u09cb\u09b9\u09be\u09ae\u09cd\u09ae\u09a6"
+      },
+      {
+        "replace": "RAZU",
+        "find": "\u09b0\u09be\u099c\u09c1"
+      },
+      {
+        "replace": "Jotsna",
+        "find": "\u099c\u09cb\u09ce\u09a8\u09cd\u09b8\u09be"
+      },
+      {
+        "replace": "MOSTAFIZUR",
+        "find": "\u09ae\u09cb\u09b8\u09cd\u09a4\u09be\u09ab\u09bf\u099c\u09c1\u09b0"
+      },
+      {
+        "replace": "MAMUN",
+        "find": "\u09ae\u09be\u09ae\u09c1\u09a8"
+      },
+      {
+        "replace": "BAPPI",
+        "find": "\u09ac\u09be\u09aa\u09cd\u09aa\u09c0"
+      },
+      {
+        "replace": "CHANDRA",
+        "find": "\u099a\u09a8\u09cd\u09a6\u09cd\u09b0"
+      },
+      {
+        "replace": "SHIL",
+        "find": "\u09b6\u09c0\u09b2"
+      },
+      {
+        "replace": "NURE",
+        "find": "\u09a8\u09c1\u09b0\u09c7"
+      },
+      {
+        "replace": "ALAM",
+        "find": "\u0986\u09b2\u09ae"
+      },
+      {
+        "replace": "SIDDIqUT",
+        "find": "\u09b8\u09bf\u09a6\u09cd\u09a6\u09bf\u0995\u09c0"
+      },
+      {
+        "replace": "Tarek",
+        "find": "\u09a4\u09be\u09b0\u09c7\u0995"
+      },
+      {
+        "replace": "Siddiki",
+        "find": "\u09b8\u09bf\u09a6\u09cd\u09a6\u09bf\u0995\u09c0"
+      },
+      {
+        "replace": "SALINA",
+        "find": "\u09b8\u09c7\u09b2\u09bf\u09a8\u09be"
+      },
+      {
+        "replace": "SARKAR",
+        "find": "\u09b8\u09b0\u0995\u09be\u09b0"
+      },
+      {
+        "replace": "MSTAFROZA",
+        "find": "\u09ae\u09cb\u09b8\u09be\u0983"
+      },
+      {
+        "replace": "Mohammod",
+        "find": "\u09ae\u09cb\u09b9\u09be\u09ae\u09cd\u09ae\u09a6"
+      },
+      {
+        "replace": "Mosaddek",
+        "find": "\u09ae\u09cb\u09b8\u09be\u09a6\u09c7\u0995"
+      },
+      {
+        "replace": "Rohman",
+        "find": "\u09b0\u09b9\u09ae\u09be\u09a8"
+      },
+      {
+        "replace": "none",
+        "find": "none"
+      },
+      {
+        "replace": "Nazrul",
+        "find": "\u09a8\u099c\u09b0\u09c1\u09b2"
+      },
+      {
+        "replace": "Mosharaf",
+        "find": "\u09ae\u09cb\u09b6\u09be\u09b0\u09b0\u09ab"
+      },
+      {
+        "replace": "Farajee",
+        "find": "\u09ab\u09b0\u09be\u099c\u09c0"
+      },
+      {
+        "replace": "B",
+        "find": "\u09ac\u09bf"
+      },
+      {
+        "replace": "M",
+        "find": "\u098f\u09ae"
+      },
+      {
+        "replace": "Arif",
+        "find": "\u0986\u09b0\u09bf\u09ab"
+      },
+      {
+        "replace": "Istiauque",
+        "find": "\u0987\u09b8\u09a4\u09bf\u09df\u09be\u0995"
+      },
+      {
+        "replace": "Parves",
+        "find": "\u09aa\u09be\u09b0\u09ad\u09c7\u099c"
+      },
+      {
+        "replace": "Pranto",
+        "find": "\u09aa\u09cd\u09b0\u09be\u09a8\u09cd\u09a4"
+      },
+      {
+        "replace": "MAHMUDUL",
+        "find": "\u09ae\u09be\u09b9\u09ae\u09c1\u09a6\u09c1\u09b2"
+      },
+      {
+        "replace": "SHAH",
+        "find": "\u09b6\u09be\u09b9"
+      },
+      {
+        "replace": "Saiful",
+        "find": "\u09b8\u09be\u0987\u09ab\u09c1\u09b2"
+      },
+      {
+        "replace": "Russell",
+        "find": "\u09b0\u09be\u09b8\u09c7\u09b2"
+      },
+      {
+        "replace": "Uddin",
+        "find": "\u0989\u09a6\u09cd\u09a6\u09bf\u09a8"
+      },
+      {
+        "replace": "Dhali",
+        "find": "\u09a2\u09be\u09b2\u09c0"
+      },
+      {
+        "replace": "SALMA",
+        "find": "\u09b8\u09be\u09b2\u09ae\u09be"
+      },
+      {
+        "replace": "UMME",
+        "find": "\u0989\u09ae\u09cb"
+      },
+      {
+        "replace": "KULSUM",
+        "find": "\u0995\u09c1\u09b2\u099b\u09c1\u09ae"
+      },
+      {
+        "replace": "MA",
+        "find": "\u09ae\u099c\u09c1\u09ae\u09a6\u09be\u09b0"
+      },
+      {
+        "replace": "Mst.",
+        "find": "\u09ae\u09cb\u09b8\u09be\u0983"
+      },
+      {
+        "replace": "Taslima",
+        "find": "\u09a4\u09be\u09b8\u09b2\u09bf\u09ae\u09be"
+      },
+      {
+        "replace": "HASANUZZAMAN",
+        "find": "\u09b9\u09be\u09b8\u09be\u09a8\u09c1\u099c\u09cd\u099c\u09be\u09ae\u09be\u09a8"
+      },
+      {
+        "replace": "HARUNOR",
+        "find": "\u09b9\u09be\u09b0\u09c1\u09a8\u09b0"
+      },
+      {
+        "replace": "RASHID",
+        "find": "\u09b0\u09b6\u09c0\u09a6"
+      },
+      {
+        "replace": "SHAHINA",
+        "find": "\u09b6\u09be\u09b9\u09bf\u09a8\u09be"
+      },
+      {
+        "replace": "ABDUR",
+        "find": "\u0986\u09ac\u09cd\u09a6\u09c1\u09b0"
+      },
+      {
+        "replace": "RAur",
+        "find": "\u09b0\u0989\u09ab"
+      },
+      {
+        "replace": "BULBUL",
+        "find": "\u09ac\u09c1\u09b2\u09ac\u09c1\u09b2"
+      },
+      {
+        "replace": "Imran",
+        "find": "\u0987\u09ae\u09b0\u09be\u09a8"
+      },
+      {
+        "replace": "Munni",
+        "find": "\u09ae\u09c1\u09a8\u09cd\u09a8\u09bf"
+      },
+      {
+        "replace": "IPARVEJ",
+        "find": "\u09aa\u09be\u09b0\u09ad\u09c7\u099c"
+      },
+      {
+        "replace": "RALIJAN",
+        "find": "\u09b0\u09ae\u099c\u09be\u09a8"
+      },
+      {
+        "replace": "ALI",
+        "find": "\u0986\u09b2\u09c0"
+      },
+      {
+        "replace": "RABEYA",
+        "find": "\u09b0\u09be\u09ac\u09c7\u09df\u09be"
+      },
+      {
+        "replace": "POLI",
+        "find": "\u09aa\u09b2\u09bf"
+      },
+      {
+        "replace": "KHALEDAPARVIN",
+        "find": "\u0996\u09be\u09b2\u09c7\u09a6\u09be"
+      },
+      {
+        "replace": "Main",
+        "find": "\u09ae\u09be\u0987\u09a8"
+      },
+      {
+        "replace": "Rony",
+        "find": "\u09b0\u09a8\u09bf"
+      },
+      {
+        "replace": "KOWSar",
+        "find": "\u0995\u09be\u0993\u099b\u09be\u09b0"
+      },
+      {
+        "replace": "ABDULL",
+        "find": "\u0986\u09a8\u09c1\u09b8\u09cd\u09a4\u09be\u09b9"
+      },
+      {
+        "replace": "Milon",
+        "find": "\u09ae\u09bf\u09b2\u09a8"
+      },
+      {
+        "replace": "Shekh",
+        "find": "\u09b6\u09c7\u0996"
+      },
+      {
+        "replace": "SOLAYMAN",
+        "find": "\u09b8\u09cb\u09b2\u09be\u09df\u09ae\u09be\u09a8"
+      },
+      {
+        "replace": "SHIKDER",
+        "find": "\u09b8\u09bf\u0995\u09a6\u09be\u09b0"
+      },
+      {
+        "replace": "SHUVO",
+        "find": "\u09b6\u09c1\u09ad"
+      },
+      {
+        "replace": "FARHAD",
+        "find": "\u09ab\u09b0\u09b9\u09be\u09a6"
+      },
+      {
+        "replace": "B.",
+        "find": "\u09ac\u09bf"
+      },
+      {
+        "replace": "MI",
+        "find": "\u098f\u09ae"
+      },
+      {
+        "replace": "MAHRUF",
+        "find": "\u09ae\u09be\u09b0\u09c1\u09ab"
+      },
+      {
+        "replace": "RAHAMAN",
+        "find": "\u09b0\u09b9\u09ae\u09be\u09a8"
+      },
+      {
+        "replace": "RINKU",
+        "find": "\u09b0\u09bf\u0982\u0995\u09c1"
+      },
+      {
+        "replace": "KIBRIA",
+        "find": "\u0995\u09bf\u09ac\u09b0\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "LIPI",
+        "find": "\u09b2\u09bf\u09aa\u09bf"
+      },
+      {
+        "replace": "PARVIN",
+        "find": "\u09aa\u09be\u09b0\u09ad\u09bf\u09a8"
+      },
+      {
+        "replace": "MONIRUL",
+        "find": "\u09ae\u09a8\u09bf\u09b0\u09c1\u09b2"
+      },
+      {
+        "replace": "ISLAM",
+        "find": "\u0987\u09b8\u09b2\u09be\u09ae"
+      },
+      {
+        "replace": "AMIRUL",
+        "find": "\u0986\u09ae\u09bf\u09b0\u09c1\u09b2"
+      },
+      {
+        "replace": "SHEIKH",
+        "find": "\u09b6\u09c7\u0996"
+      },
+      {
+        "replace": "FATEMA",
+        "find": "\u09ab\u09be\u09a4\u09c7\u09ae\u09be"
+      },
+      {
+        "replace": "NIGAR",
+        "find": "\u09a8\u09bf\u0997\u09be\u09b0"
+      },
+      {
+        "replace": "SULTANA",
+        "find": "\u09b8\u09c1\u09b2\u09a4\u09be\u09a8\u09be"
+      },
+      {
+        "replace": "UZZAL",
+        "find": "\u0989\u099a\u09cd\u09a1\u09b2"
+      },
+      {
+        "replace": "Arizul",
+        "find": "\u0986\u09b0\u09bf\u099c\u09c1\u09b2"
+      },
+      {
+        "replace": "Mominur",
+        "find": "\u09ae\u09ae\u09bf\u09a8\u09c1\u09b0"
+      },
+      {
+        "replace": "Rahman",
+        "find": "\u09b0\u09b9\u09ae\u09be\u09a8"
+      },
+      {
+        "replace": "Rafiqul",
+        "find": "\u09b0\u09ab\u09bf\u0995\u09c1\u09b2"
+      },
+      {
+        "replace": "Motaleb",
+        "find": "\u09ae\u09cb\u09a4\u09be\u09b2\u09c7\u09ac"
+      },
+      {
+        "replace": "SAIFUL",
+        "find": "\u09b8\u09be\u0987\u09ab\u09c1\u09b2"
+      },
+      {
+        "replace": "Md.Shipon",
+        "find": "\u09ae\u09cb\u0983"
+      },
+      {
+        "replace": "Miah",
+        "find": "\u09b6\u09bf\u09aa\u09a8"
+      },
+      {
+        "replace": "Shamima",
+        "find": "\u09b6\u09be\u09ae\u09c0\u09ae\u09be"
+      },
+      {
+        "replace": "Nasrin",
+        "find": "\u09a8\u09be\u09b8\u09b0\u09bf\u09a8"
+      },
+      {
+        "replace": "BIN",
+        "find": "\u0986\u09b8\u09be\u09a6"
+      },
+      {
+        "replace": "ASAD",
+        "find": "\u09b8\u09bf\u09df\u09be\u09ae"
+      },
+      {
+        "replace": "KABIR",
+        "find": "\u0995\u09ac\u09bf\u09b0"
+      },
+      {
+        "replace": "FARDOUS",
+        "find": "\u09ab\u09c7\u09b0\u09a6\u09cc\u09b8"
+      },
+      {
+        "replace": "SHADHIN",
+        "find": "\u09b8\u09cd\u09ac\u09be\u09a7\u09c0\u09a8"
+      },
+      {
+        "replace": "I",
+        "find": "\u09ae\u09cb\u0983"
+      },
+      {
+        "replace": "ASHRAF",
+        "find": "\u09b9\u09cb\u09b8\u09c7\u09a8"
+      },
+      {
+        "replace": "SHAHIN",
+        "find": "\u09b6\u09be\u09b9\u09c0\u09a8"
+      },
+      {
+        "replace": "Shamsunnaher",
+        "find": "\u09b8\u09be\u09ae\u099b\u09c1\u09a8\u09cd\u09a8\u09be\u09b9\u09be\u09b0"
+      },
+      {
+        "replace": "Akash",
+        "find": "\u0986\u0995\u09be\u09b6"
+      },
+      {
+        "replace": "Raqiet",
+        "find": "\u09b0\u0995\u09cd\u09b7\u09bf\u09a4"
+      },
+      {
+        "replace": "AMDAD",
+        "find": "\u098f\u09ae\u09a6\u09be\u09a6"
+      },
+      {
+        "replace": "SONA",
+        "find": "\u09b8\u09cb\u09a8\u09be"
+      },
+      {
+        "replace": "Ataur",
+        "find": "\u0986\u09a4\u09be\u0989\u09b0"
+      },
+      {
+        "replace": "Shahida",
+        "find": "\u09b8\u09b9\u09bf\u09a6\u09be"
+      },
+      {
+        "replace": "TANVIR",
+        "find": "\u09a4\u09be\u09a8\u09ad\u09c0\u09b0"
+      },
+      {
+        "replace": "ISAIDUZZAMAN",
+        "find": "\u09b8\u09be\u0987\u09a6\u09c1\u099c\u09cd\u099c\u09be\u09ae\u09be\u09a8"
+      },
+      {
+        "replace": "NABID",
+        "find": "\u09a8\u09be\u09b9\u09bf\u09a6"
+      },
+      {
+        "replace": "MASUM",
+        "find": "\u09ae\u09be\u09b8\u09c1\u09ae"
+      },
+      {
+        "replace": "REZA",
+        "find": "\u09b0\u09c7\u099c\u09be"
+      },
+      {
+        "replace": "TAHMID",
+        "find": "\u09a4\u09be\u09b9\u09ae\u09bf\u09a6"
+      },
+      {
+        "replace": "TANHIM",
+        "find": "\u09a4\u09be\u09a8\u09b9\u09bf\u09ae"
+      },
+      {
+        "replace": "Ibrahim",
+        "find": "\u0987\u09b0\u09be\u09b9\u09bf\u09ae"
+      },
+      {
+        "replace": "Hosen",
+        "find": "\u09b9\u09cb\u09b8\u09c7\u09a8"
+      },
+      {
+        "replace": "MUFTADIA",
+        "find": "\u09ae\u09c1\u09ab\u09a4\u09be\u09a6\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "RIDAD",
+        "find": "\u09b0\u09bf\u09a6\u09be\u09a6"
+      },
+      {
+        "replace": "MIME",
+        "find": "\u09ae\u09bf\u09ae\u09bf"
+      },
+      {
+        "replace": "ASJFUR",
+        "find": "\u0986\u09b8\u09bf\u09ab\u09c1\u09b0"
+      },
+      {
+        "replace": "CHOWADHURY",
+        "find": "\u099a\u09cc\u09a7\u09c1\u09b0\u09c0"
+      },
+      {
+        "replace": "MIZANUR",
+        "find": "\u09ae\u09bf\u099c\u09be\u09a8\u09c1\u09b0"
+      },
+      {
+        "replace": "Sabbir",
+        "find": "\u0986\u09b9\u09ae\u09c7\u09be\u09a6"
+      },
+      {
+        "replace": "Ahammed",
+        "find": "\u09a4\u09be\u09b2\u09c1\u0995\u09a6\u09be\u09b0"
+      },
+      {
+        "replace": "Jaseng",
+        "find": "\u099c\u09be\u09b8\u09c7\u0982"
+      },
+      {
+        "replace": "Raksham",
+        "find": "\u09b0\u09be\u0995\u09b8\u09be\u09ae"
+      },
+      {
+        "replace": "ALEYA",
+        "find": "\u0986\u09b2\u09c7\u09df\u09be"
+      },
+      {
+        "replace": "Shamim",
+        "find": "\u09b6\u09be\u09ae\u09c0\u09ae"
+      },
+      {
+        "replace": "Kazi",
+        "find": "\u0995\u09be\u099c\u09c0"
+      },
+      {
+        "replace": "Muzibul",
+        "find": "\u09ae\u09c1\u099c\u09bf\u09ac\u09c1\u09b2"
+      },
+      {
+        "replace": "ASIF",
+        "find": "\u0986\u09b8\u09bf\u09ab"
+      },
+      {
+        "replace": "Nupur",
+        "find": "\u09a8\u09c1\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "Akther",
+        "find": "\u0986\u0996\u09a4\u09be\u09b0"
+      },
+      {
+        "replace": "MID",
+        "find": "\u09ae\u09cb\u0983"
+      },
+      {
+        "replace": "HOWLADER",
+        "find": "\u09b9\u09be\u0993\u09b2\u09be\u09a6\u09be\u09b0"
+      },
+      {
+        "replace": "Mustafa",
+        "find": "\u09ae\u09cb\u09b8\u09cd\u09a4\u09ab\u09be"
+      },
+      {
+        "replace": "Anwer",
+        "find": "\u0986\u09a8\u09cb\u09df\u09be\u09b0"
+      },
+      {
+        "replace": "Sumon",
+        "find": "\u09b8\u09c1\u09ae\u09a8"
+      },
+      {
+        "replace": "Abu",
+        "find": "\u0986\u09ac\u09c1"
+      },
+      {
+        "replace": "Sharif",
+        "find": "\u09b6\u09b0\u09c0\u09ab"
+      },
+      {
+        "replace": "Siddique",
+        "find": "\u09b8\u09bf\u09a6\u09cd\u09a6\u09bf\u0995"
+      },
+      {
+        "replace": "YOUSUF",
+        "find": "\u0987\u0989\u09b8\u09c1\u09ab"
+      },
+      {
+        "replace": "TAJUDDIN",
+        "find": "\u09a4\u09be\u099c\u0989\u09a6\u09cd\u09a6\u09c0\u09a8"
+      },
+      {
+        "replace": "SHADIDIBNE",
+        "find": "\u09b6\u09be\u09a6\u09bf\u09a6"
+      },
+      {
+        "replace": "SELIM",
+        "find": "\u0987\u09ac\u09a8\u09c7"
+      },
+      {
+        "replace": "HRIDOY",
+        "find": "\u09b9\u09c3\u09a6\u09df"
+      },
+      {
+        "replace": "ARIF",
+        "find": "\u0986\u09b0\u09bf\u09ab"
+      },
+      {
+        "replace": "PAPPU",
+        "find": "\u09aa\u09be\u09aa\u09cd\u09a7\u09c1"
+      },
+      {
+        "replace": "RAIHAN",
+        "find": "\u09b0\u09be\u09df\u09b9\u09be\u09a8"
+      },
+      {
+        "replace": "MIZI",
+        "find": "\u09ae\u09bf\u099c\u09bf"
+      },
+      {
+        "replace": "SHARIFUL",
+        "find": "\u09b6\u09b0\u09bf\u09ab\u09c1\u09b2"
+      },
+      {
+        "replace": "ANISA",
+        "find": "\u0986\u09a8\u09bf\u09b8\u09be"
+      },
+      {
+        "replace": "Sakib",
+        "find": "\u09b8\u09be\u0995\u09bf\u09ac"
+      },
+      {
+        "replace": "Ahmed",
+        "find": "\u0986\u09b9\u09ae\u09c7\u09a6"
+      },
+      {
+        "replace": "Tamal",
+        "find": "\u09a4\u09ae\u09be\u09b2"
+      },
+      {
+        "replace": "SHAHINUR",
+        "find": "\u09b6\u09be\u09b9\u09bf\u09a8\u09c1\u09b0"
+      },
+      {
+        "replace": "MST",
+        "find": "\u09ae\u09cb\u09b8\u09be\u0983"
+      },
+      {
+        "replace": "RUNA",
+        "find": "\u09b0\u09c1\u09a8\u09be"
+      },
+      {
+        "replace": "SHAFIK",
+        "find": "\u09b6\u09ab\u09bf\u0995"
+      },
+      {
+        "replace": "AHAMED",
+        "find": "\u0986\u09b9\u09ae\u09c7\u09a6"
+      },
+      {
+        "replace": "PRAMANANIK",
+        "find": "\u09aa\u09cd\u09b0\u09be\u09ae\u09be\u09a8\u09bf\u0995"
+      },
+      {
+        "replace": "FAYZE",
+        "find": "\u09ab\u09df\u09c7\u099c"
+      },
+      {
+        "replace": "ULLAH",
+        "find": "\u0989\u09b2\u09cd\u09af\u09be"
+      },
+      {
+        "replace": "Shalehin",
+        "find": "\u09b8\u09be\u09b2\u09c7\u09b9\u09c0\u09a8"
+      },
+      {
+        "replace": "Hossen",
+        "find": "\u09b9\u09cb\u09b8\u09c7\u09a8"
+      },
+      {
+        "replace": "Liton",
+        "find": "\u09b2\u09bf\u099f\u09a8"
+      },
+      {
+        "replace": "Jubayer",
+        "find": "\u09af\u09c1\u09ac\u09be\u09df\u09c7\u09b0"
+      },
+      {
+        "replace": "Mahfuz",
+        "find": "\u09b9\u09cb\u09b8\u09c7\u09a8"
+      },
+      {
+        "replace": "HALAL",
+        "find": "\u09b9\u09c7\u09b2\u09be\u09b2"
+      },
+      {
+        "replace": "Jhunu",
+        "find": "\u099d\u09c1\u09a8\u09c1"
+      },
+      {
+        "replace": "Chakraborty",
+        "find": "\u099a\u0995\u09cd\u09b0\u09ac\u09b0\u09cd\u09a4\u09c0"
+      },
+      {
+        "replace": "MAHAMUD",
+        "find": "\u09ae\u09be\u09b9\u09ae\u09c1\u09a6"
+      },
+      {
+        "replace": "Ime",
+        "find": "\u0995\u09c1\u09ae\u09be"
+      },
+      {
+        "replace": "HAZERA",
+        "find": "\u09b9\u09be\u099c\u09c7\u09b0\u09be"
+      },
+      {
+        "replace": "RAYHANA",
+        "find": "\u09b0\u09be\u09df\u09b9\u09be\u09a8\u09be"
+      },
+      {
+        "replace": "Suman",
+        "find": "\u09b8\u09c1\u09ae\u09a8"
+      },
+      {
+        "replace": "Kumer",
+        "find": "\u0995\u09c1\u09ae\u09be\u09b0"
+      },
+      {
+        "replace": "Das",
+        "find": "\u09a6\u09be\u09b6"
+      },
+      {
+        "replace": "Shahed",
+        "find": "\u09b8\u09be\u09b9\u09c7\u09a6"
+      },
+      {
+        "replace": "Hossin",
+        "find": "\u09b9\u09cb\u09b8\u09c7\u09a8"
+      },
+      {
+        "replace": "Apu",
+        "find": "\u0985\u09aa\u09c1"
+      },
+      {
+        "replace": "Ahasan",
+        "find": "\u0986\u09b9\u09b8\u09be\u09a8"
+      },
+      {
+        "replace": "Habib",
+        "find": "\u09b9\u09be\u09ac\u09c0\u09ac"
+      },
+      {
+        "replace": "Kamrul",
+        "find": "\u0995\u09be\u09ae\u09b0\u09c1\u09b2"
+      },
+      {
+        "replace": "Ahsan",
+        "find": "\u0986\u09b9\u09b8\u09be\u09a8"
+      },
+      {
+        "replace": "Zahir",
+        "find": "\u099c\u09b9\u09bf\u09b0"
+      },
+      {
+        "replace": "SHARFARAG",
+        "find": "\u09b8\u09be\u09b0\u09ab\u09be\u09b0\u09be\u099c"
+      },
+      {
+        "replace": "BELAL",
+        "find": "\u09ac\u09c7\u09b2\u09be\u09b2"
+      },
+      {
+        "replace": "Rakibul",
+        "find": "\u09b0\u09be\u0995\u09bf\u09ac\u09c1\u09b2"
+      },
+      {
+        "replace": "Sarkar",
+        "find": "\u09b8\u09b0\u0995\u09be\u09b0"
+      },
+      {
+        "replace": "PONKOZ",
+        "find": "\u09aa\u0982\u0995\u09cb\u099c"
+      },
+      {
+        "replace": "KANTI",
+        "find": "\u0995\u09be\u09a8\u09cd\u09a4\u09bf"
+      },
+      {
+        "replace": "HALDER",
+        "find": "\u09b9\u09be\u09b2\u09a6\u09be\u09b0"
+      },
+      {
+        "replace": "MAMUNUR",
+        "find": "\u09ae\u09be\u09ae\u09c1\u09a8\u09c1\u09b0"
+      },
+      {
+        "replace": "NURUNNABI",
+        "find": "\u09a8\u09c1\u09b0\u09c1\u09ae\u09cd\u09ae\u09ac\u09c0"
+      },
+      {
+        "replace": "TAREQ",
+        "find": "\u09a4\u09be\u09b0\u09c7\u0995"
+      },
+      {
+        "replace": "me",
+        "find": "\u099c\u09be\u09b9\u09be\u0999\u09cd\u0997\u09c0\u09b0"
+      },
+      {
+        "replace": "JAHANGIR",
+        "find": "\u09ae\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "SHOHIDUZZAMAN",
+        "find": "\u09b6\u09b9\u09bf\u09a6\u09c1\u099c\u09cd\u099c\u09be\u09ae\u09be\u09a8"
+      },
+      {
+        "replace": "MRIDHA",
+        "find": "\u09ae\u09c3\u09a7\u09be"
+      },
+      {
+        "replace": "MM",
+        "find": "\u09ae\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "ZIAUL",
+        "find": "\u09ae\u09cb\u0983"
+      },
+      {
+        "replace": "IANANDA",
+        "find": "\u0995\u09ac\u09bf\u09b0"
+      },
+      {
+        "replace": "Razaul",
+        "find": "\u09b0\u09c7\u099c\u09be\u0989\u09b2"
+      },
+      {
+        "replace": "Karim",
+        "find": "\u0995\u09b0\u09bf\u09ae"
+      },
+      {
+        "replace": "Sahadat",
+        "find": "\u09b6\u09be\u09b9\u09be\u09a6\u09be\u09ce"
+      },
+      {
+        "replace": "SAYED",
+        "find": "\u09b8\u09c8\u09df\u09a6"
+      },
+      {
+        "replace": "AMIT",
+        "find": "\u0985\u09ae\u09bf\u09a4"
+      },
+      {
+        "replace": "NURI",
+        "find": "\u09a8\u09c2\u09b0\u09c0"
+      },
+      {
+        "replace": "Tarequr",
+        "find": "\u09a4\u09be\u09b0\u09c7\u0995\u09c1\u09b0"
+      },
+      {
+        "replace": "Chowdhury",
+        "find": "\u099a\u09cc\u09a7\u09c1\u09b0\u09c0"
+      },
+      {
+        "replace": "Luhi",
+        "find": "\u09b2\u09cb\u09b9\u09bf"
+      },
+      {
+        "replace": "Miss.",
+        "find": "\u09ae\u09bf\u09b8"
+      },
+      {
+        "replace": "Rubia",
+        "find": "\u09b0\u09c1\u09ac\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "Khatun",
+        "find": "\u0996\u09be\u09a4\u09c1\u09a8"
+      },
+      {
+        "replace": "ISHOMDA",
+        "find": "\u09b6\u09b9\u09c0\u09a6\u09be"
+      },
+      {
+        "replace": "Asia",
+        "find": "\u0986\u099b\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "FAISAL",
+        "find": "\u09ab\u09df\u09b8\u09be\u09b2"
+      },
+      {
+        "replace": "REZOUN",
+        "find": "\u09b0\u09c7\u099c\u09cb\u09df\u09be\u09a8"
+      },
+      {
+        "replace": "FARJANA",
+        "find": "\u09ab\u09be\u09b0\u099c\u09be\u09a8\u09be"
+      },
+      {
+        "replace": "YEASMIN",
+        "find": "\u0987\u09df\u09be\u09b8\u09ae\u09bf\u09a8"
+      },
+      {
+        "replace": "JUTHY",
+        "find": "\u099c\u09c1\u0996\u09c0"
+      },
+      {
+        "replace": "KHORSEDA",
+        "find": "\u09ac\u09c7\u0997\u09ae"
+      },
+      {
+        "replace": "LUCKY",
+        "find": "\u09b2\u09be\u0995\u09c0"
+      },
+      {
+        "replace": "GIASH",
+        "find": "\u0997\u09bf\u09df\u09be\u09b8"
+      },
+      {
+        "replace": "NUSRAT",
+        "find": "\u09a8\u09c1\u09b8\u09b0\u09be\u09a4"
+      },
+      {
+        "replace": "SIDDIKA",
+        "find": "\u09b8\u09bf\u09a6\u09cd\u09a6\u09bf\u0995"
+      },
+      {
+        "replace": "TAMA",
+        "find": "\u09a4\u09ae\u09be"
+      },
+      {
+        "replace": "Shapna",
+        "find": "\u09b8\u09cd\u09ac\u09aa\u09cd\u09a8\u09be"
+      },
+      {
+        "replace": "ARMAN",
+        "find": "\u0986\u09b0\u09ae\u09be\u09a8"
+      },
+      {
+        "replace": "KAZL",
+        "find": "\u0995\u09be\u099c\u09c0"
+      },
+      {
+        "replace": "JAYADUL",
+        "find": "\u099c\u09be\u09df\u09c7\u09a6\u09c1\u09b2"
+      },
+      {
+        "replace": "MUSHFIKUR",
+        "find": "\u09ae\u09c1\u09b6\u09ab\u09bf\u0995\u09c1\u09b0"
+      },
+      {
+        "replace": "Arfina",
+        "find": "\u0986\u09b0\u09ab\u09bf\u09a8\u09be"
+      },
+      {
+        "replace": "A",
+        "find": "\u098f."
+      },
+      {
+        "replace": "M.",
+        "find": "\u098f\u09ae."
+      },
+      {
+        "replace": "F.",
+        "find": "\u098f\u09ab"
+      },
+      {
+        "replace": "AHSAN",
+        "find": "\u0986\u09b9\u09b8\u09be\u09a8"
+      },
+      {
+        "replace": "BIBI",
+        "find": "\u09ac\u09bf\u09ac\u09bf"
+      },
+      {
+        "replace": "KHODEZA",
+        "find": "\u0996\u09cb\u09a6\u09c7\u099c\u09be"
+      },
+      {
+        "replace": "AHMMAD",
+        "find": "\u0986\u09b9\u09ae\u09be\u09a6"
+      },
+      {
+        "replace": "PRONAB",
+        "find": "\u09aa\u09cd\u09b0\u09a3\u09ac"
+      },
+      {
+        "replace": "KUMAR",
+        "find": "\u0995\u09c1\u09ae\u09be\u09b0"
+      },
+      {
+        "replace": "SHAHA",
+        "find": "\u09b8\u09be\u09b9\u09be"
+      },
+      {
+        "replace": "Samima",
+        "find": "\u09b6\u09be\u09ae\u09c0\u09ae\u09be"
+      },
+      {
+        "replace": "Ferdous",
+        "find": "\u09ab\u09c7\u09b0\u09a6\u09cc\u09b8"
+      },
+      {
+        "replace": "Nate",
+        "find": "\u09ae\u09be\u099b\u09be\u0983"
+      },
+      {
+        "replace": "of",
+        "find": "\u0985\u09ac\u09bf\u09b0\u09a8"
+      },
+      {
+        "replace": "Birth",
+        "find": "\u09a8\u09c7\u099b\u09be"
+      },
+      {
+        "replace": "MUSFAQURHAQUE",
+        "find": "\u09ae\u09c1\u09b6\u09ab\u09bf\u0995\u09c1\u09b0"
+      },
+      {
+        "replace": "Harunar",
+        "find": "\u09b9\u09be\u09b0\u09c1\u09a8\u09b0"
+      },
+      {
+        "replace": "Rashid",
+        "find": "\u09b0\u09b6\u09c0\u09a6"
+      },
+      {
+        "replace": "Mahabbat",
+        "find": "\u09ae\u09b9\u09ac\u09cd\u09ac\u09a4"
+      },
+      {
+        "replace": "Ali",
+        "find": "\u0986\u09b2\u09c0"
+      },
+      {
+        "replace": "ASHADUZZAMAN",
+        "find": "\u0986\u09b8\u09be\u09a6\u09c1\u099c\u09cd\u099c\u09be\u09ae\u09be\u09a8"
+      },
+      {
+        "replace": "Jame",
+        "find": "\u09ae\u09cb\u0983"
+      },
+      {
+        "replace": "MOTIN",
+        "find": "\u09aa\u09cd\u09b0\u09a7\u09be\u09a8"
+      },
+      {
+        "replace": "NOWSADUL",
+        "find": "\u09a8\u0993\u09b6\u09be\u09a6\u09c1\u09b2"
+      },
+      {
+        "replace": "Nurul",
+        "find": "\u09a8\u09c1\u09b0\u09c1\u09b2"
+      },
+      {
+        "replace": "Ambia",
+        "find": "\u0986\u09ae\u09cd\u09ac\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "Sadek",
+        "find": "\u09b8\u09be\u09a6\u09c7\u0995"
+      },
+      {
+        "replace": "MAHEDI",
+        "find": "\u09ae\u09c7\u09b9\u09c7\u09a6\u09c0"
+      },
+      {
+        "replace": "HOSSAGN",
+        "find": "\u09b9\u09cb\u09b8\u09c7\u09a8"
+      },
+      {
+        "replace": "MTU",
+        "find": "\u0986\u0995\u09cd\u09a4\u09be\u09b0"
+      },
+      {
+        "replace": "MASKURA",
+        "find": "\u09ae\u09be\u09b6\u0995\u09c1\u09b0\u09be"
+      },
+      {
+        "replace": "LUTFA",
+        "find": "\u09b2\u09c1\u09ce\u09ab\u09be"
+      },
+      {
+        "replace": "Rehana",
+        "find": "\u09b0\u09c7\u09b9\u09c7\u09a8\u09be"
+      },
+      {
+        "replace": "SHAPLA",
+        "find": "\u09b6\u09be\u09aa\u09b2\u09be"
+      },
+      {
+        "replace": "KHATUN",
+        "find": "\u0996\u09be\u09a4\u09c1\u09a8"
+      },
+      {
+        "replace": "JOSANA",
+        "find": "\u099c\u09cb\u09b8\u09a8\u09be"
+      },
+      {
+        "replace": "IMRAN",
+        "find": "\u0987\u09ae\u09b0\u09be\u09a8"
+      },
+      {
+        "replace": "MD.SUJAN",
+        "find": "\u09ae\u09cb\u0983"
+      },
+      {
+        "replace": "Azizul",
+        "find": "\u0986\u099c\u09bf\u099c\u09c1\u09b2"
+      },
+      {
+        "replace": "Hoque",
+        "find": "\u09b9\u0995"
+      },
+      {
+        "replace": "AKRAMUL",
+        "find": "\u098f\u0995\u09b0\u09be\u09ae\u09c1\u09b2"
+      },
+      {
+        "replace": "HOQUE",
+        "find": "\u09b9\u0995"
+      },
+      {
+        "replace": "HAKIM",
+        "find": "\u09b9\u09be\u0995\u09bf\u09ae"
+      },
+      {
+        "replace": "SONJIB",
+        "find": "\u09b8\u09a8\u09cd\u099c\u09c0\u09ac"
+      },
+      {
+        "replace": "DAS",
+        "find": "\u09a6\u09be\u09b8"
+      },
+      {
+        "replace": "AKIBUL",
+        "find": "\u0986\u0995\u09bf\u09ac\u09c1\u09b2"
+      },
+      {
+        "replace": "FZLU",
+        "find": "\u09ab\u099c\u09b2\u09c1"
+      },
+      {
+        "replace": "Yeasin",
+        "find": "\u0987\u09df\u09be\u099b\u09bf\u09a8"
+      },
+      {
+        "replace": "Alamgir",
+        "find": "\u0986\u09b2\u09ae\u0997\u09c0\u09b0"
+      },
+      {
+        "replace": "DELWAR",
+        "find": "\u09a6\u09c7\u09b2\u09cb\u09df\u09be\u09b0"
+      },
+      {
+        "replace": "SHAIKAT",
+        "find": "\u09b8\u09c8\u0995\u09a4"
+      },
+      {
+        "replace": "SARKER",
+        "find": "\u09b8\u09b0\u0995\u09be\u09b0"
+      },
+      {
+        "replace": "OSMAN",
+        "find": "\u0993\u09b8\u09ae\u09be\u09a8"
+      },
+      {
+        "replace": "SHARKAR",
+        "find": "\u09b8\u09b0\u0995\u09be\u09b0"
+      },
+      {
+        "replace": "Hasib",
+        "find": "\u09b9\u09be\u09b8\u09c0\u09ac"
+      },
+      {
+        "replace": "Feroza",
+        "find": "\u09ab\u09bf\u09b0\u09c1\u099c\u09be"
+      },
+      {
+        "replace": "Nripendra",
+        "find": "\u09aa\u09c7\u09a8\u09cd\u09a6\u09cd\u09b0"
+      },
+      {
+        "replace": "Biswas",
+        "find": "\u09ac\u09bf\u09b6\u09cd\u09ac\u09be\u09b8"
+      },
+      {
+        "replace": "MAHFUZ",
+        "find": "\u09ae\u09be\u09b9\u09ab\u09c1\u099c"
+      },
+      {
+        "replace": "MIA",
+        "find": "\u09ae\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "Jamela",
+        "find": "\u099c\u09be\u09ae\u09bf\u09b2\u09be"
+      },
+      {
+        "replace": "Khalid",
+        "find": "NONE"
+      },
+      {
+        "replace": "RANJU",
+        "find": "\u09b0\u099e\u09cd\u099c"
+      },
+      {
+        "replace": "D.KARAMOTAL",
+        "find": "\u09ae\u09be\u0983"
+      },
+      {
+        "replace": "YEASEN",
+        "find": "\u0987\u09df\u09be\u099b\u09bf\u09a8"
+      },
+      {
+        "replace": "ALEK",
+        "find": "\u0986\u09b2\u09c7\u0995"
+      },
+      {
+        "replace": "JAN",
+        "find": "\u099c\u09be\u09a8"
+      },
+      {
+        "replace": "SALANUR",
+        "find": "\u09b8\u09be\u09b2\u09c7\u09a8\u09c1\u09b0"
+      },
+      {
+        "replace": "Mst",
+        "find": "\u09ae\u09cb\u099b\u09be\u0983"
+      },
+      {
+        "replace": "Morzina",
+        "find": "\u09ae\u09b0\u09cd\u099c\u09bf\u09a8\u09be"
+      },
+      {
+        "replace": "Razzak",
+        "find": "\u09b0\u09be\u099c\u09cd\u099c\u09be\u0995"
+      },
+      {
+        "replace": "Moral",
+        "find": "\u09ae\u09cb\u09dc\u09b2"
+      },
+      {
+        "replace": "Md.Asraf",
+        "find": "\u09ae\u09cb\u0983"
+      },
+      {
+        "replace": "MD.AL",
+        "find": "\u09ae\u09cb\u0983"
+      },
+      {
+        "replace": "MOFIZUL",
+        "find": "\u09ae\u09ab\u09bf\u099c\u09c1\u09b2"
+      },
+      {
+        "replace": "Md.Shamsul",
+        "find": "\u09ae\u09cb\u0983"
+      },
+      {
+        "replace": "RABIUL",
+        "find": "\u09b0\u09ac\u09bf\u0989\u09b2"
+      },
+      {
+        "replace": "PRADIP",
+        "find": "\u09aa\u09cd\u09b0\u09a6\u09c0\u09aa"
+      },
+      {
+        "replace": "TANIA",
+        "find": "\u09a4\u09be\u09a8\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "MID.",
+        "find": "\u09ae\u09cb\u0983"
+      },
+      {
+        "replace": "MANNAN",
+        "find": "\u09ae\u09be\u09a8\u09cd\u09a8\u09be\u09a8"
+      },
+      {
+        "replace": "JOYANTA",
+        "find": "\u099c\u09df\u09a8\u09cd\u09a4"
+      },
+      {
+        "replace": "SEN",
+        "find": "\u09b8\u09c7\u09a8"
+      },
+      {
+        "replace": "CHAKMA",
+        "find": "\u099a\u09be\u0995\u09ae\u09be"
+      },
+      {
+        "replace": "Syed",
+        "find": "\u09b8\u09c8\u09df\u09a6"
+      },
+      {
+        "replace": "Motahar",
+        "find": "\u09ae\u09cb\u09a4\u09be\u09b9\u09be\u09b0"
+      },
+      {
+        "replace": "Ul",
+        "find": "\u0989\u09b2"
+      },
+      {
+        "replace": "Meher",
+        "find": "\u09ae\u09c7\u09b9\u09c7\u09b0"
+      },
+      {
+        "replace": "SOJONKHAN",
+        "find": "\u09b8\u09c1\u099c\u09a8"
+      },
+      {
+        "replace": "Nerun",
+        "find": "\u09a8\u09bf\u09b0\u09c1\u09a8"
+      },
+      {
+        "replace": "Nahar",
+        "find": "\u09a8\u09be\u09b9\u09be\u09b0"
+      },
+      {
+        "replace": "Shafia",
+        "find": "\u09b6\u09be\u09ab\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "AZHARUL",
+        "find": "\u0986\u099c\u09b9\u09be\u09b0\u09c1\u09b2"
+      },
+      {
+        "replace": "RAYHAN",
+        "find": "\u09b0\u09be\u09df\u09b9\u09be\u09a8"
+      },
+      {
+        "replace": "BHURYAN",
+        "find": "\u09ad\u09c2\u0987\u09df\u09be"
+      },
+      {
+        "replace": "TAREK",
+        "find": "\u09a4\u09be\u09b0\u09c7\u0995"
+      },
+      {
+        "replace": "SETAUR",
+        "find": "\u09b8\u09c7\u09a4\u09be\u0989\u09b0"
+      },
+      {
+        "replace": "UMMA",
+        "find": "\u0989\u09ae\u09cd\u09ae\u09c7"
+      },
+      {
+        "replace": "KANTA",
+        "find": "\u0995\u09be\u09b8\u09cd\u09a4\u09be"
+      },
+      {
+        "replace": "MOJAHIDUL",
+        "find": "\u09ae\u09c1\u099c\u09be\u09b9\u09bf\u09a6\u09c1\u09b2"
+      },
+      {
+        "replace": "SHEKH",
+        "find": "\u09b6\u09c7\u0996"
+      },
+      {
+        "replace": "RAHIMA",
+        "find": "\u09b0\u09be\u09b9\u09bf\u09ae\u09be"
+      },
+      {
+        "replace": "FERDOWUSI",
+        "find": "\u09ab\u09c7\u09b0\u09a6\u09cc\u09b8\u09c0"
+      },
+      {
+        "replace": "BEGAM",
+        "find": "\u09ac\u09c7\u0997\u09ae"
+      },
+      {
+        "replace": "HIZOL",
+        "find": "\u09b9\u09bf\u099c\u09b2"
+      },
+      {
+        "replace": "BILLAH",
+        "find": "\u09ac\u09bf\u09b2\u09cd\u09b2\u09be\u09b9"
+      },
+      {
+        "replace": "JOY",
+        "find": "\u099c\u09df"
+      },
+      {
+        "replace": "MAHFUZUR",
+        "find": "\u09ae\u09be\u09b9\u09ab\u099c\u09c1\u09b0"
+      },
+      {
+        "replace": "Jebunnessa",
+        "find": "\u099c\u09c7\u09ac\u09c1\u09a8\u09cd\u09a8\u09c7\u099b\u09be"
+      },
+      {
+        "replace": "Beauty",
+        "find": "\u09ac\u09bf\u0989\u099f\u09bf"
+      },
+      {
+        "replace": "FARZANA",
+        "find": "\u09ab\u09be\u09b0\u099c\u09be\u09a8\u09be"
+      },
+      {
+        "replace": "AKTAR",
+        "find": "\u0986\u0995\u09cd\u09a4\u09be\u09b0"
+      },
+      {
+        "replace": "ime",
+        "find": "\u09ae"
+      },
+      {
+        "replace": "SAKIL",
+        "find": "\u09b8\u09be\u0995\u09bf\u09b2"
+      },
+      {
+        "replace": "2AHID",
+        "find": "\u099c\u09be\u09b9\u09bf\u09a6"
+      },
+      {
+        "replace": "TARAFDER",
+        "find": "\u09a4\u09b0\u09ab\u09a6\u09be\u09b0"
+      },
+      {
+        "replace": "ISRAT",
+        "find": "\u0987\u09b8\u09b0\u09be\u09a4"
+      },
+      {
+        "replace": "JAHAN",
+        "find": "\u099c\u09be\u09b9\u09be\u09a8"
+      },
+      {
+        "replace": "BENTA",
+        "find": "\u09ac\u09bf\u09a8\u09a4\u09c7"
+      },
+      {
+        "replace": "AKKAS",
+        "find": "\u0986\u0995\u09cd\u0995\u09be\u09b8"
+      },
+      {
+        "replace": "HANIF",
+        "find": "\u09b9\u09be\u09a8\u09bf\u09ab"
+      },
+      {
+        "replace": "JOSNA",
+        "find": "\u099c\u09be\u09b8\u09a8\u09be"
+      },
+      {
+        "replace": "Bhuiyan",
+        "find": "\u09ad\u09c2\u0981\u0987\u09df\u09be"
+      },
+      {
+        "replace": "Shahana",
+        "find": "\u09b6\u09be\u09b9\u09be\u09a8\u09be"
+      },
+      {
+        "replace": "KAISAR",
+        "find": "\u0995\u09be\u09df\u09b8\u09be\u09b0"
+      },
+      {
+        "replace": "HAMID",
+        "find": "\u09b9\u09be\u09ae\u09bf\u09a6"
+      },
+      {
+        "replace": "NURUL",
+        "find": "\u09a8\u09c1\u09b0\u09c1\u09b2"
+      },
+      {
+        "replace": "SUMI",
+        "find": "\u09b8\u09c1\u09ae\u09bf"
+      },
+      {
+        "replace": "Jaber",
+        "find": "\u099c\u09be\u09ac\u09c7\u09b0"
+      },
+      {
+        "replace": "Rab",
+        "find": "\u09b0\u09ac"
+      },
+      {
+        "replace": "Samana",
+        "find": "\u099b\u09c7\u09ae\u09a8\u09be"
+      },
+      {
+        "replace": "RUBINA",
+        "find": "\u09b0\u09c1\u09ac\u09bf\u09a8\u09be"
+      },
+      {
+        "replace": "Bonita",
+        "find": "\u09ac\u09a8\u09bf\u09a4\u09be"
+      },
+      {
+        "replace": "Rani",
+        "find": "\u09b0\u09be\u09a8\u09c0"
+      },
+      {
+        "replace": "Satiar",
+        "find": "\u09b8\u09be\u099f\u09bf\u09df\u09be\u09b0"
+      },
+      {
+        "replace": "SULTANUL",
+        "find": "\u09b8\u09c1\u09b2\u09a4\u09be\u09a8\u09c1\u09b2"
+      },
+      {
+        "replace": "MULK",
+        "find": "\u09ae\u09c1\u09b2\u09c1\u0995"
+      },
+      {
+        "replace": "Shahriar",
+        "find": "\u09b6\u09be\u09b9\u09b0\u09bf\u09df\u09be\u09b0"
+      },
+      {
+        "replace": "Arefin",
+        "find": "\u0986\u09b0\u09c7\u09ab\u09bf\u09a8"
+      },
+      {
+        "replace": "Hawlader",
+        "find": "\u09b9\u09be\u0993\u09b2\u09be\u09a6\u09be\u09b0"
+      },
+      {
+        "replace": "HOSNE",
+        "find": "\u09b9\u09cb\u09b8\u09a8\u09c7"
+      },
+      {
+        "replace": "ARA",
+        "find": "\u0986\u09b0\u09be"
+      },
+      {
+        "replace": "AWLE",
+        "find": "\u0986\u09b2\u09bf"
+      },
+      {
+        "replace": "HAH",
+        "find": "\u09ae\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "Hafijur",
+        "find": "\u09b9\u09be\u09ab\u09bf\u099c\u09c1\u09b0"
+      },
+      {
+        "replace": "S.",
+        "find": "\u098f\u09b8"
+      },
+      {
+        "replace": "NASIM",
+        "find": "\u09a8\u09be\u09b8\u09bf\u09ae"
+      },
+      {
+        "replace": "S",
+        "find": "\u098f\u09b8"
+      },
+      {
+        "replace": "masanul",
+        "find": "\u098f\u09ae"
+      },
+      {
+        "replace": "BANU",
+        "find": "\u09ac\u09be\u09a8\u09c1"
+      },
+      {
+        "replace": "Abul",
+        "find": "\u0986\u09ac\u09a6\u09c1\u09b2"
+      },
+      {
+        "replace": "Motin",
+        "find": "\u09ae\u09a4\u09bf\u09a8"
+      },
+      {
+        "replace": "EBRAHIM",
+        "find": "\u0987\u09b0\u09be\u09b9\u09bf\u09ae"
+      },
+      {
+        "replace": "Jainal",
+        "find": "\u0986\u09ac\u09c7\u09a6\u09c0\u09a8"
+      },
+      {
+        "replace": "MD.SEPUL",
+        "find": "\u09ae\u09cb\u0983"
+      },
+      {
+        "replace": "Vame",
+        "find": "\u09ae\u09cb\u0983"
+      },
+      {
+        "replace": "Badrul",
+        "find": "\u0987\u09b8\u09b2\u09be\u09ae"
+      },
+      {
+        "replace": "Sayed",
+        "find": "\u09b8\u09be\u0988\u09a6"
+      },
+      {
+        "replace": "ABUL",
+        "find": "\u0986\u09ac\u09c1\u09b2"
+      },
+      {
+        "replace": "KALAM",
+        "find": "\u0995\u09be\u09b2\u09be\u09ae"
+      },
+      {
+        "replace": "AZAD",
+        "find": "\u0986\u099c\u09be\u09a6"
+      },
+      {
+        "replace": "MAHMUDA",
+        "find": "\u09a8\u09be\u099c\u09ae\u09be"
+      },
+      {
+        "replace": "BISHMUIT",
+        "find": "\u09ac\u09bf\u09b6\u09cd\u09ac\u099c\u09bf\u09ce"
+      },
+      {
+        "replace": "ROY",
+        "find": "\u09b0\u09be\u09df"
+      },
+      {
+        "replace": "MAHABUR",
+        "find": "\u09ae\u09be\u09b9\u09be\u09ac\u09c1\u09b0"
+      },
+      {
+        "replace": "AZIZUL",
+        "find": "\u0986\u099c\u09c1\u09b2"
+      },
+      {
+        "replace": "HARUN",
+        "find": "\u09b9\u09be\u09b0\u09c1\u09a8"
+      },
+      {
+        "replace": "OR",
+        "find": "\u0986\u09b0"
+      },
+      {
+        "replace": "ROSHID",
+        "find": "\u09b0\u09b6\u09bf\u09a6"
+      },
+      {
+        "replace": "REDOY",
+        "find": "\u09b9\u09c3\u09a6\u09df"
+      },
+      {
+        "replace": "Zaizuddin",
+        "find": "\u099c\u09be\u0987\u099c\u09c1\u09a6\u09cd\u09a6\u09bf\u09a8"
+      },
+      {
+        "replace": "Md.Anwar",
+        "find": "\u09ae\u09cb\u0983"
+      },
+      {
+        "replace": "Kafil",
+        "find": "\u0995\u09ab\u09bf\u09b2"
+      },
+      {
+        "replace": "SULAIMAN",
+        "find": "\u09b8\u09cb\u09b2\u09be\u0987\u09ae\u09be\u09a8"
+      },
+      {
+        "replace": "Safik",
+        "find": "\u09b8\u09be\u09ab\u09bf\u0995"
+      },
+      {
+        "replace": "Noor",
+        "find": "\u09a8\u09c1\u09b0"
+      },
+      {
+        "replace": "NADIRA",
+        "find": "\u09a8\u09be\u09a6\u09bf\u09b0\u09be"
+      },
+      {
+        "replace": "Ab.",
+        "find": "\u0986\u0983"
+      },
+      {
+        "replace": "Halim",
+        "find": "\u09b9\u09be\u09b2\u09bf\u09ae"
+      },
+      {
+        "replace": "ABDOLLAH",
+        "find": "\u0986\u09ac\u09a6\u09c1\u09b2\u09cd\u09b2\u09be\u09b9"
+      },
+      {
+        "replace": "NAZMUL",
+        "find": "\u09a8\u09be\u099c\u09ae\u09c1\u09b2"
+      },
+      {
+        "replace": "NASIMA",
+        "find": "\u09a8\u09be\u099b\u09bf\u09ae\u09be"
+      },
+      {
+        "replace": "Mhamuda",
+        "find": "\u09ae\u09be\u09b9\u09ae\u09c1\u09a6\u09be"
+      },
+      {
+        "replace": "Sakina",
+        "find": "\u099b\u0995\u09bf\u09a8\u09be"
+      },
+      {
+        "replace": "ABDURRASHID",
+        "find": "\u0986\u09ac\u09cd\u09a6\u09c1\u09b0"
+      },
+      {
+        "replace": "Joynal",
+        "find": "\u099c\u09df\u09a8\u09be\u09b2"
+      },
+      {
+        "replace": "Abedain",
+        "find": "\u0986\u09ac\u09c7\u09a6\u09c0\u09a8"
+      },
+      {
+        "replace": "SHUVVO",
+        "find": "Name"
+      },
+      {
+        "replace": "Jahidul",
+        "find": "\u099c\u09be\u09b9\u09bf\u09a6\u09c1\u09b2"
+      },
+      {
+        "replace": "Khan",
+        "find": "\u0996\u09be\u0981\u09a8"
+      },
+      {
+        "replace": "JAMAL",
+        "find": "\u099c\u09be\u09ae\u09be\u09b2"
+      },
+      {
+        "replace": "MOSTAFA",
+        "find": "\u09ae\u09cb\u09b8\u09cd\u09a4\u09ab\u09be"
+      },
+      {
+        "replace": "EAHSAN",
+        "find": "\u098f\u09b9\u09b8\u09be\u09a8"
+      },
+      {
+        "replace": "Shahid",
+        "find": "\u09b6\u09b9\u09c0\u09a6"
+      },
+      {
+        "replace": "Mia",
+        "find": "\u09ae\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "MD.AMINUL",
+        "find": "\u09ae\u09cb\u0983"
+      },
+      {
+        "replace": "RAJAUL",
+        "find": "\u09b0\u09c7\u099c\u09be\u0989\u09b2"
+      },
+      {
+        "replace": "Hazara",
+        "find": "\u09b9\u09be\u099c\u09c7\u09b0\u09be"
+      },
+      {
+        "replace": "Khanam",
+        "find": "\u0996\u09be\u09ae\u09ae"
+      },
+      {
+        "replace": "Zahida",
+        "find": "\u099c\u09be\u09b9\u09bf\u09a6\u09be"
+      },
+      {
+        "replace": "Sultana",
+        "find": "\u09b8\u09c1\u09b2\u09a4\u09be\u09a8\u09be"
+      },
+      {
+        "replace": "BHUIYAN",
+        "find": "\u09ad\u09c2\u0981\u099c\u09be"
+      },
+      {
+        "replace": "Johara",
+        "find": "\u099c\u09cb\u09b9\u09c1\u09b0\u09be"
+      },
+      {
+        "replace": "Mzanur",
+        "find": "\u09ae\u09bf\u099c\u09be\u09a8\u09c1\u09b0"
+      },
+      {
+        "replace": "Eliyas",
+        "find": "\u0987\u09b2\u09bf\u09df\u09be\u099b"
+      },
+      {
+        "replace": "Delowar",
+        "find": "\u09a6\u09c7\u09b2\u09cb\u09df\u09be\u09b0"
+      },
+      {
+        "replace": "Hossan",
+        "find": "\u09b9\u09cb\u09b8\u09c7\u09a8"
+      },
+      {
+        "replace": "MDISHAMIUL",
+        "find": "\u09b8\u09be\u09ae\u09bf\u0989\u09b2"
+      },
+      {
+        "replace": "Zuel",
+        "find": "\u099c\u09c1\u09df\u09c7\u09b2"
+      },
+      {
+        "replace": "Rana",
+        "find": "\u09b0\u09be\u09a8\u09be"
+      },
+      {
+        "replace": "NAZRUL",
+        "find": "\u09a8\u099c\u09b0\u09c1\u09b2"
+      },
+      {
+        "replace": "M.R.K",
+        "find": "\u098f\u09ae"
+      },
+      {
+        "replace": "REBU",
+        "find": "\u0986\u09b0"
+      },
+      {
+        "replace": "Abdullah",
+        "find": "\u0986\u09ac\u09a6\u09c1\u09b2\u09cd\u09b2\u09be\u09b9"
+      },
+      {
+        "replace": "Noman",
+        "find": "\u09a8\u09cb\u09ae\u09be\u09a8"
+      },
+      {
+        "replace": "Polash",
+        "find": "\u09aa\u09b2\u09be\u09b6"
+      },
+      {
+        "replace": "Kanti",
+        "find": "\u0995\u09be\u09a8\u09cd\u09a4\u09bf"
+      },
+      {
+        "replace": "Mohammad",
+        "find": "\u09ae\u09cb\u09b9\u09be\u09ae\u09cd\u09ae\u09a6"
+      },
+      {
+        "replace": "JOYNAL",
+        "find": "\u099c\u09df\u09a8\u09be\u09b2"
+      },
+      {
+        "replace": "ABE",
+        "find": "\u0986\u09ac\u09c7\u09a6\u09c0\u09a8"
+      },
+      {
+        "replace": "TARIKUL",
+        "find": "\u09a4\u09b0\u09bf\u0995\u09c1\u09b2"
+      },
+      {
+        "replace": "Rojina",
+        "find": "\u09b0\u09cb\u099c\u09bf\u09a8\u09be"
+      },
+      {
+        "replace": "SI",
+        "find": "\u098f\u09b8"
+      },
+      {
+        "replace": "NASIR",
+        "find": "\u09a8\u09be\u099b\u09bf\u09b0"
+      },
+      {
+        "replace": "UDDINT",
+        "find": "\u0989\u09a6\u09cd\u09a6\u09bf\u09a8"
+      },
+      {
+        "replace": "NISHAN",
+        "find": "\u09a8\u09bf\u09b6\u09be\u09a8"
+      },
+      {
+        "replace": "TAPPO",
+        "find": "\u099f\u09aa\u09cd\u09af"
+      },
+      {
+        "replace": "Mohiuddin",
+        "find": "\u09ae\u09b9\u09bf\u0989\u09a6\u09cd\u09a6\u09bf\u09a8"
+      },
+      {
+        "replace": "Shaheen",
+        "find": "\u09b6\u09be\u09b9\u09c0\u09a8"
+      },
+      {
+        "replace": "Saima",
+        "find": "\u09b8\u09be\u09b2\u09ae\u09be"
+      },
+      {
+        "replace": "Lipi",
+        "find": "\u09b2\u09bf\u09aa\u09bf"
+      },
+      {
+        "replace": "Mot",
+        "find": "\u09ae\u09cb\u099b\u09be\u0983"
+      },
+      {
+        "replace": "Kulsum",
+        "find": "\u0995\u09c1\u09b2\u09b8\u09c1\u09ae"
+      },
+      {
+        "replace": "MONOARA",
+        "find": "\u09ae\u09a8\u09cb\u09df\u09be\u09b0\u09be"
+      },
+      {
+        "replace": "Saneka",
+        "find": "\u09b8\u09a8\u09c7\u0995\u09be"
+      },
+      {
+        "replace": "AKLIMA",
+        "find": "\u0986\u0995\u09b2\u09bf\u09ae\u09be"
+      },
+      {
+        "replace": "MAJADA",
+        "find": "\u09ae\u09be\u099c\u09c7\u09a6\u09be"
+      },
+      {
+        "replace": "Ferdosy",
+        "find": "\u09ab\u09c7\u09b0\u09a6\u09cc\u09b8\u09bf"
+      },
+      {
+        "replace": "Din",
+        "find": "\u09a6\u09c0\u09a8"
+      },
+      {
+        "replace": "ALL",
+        "find": "\u0986\u09b2"
+      },
+      {
+        "replace": "SHAKUB",
+        "find": "\u09b6\u09c7\u0995\u09be\u09ac"
+      },
+      {
+        "replace": "Dewan",
+        "find": "\u09a6\u09c7\u0993\u09df\u09be\u09a8"
+      },
+      {
+        "replace": "Abdus",
+        "find": "\u0986\u09ac\u09cd\u09a6\u09c1\u099b"
+      },
+      {
+        "replace": "Sami",
+        "find": "\u099b\u09be\u09ae\u09c0"
+      },
+      {
+        "replace": "Pallab",
+        "find": "\u09aa\u09b2\u09cd\u09b2\u09ac"
+      },
+      {
+        "replace": "Nilufa",
+        "find": "\u09a8\u09bf\u09b2\u09c1\u09ab\u09be"
+      },
+      {
+        "replace": "AKter",
+        "find": "\u0986\u0995\u09cd\u09a4\u09be\u09b0"
+      },
+      {
+        "replace": "Ashiqul",
+        "find": "\u0986\u09b6\u09bf\u0995\u09c1\u09b2"
+      },
+      {
+        "replace": "TAHER",
+        "find": "\u09a4\u09be\u09b9\u09c7\u09b0"
+      },
+      {
+        "replace": "ROMZAN",
+        "find": "\u09b0\u09ae\u099c\u09be\u09a8"
+      },
+      {
+        "replace": "Kalam",
+        "find": "\u0995\u09be\u09b2\u09be\u09ae"
+      },
+      {
+        "replace": "Azad",
+        "find": "\u0986\u099c\u09be\u09a6"
+      },
+      {
+        "replace": "JEWEL",
+        "find": "\u099c\u09c1\u09df\u09c7\u09b2"
+      },
+      {
+        "replace": "RANA",
+        "find": "\u09b0\u09be\u09a8\u09be"
+      },
+      {
+        "replace": "H",
+        "find": "\u098f\u09ae"
+      },
+      {
+        "replace": "HUMAYON",
+        "find": "\u09b9\u09c1\u09ae\u09be\u09df\u09c1\u09a8"
+      },
+      {
+        "replace": "TANMIR",
+        "find": "\u09ae"
+      },
+      {
+        "replace": "AHAMMED",
+        "find": "\u09a4\u09be\u09a8\u09ad\u09c0\u09b0"
+      },
+      {
+        "replace": "MRS.",
+        "find": "\u09ae\u09cb\u099b\u09be\u0983"
+      },
+      {
+        "replace": "SAHNA",
+        "find": "\u09b6\u09be\u09b9\u09a8\u09be\u099c"
+      },
+      {
+        "replace": "FATMA",
+        "find": "\u09a8\u09be\u09b8\u09bf\u09ae"
+      },
+      {
+        "replace": "JRAHMAN",
+        "find": "\u0986\u09b9\u09ae\u09c7\u09a6"
+      },
+      {
+        "replace": "ROKIB",
+        "find": "\u09b0\u0995\u09bf\u09ac"
+      },
+      {
+        "replace": "T.",
+        "find": "\u099f\u09bf"
+      },
+      {
+        "replace": "MEHEDI",
+        "find": "\u098f\u09ae"
+      },
+      {
+        "replace": "SUVON",
+        "find": "\u09b9\u09be\u09b8\u09be\u09a8"
+      },
+      {
+        "replace": "Sharmin",
+        "find": "\u09b6\u09be\u09b0\u09ae\u09bf\u09a8"
+      },
+      {
+        "replace": "?????",
+        "find": "\u09ae\u09cb\u099b\u09be\u0983"
+      },
+      {
+        "replace": "???????",
+        "find": "\u09b6\u09cd\u09af\u09be\u09ae\u09b2\u09c0"
+      },
+      {
+        "replace": "LINKON",
+        "find": "\u09b2\u09bf\u0982\u0995\u09a8"
+      },
+      {
+        "replace": "BISWAS",
+        "find": "\u09ac\u09bf\u09b6\u09cd\u09ac\u09be\u09b8"
+      },
+      {
+        "replace": "GOLAM",
+        "find": "\u0997\u09cb\u09b2\u09be\u09ae"
+      },
+      {
+        "replace": "RABBANI",
+        "find": "\u09b0\u09ac\u09cd\u09ac\u09be\u09a8\u09c0"
+      },
+      {
+        "replace": "TALUKDER",
+        "find": "\u09a4\u09be\u09b2\u09c1\u0995\u09a6\u09be\u09b0"
+      },
+      {
+        "replace": "Sharifa",
+        "find": "\u09b6\u09b0\u09c0\u09ab\u09be"
+      },
+      {
+        "replace": "Ela",
+        "find": "\u0987\u09b2\u09be"
+      },
+      {
+        "replace": "Tanvir",
+        "find": "\u0986\u09a8\u09cb\u09df\u09be\u09b0"
+      },
+      {
+        "replace": "MUKTA",
+        "find": "\u09ae\u09c1\u0995\u09cd\u09a4\u09be"
+      },
+      {
+        "replace": "Aman",
+        "find": "\u099c\u09be\u09ae\u09be\u09a8"
+      },
+      {
+        "replace": "TUSHAR",
+        "find": "\u09a4\u09c1\u09b7\u09be\u09b0"
+      },
+      {
+        "replace": "HASINA",
+        "find": "\u09b9\u09be\u099b\u09bf\u09a8\u09be"
+      },
+      {
+        "replace": "BEBUM",
+        "find": "\u09ac\u09c7\u0997\u09ae"
+      },
+      {
+        "replace": "ANAMUL",
+        "find": "\u098f\u09a8\u09be\u09ae\u09c2\u09b2"
+      },
+      {
+        "replace": "EEPARI",
+        "find": "\u09ac\u09c7\u09aa\u09be\u09b0\u09c0"
+      },
+      {
+        "replace": "MAHBUB",
+        "find": "\u09ae\u09be\u09b9\u09ac\u09c1\u09ac"
+      },
+      {
+        "replace": "SAIAK",
+        "find": "\u09b8\u09be\u09b2\u09c7\u0995"
+      },
+      {
+        "replace": "EMON",
+        "find": "\u0987\u09ae\u09a8"
+      },
+      {
+        "replace": "MASUD",
+        "find": "\u09ae\u09be\u09b8\u09c1\u09a6"
+      },
+      {
+        "replace": ".",
+        "find": "\u09ae\u09cb\u0983"
+      },
+      {
+        "replace": "Mahabubur",
+        "find": "\u09b0\u09b9\u09ae\u09be\u09a8"
+      },
+      {
+        "replace": "Golapi",
+        "find": "\u0997\u09cb\u09b2\u09be\u09aa\u09c0"
+      },
+      {
+        "replace": "Rokiea",
+        "find": "\u09b0\u09cb\u0995\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "Begurn",
+        "find": "\u09ac\u09c7\u0997\u09ae"
+      },
+      {
+        "replace": "SHAID",
+        "find": "\u09b8\u09be\u0987\u09a6"
+      },
+      {
+        "replace": "JAHID",
+        "find": "\u099c\u09be\u09b9\u09bf\u09a6"
+      },
+      {
+        "replace": "JAMADDER",
+        "find": "\u099c\u09ae\u09be\u09a6\u09cd\u09a6\u09be\u09b0"
+      },
+      {
+        "replace": "ISTIFARIDA",
+        "find": "\u09ae\u09be\u099b\u09be\u0983"
+      },
+      {
+        "replace": "Yea",
+        "find": "\u0987\u09df\u09be"
+      },
+      {
+        "replace": "Rasul",
+        "find": "\u09b0\u09be\u09b8\u09c1\u09b2"
+      },
+      {
+        "replace": "Bepani",
+        "find": "\u09ac\u09c7\u09aa\u09be\u09b0\u09c0"
+      },
+      {
+        "replace": "Shuvra",
+        "find": "\u09b6\u09c1\u09ad\u09cd\u09b0\u09be"
+      },
+      {
+        "replace": "Nome",
+        "find": "\u09ae\u09cb\u0983"
+      },
+      {
+        "replace": "Ma.",
+        "find": "\u099c\u09be\u09b9\u09be\u099c\u09c0\u09b0"
+      },
+      {
+        "replace": "Jahangir",
+        "find": "\u0986\u09b2\u09ae"
+      },
+      {
+        "replace": "MALA",
+        "find": "\u09ae\u09be\u09b2\u09be"
+      },
+      {
+        "replace": "Rafikul",
+        "find": "\u09b0\u09ab\u09bf\u0995\u09c1\u09b2"
+      },
+      {
+        "replace": "Iskam",
+        "find": "\u0987\u09b8\u09b2\u09be\u09ae"
+      },
+      {
+        "replace": "Malene",
+        "find": "\u09ae\u09be\u09b2\u09c7\u0995"
+      },
+      {
+        "replace": "Sumalya",
+        "find": "\u09b8\u09c1\u09ae\u09be\u0987\u09df\u09be"
+      },
+      {
+        "replace": "JAHIRUL",
+        "find": "\u099c\u09b9\u09bf\u09b0\u09c1\u09b2"
+      },
+      {
+        "replace": "NASRIN",
+        "find": "\u09ae"
+      },
+      {
+        "replace": "ZAHANARA",
+        "find": "\u099c\u09be\u09b9\u09be\u09a8\u09be\u09b0\u09be"
+      },
+      {
+        "replace": "ASHRAFUNNAHER",
+        "find": "\u0986\u09b6\u09b0\u09be\u09ab\u09c1\u09a8\u09cd\u09a8\u09be\u09b9\u09be\u09b0"
+      },
+      {
+        "replace": "ARIFUR",
+        "find": "\u0986\u09b0\u09bf\u09ab\u09c1\u09b0"
+      },
+      {
+        "replace": "ARIN",
+        "find": "\u0986\u0987\u09b0\u09bf\u09a8"
+      },
+      {
+        "replace": "Mohammed",
+        "find": "\u09ae\u09cb\u09b9\u09be\u09ae\u09cd\u09ae\u09a6"
+      },
+      {
+        "replace": "Emran",
+        "find": "\u0987\u09ae\u09b0\u09be\u09a8"
+      },
+      {
+        "replace": "SHAY",
+        "find": "\u09ac\u09c7\u0997\u09ae"
+      },
+      {
+        "replace": "Mazedul",
+        "find": "\u09ae\u09be\u099c\u09c7\u09a6\u09c1\u09b2"
+      },
+      {
+        "replace": "MD.AZIZUL",
+        "find": "\u09ae\u09cb\u0983"
+      },
+      {
+        "replace": "ASMA",
+        "find": "\u0986\u099b\u09ae\u09be"
+      },
+      {
+        "replace": "ISABAQUE",
+        "find": "\u0987\u09b8\u09be\u09b9\u09be\u0995"
+      },
+      {
+        "replace": "Bakar",
+        "find": "\u09ac\u0995\u09cd\u0995\u09b0"
+      },
+      {
+        "replace": "ZAHANGIR",
+        "find": "\u099c\u09be\u09b9\u09be\u0999\u09cd\u0997\u09c0\u09b0"
+      },
+      {
+        "replace": "EKRAMUL",
+        "find": "\u0987\u0995\u09b0\u09be\u09ae\u09c1\u09b2"
+      },
+      {
+        "replace": "IQBAL",
+        "find": "\u0987\u0995\u09ac\u09be\u09b2"
+      },
+      {
+        "replace": "AROB",
+        "find": "\u0986\u09b0\u09ac"
+      },
+      {
+        "replace": "SYED",
+        "find": "\u09b8\u09c8\u09df\u09a6"
+      },
+      {
+        "replace": "Jahed",
+        "find": "\u099c\u09be\u09b9\u09c7\u09a6"
+      },
+      {
+        "replace": "TOHIDUL",
+        "find": "\u09a4\u09cb\u09b9\u09bf\u09a6\u09c1\u09b2"
+      },
+      {
+        "replace": "SAMSUD",
+        "find": "\u09b6\u09be\u09ae\u09b8\u09c1\u09a6\u09cd\u09a6\u09cb\u09b9\u09be"
+      },
+      {
+        "replace": "SHAHIDUL",
+        "find": "\u09b6\u09b9\u09bf\u09a6\u09c1\u09b2"
+      },
+      {
+        "replace": "Shefali",
+        "find": "\u09b6\u09c7\u09ab\u09be\u09b2\u09c0"
+      },
+      {
+        "replace": "SHAHAZADI",
+        "find": "\u09b6\u09be\u09b9\u09be\u099c\u09be\u09a6\u09c0"
+      },
+      {
+        "replace": "BE",
+        "find": "\u09ac\u09c7\u0997\u09ae"
+      },
+      {
+        "replace": "ZAHIRUL",
+        "find": "\u099c\u09b9\u09bf\u09b0\u09c1\u09b2"
+      },
+      {
+        "replace": "ROHUL",
+        "find": "\u09b0\u09c1\u09b9\u09c1\u09b2"
+      },
+      {
+        "replace": "Maidul",
+        "find": "\u09ae\u09be\u0987\u09a6\u09c1\u09b2"
+      },
+      {
+        "replace": "Kamruzzaman",
+        "find": "\u0995\u09be\u09ae\u09b0\u09c1\u099c\u09cd\u099c\u09be\u09ae\u09be\u09a8"
+      },
+      {
+        "replace": "HAMIDA",
+        "find": "\u09b9\u09be\u09ae\u09bf\u09a6\u09be"
+      },
+      {
+        "replace": "JAHANARA",
+        "find": "\u099c\u09be\u09b9\u09be\u09a8\u09be\u09b0\u09be"
+      },
+      {
+        "replace": "Motiur",
+        "find": "\u09ae\u09a4\u09bf\u0989\u09b0"
+      },
+      {
+        "replace": "ATHAR",
+        "find": "\u0986\u09a4\u09b9\u09be\u09b0\u09c1\u099c\u09cd\u099c\u09be\u09ae\u09be\u09a8"
+      },
+      {
+        "replace": "BADAL",
+        "find": "\u09ac\u09be\u09a6\u09b2"
+      },
+      {
+        "replace": "HUSAIN",
+        "find": "\u09b9\u09c1\u09b8\u09be\u0987\u09a8"
+      },
+      {
+        "replace": "AHMAD",
+        "find": "\u0986\u09b9\u09ae\u09be\u09a6"
+      },
+      {
+        "replace": "MISS",
+        "find": "\u09ae\u09bf\u09b8\u09c7\u09b8"
+      },
+      {
+        "replace": "PARBIN",
+        "find": "\u09aa\u09be\u09b0\u09ad\u09c0\u09a8"
+      },
+      {
+        "replace": "LAKI",
+        "find": "\u09b2\u09be\u0995\u09c0"
+      },
+      {
+        "replace": "SAMSAY",
+        "find": "\u09b8\u09be\u09ae\u09b8\u09c7"
+      },
+      {
+        "replace": "SHAKIL",
+        "find": "\u09b6\u09be\u0995\u09bf\u09b2"
+      },
+      {
+        "replace": "AHMUDULLAH",
+        "find": "\u0986\u09b9\u09ae\u09a6\u09c1\u09b2\u09cd\u09b2\u09be\u09b9"
+      },
+      {
+        "replace": "BOHAT",
+        "find": "\u09b8\u09cb\u09ae\u09be\u0997"
+      },
+      {
+        "replace": "Riponi",
+        "find": "\u09b0\u09bf\u09aa\u09a8\u09bf"
+      },
+      {
+        "replace": "SAHADAT",
+        "find": "\u09ae\u09cb\u0983"
+      },
+      {
+        "replace": "SHAHIDUR",
+        "find": "\u09b8\u09be\u09b9\u09bf\u09a6\u09c1\u09b0"
+      },
+      {
+        "replace": "SHAFIN",
+        "find": "\u09b8\u09be\u09ab\u09bf\u09a8"
+      },
+      {
+        "replace": "Na",
+        "find": "\u09ae\u09cb\u0983"
+      },
+      {
+        "replace": "Anju",
+        "find": "\u0985\u099e\u09cd\u099c\u09c1"
+      },
+      {
+        "replace": "Da",
+        "find": "\u09a6\u09c7"
+      },
+      {
+        "replace": "BIPUL",
+        "find": "\u09ac\u09bf\u09aa\u09c1\u09b2"
+      },
+      {
+        "replace": "KARMOKER",
+        "find": "\u0995\u09b0\u09cd\u09ae\u0995\u09be\u09b0"
+      },
+      {
+        "replace": "Aheia",
+        "find": "\u0996\u09be\u09a4\u09c1\u09a8"
+      },
+      {
+        "replace": "Morium",
+        "find": "\u09ae\u09b0\u09bf\u09df\u09ae"
+      },
+      {
+        "replace": "Jahanara",
+        "find": "\u099c\u09be\u09b9\u09be\u09a8\u09be\u09b0\u09be"
+      },
+      {
+        "replace": "AFZAL",
+        "find": "\u0986\u09ab\u099c\u09be\u09b2"
+      },
+      {
+        "replace": "Shahadat",
+        "find": "\u09b6\u09be\u09b9\u09be\u09a6\u09be\u09a4"
+      },
+      {
+        "replace": "IALAMIN",
+        "find": "\u0986\u09b2"
+      },
+      {
+        "replace": "GONI",
+        "find": "\u0997\u09a3\u09bf"
+      },
+      {
+        "replace": "BIZLIRAN",
+        "find": "\u09ac\u09bf\u099c\u09b2\u09c0"
+      },
+      {
+        "replace": "Faria",
+        "find": "\u09ab\u09be\u09b0\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "Nila",
+        "find": "\u09a8\u09bf\u09b2\u09be"
+      },
+      {
+        "replace": "KAWSER",
+        "find": "\u0995\u09be\u0989\u09b8\u09be\u09b0"
+      },
+      {
+        "replace": "Zabad",
+        "find": "\u099c\u09be\u09ac\u09c7\u09a6"
+      },
+      {
+        "replace": "Nazma",
+        "find": "\u09a8\u09be\u099c\u09ae\u09be"
+      },
+      {
+        "replace": "IRFAT",
+        "find": "\u0987\u09b0\u09ab\u09be\u09a4"
+      },
+      {
+        "replace": "TASNIM",
+        "find": "\u09a4\u09be\u09b8\u09a8\u09c0\u09ae"
+      },
+      {
+        "replace": "ANANNYA",
+        "find": "\u0985\u09a8\u09a8\u09cd\u09af\u09be"
+      },
+      {
+        "replace": "Jillur",
+        "find": "\u099c\u09bf\u09b2\u09cd\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "NAIMUL",
+        "find": "\u09ae\u09cb\u0983"
+      },
+      {
+        "replace": "SAIFUDDIN",
+        "find": "\u09b8\u09be\u0987\u09ab\u09c1\u09a6\u09cd\u09a6\u09c0\u09a8"
+      },
+      {
+        "replace": "SHAMIM",
+        "find": "\u09b6\u09be\u09ae\u09c0\u09ae"
+      },
+      {
+        "replace": "HOSAIN",
+        "find": "\u09b9\u09cb\u09b8\u09c7\u09a8"
+      },
+      {
+        "replace": "Ripa",
+        "find": "\u09b0\u09bf\u09aa\u09be"
+      },
+      {
+        "replace": "JAHEEDUR",
+        "find": "\u099c\u09be\u09b9\u09bf\u09a6\u09c1\u09b0"
+      },
+      {
+        "replace": "Monowara",
+        "find": "\u09ae\u09a8\u09cb\u09df\u09be\u09b0\u09be"
+      },
+      {
+        "replace": "No.",
+        "find": "\u09ae\u09cb\u0983"
+      },
+      {
+        "replace": "Mahbubur",
+        "find": "\u09ae\u09be\u09b9\u09ac\u09c1\u09ac\u09c1\u09b0"
+      },
+      {
+        "replace": "TIM.",
+        "find": "\u099f\u09bf"
+      },
+      {
+        "replace": "KHAIRUL",
+        "find": "\u0996\u09be\u09df\u09b0\u09c1\u09b2"
+      },
+      {
+        "replace": "MONIRUZZAMAN",
+        "find": "\u09ae\u09a8\u09bf\u09b0\u09c1\u099c\u09cd\u099c\u09be\u09ae\u09be\u09a8"
+      },
+      {
+        "replace": "Rabby",
+        "find": "\u09b0\u09be\u09ac\u09cd\u09ac\u09c0"
+      },
+      {
+        "replace": "Halimuzzaman",
+        "find": "\u09b9\u09be\u09b2\u09bf\u09ae\u09c1\u099c\u09cd\u099c\u09be\u09ae\u09be\u09a8"
+      },
+      {
+        "replace": "MUZADDID",
+        "find": "\u09ae\u09c1\u099c\u09be\u09a6\u09cd\u09a6\u09bf\u09a6"
+      },
+      {
+        "replace": "MOHAMMED",
+        "find": "\u09ae\u09cb\u09b9\u09be\u09ae\u09cd\u09ae\u09c1\u09a6"
+      },
+      {
+        "replace": "RASHDEE",
+        "find": "\u09b0\u09be\u09b6\u09a6\u09c0"
+      },
+      {
+        "replace": "MOST.",
+        "find": "\u09ae\u09cb\u099b\u09be\u0983"
+      },
+      {
+        "replace": "AMBIA",
+        "find": "\u0986\u09ae\u09cd\u09ac\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "K.",
+        "find": "\u09b0\u09ab\u09bf\u0995\u09c1\u09b2"
+      },
+      {
+        "replace": "qul",
+        "find": "\u0987\u09b8\u09b2\u09be\u09ae"
+      },
+      {
+        "replace": "SIMU",
+        "find": "\u09b8\u09c0\u09ae\u09c1"
+      },
+      {
+        "replace": "RANI",
+        "find": "\u09b0\u09be\u09a3\u09c0"
+      },
+      {
+        "replace": "MODAK",
+        "find": "\u09ae\u09cb\u09a6\u0995"
+      },
+      {
+        "replace": "Jamila",
+        "find": "\u099c\u09be\u09ae\u09bf\u09b2\u09be"
+      },
+      {
+        "replace": "TWAHA",
+        "find": "\u09a4\u09b9\u09be"
+      },
+      {
+        "replace": "HIKA",
+        "find": "\u09b0\u09be\u09a8\u09c0"
+      },
+      {
+        "replace": "NAWER",
+        "find": "\u09a8\u09be\u0993\u09df\u09be\u09b0"
+      },
+      {
+        "replace": "AZMERI",
+        "find": "\u0986\u099c\u09ae\u09c7\u09b0\u09c0"
+      },
+      {
+        "replace": "SADIN",
+        "find": "\u09b8\u09be\u09a6\u09c0"
+      },
+      {
+        "replace": "Hadayet",
+        "find": "\u09b9\u09c7\u09a6\u09be\u09df\u09c7\u09a4"
+      },
+      {
+        "replace": "Ullah",
+        "find": "\u0989\u09b2\u09cd\u09af\u09be\u09b9"
+      },
+      {
+        "replace": "MOHSIN",
+        "find": "\u09ae\u09b9\u09b8\u09bf\u09a8"
+      },
+      {
+        "replace": "Kolpona",
+        "find": "\u0996\u09be\u09a4\u09c1\u09a8"
+      },
+      {
+        "replace": "SAJIB",
+        "find": "\u09b8\u099c\u09bf\u09ac"
+      },
+      {
+        "replace": "Mahedi",
+        "find": "\u09ae\u09c7\u09b9\u09c7\u09a6\u09c0"
+      },
+      {
+        "replace": "NONE",
+        "find": "NONE"
+      },
+      {
+        "replace": "Debabrata",
+        "find": "\u09a6\u09c7\u09ac\u09ac\u09cd\u09b0\u09a4"
+      },
+      {
+        "replace": "D",
+        "find": "\u09a1\u09bf"
+      },
+      {
+        "replace": "Rayhan",
+        "find": "\u09b0\u09be\u09df\u09b9\u09be\u09a8"
+      },
+      {
+        "replace": "Shahabuddin",
+        "find": "\u09b8\u09be\u09b9\u09be\u09ac\u09c1\u09a6\u09cd\u09a6\u09bf\u09a8"
+      },
+      {
+        "replace": "MAHEDIHASSAN",
+        "find": "\u09ae\u09c7\u09b9\u09c7\u09a6\u09c0"
+      },
+      {
+        "replace": "BISHWAS",
+        "find": "\u09b9\u09be\u09b8\u09be\u09a8"
+      },
+      {
+        "replace": "Mahamuda",
+        "find": "\u09ae\u09be\u09b9\u09be\u09ae\u09c1\u09a6\u09be"
+      },
+      {
+        "replace": "Sadequr",
+        "find": "\u09b8\u09be\u09a6\u09c7\u0995\u09c1\u09b0"
+      },
+      {
+        "replace": "Mehdi",
+        "find": "\u09ae\u09c7\u09b9\u09c7\u09a6\u09c0"
+      },
+      {
+        "replace": "Sakhena",
+        "find": "\u09b8\u0995\u09bf\u09a8\u09be"
+      },
+      {
+        "replace": "Amin",
+        "find": "\u0986\u09ae\u09bf\u09a8"
+      },
+      {
+        "replace": "Habibur",
+        "find": "\u09b9\u09be\u09ac\u09bf\u09ac\u09c1\u09b0"
+      },
+      {
+        "replace": "Faruk",
+        "find": "\u09ab\u09be\u09b0\u09c1\u0995"
+      },
+      {
+        "replace": "FOZLUL",
+        "find": "\u09ab\u099c\u09b2\u09c1\u09b2"
+      },
+      {
+        "replace": "Murshed",
+        "find": "\u09ae\u09c2\u09b0\u09cd\u09b6\u09c7\u09a6"
+      },
+      {
+        "replace": "BASHIR",
+        "find": "\u09ac\u09b6\u09bf\u09b0"
+      },
+      {
+        "replace": "RIAZ",
+        "find": "\u09b0\u09bf\u09df\u09be\u099c"
+      },
+      {
+        "replace": "Osman",
+        "find": "\u0989\u09b8\u09ae\u09be\u09a8"
+      },
+      {
+        "replace": "Goni",
+        "find": "\u0997\u09a8\u09bf"
+      },
+      {
+        "replace": "Polak",
+        "find": "\u09aa\u09c1\u09b2\u0995"
+      },
+      {
+        "replace": "SADATHOSSAIN",
+        "find": "\u09b8\u09be\u09a6\u09be\u09a4"
+      },
+      {
+        "replace": "fame",
+        "find": "\u09b0\u09be\u099c\u09c7\u09a8\u09cd\u09a6\u09cd\u09b0"
+      },
+      {
+        "replace": "Rajendra",
+        "find": "\u09a8\u09be\u0996"
+      },
+      {
+        "replace": "Hasima",
+        "find": "\u09b9\u09be\u099b\u09bf\u09a8\u09be"
+      },
+      {
+        "replace": "MD.AKRAM",
+        "find": "\u09ae\u09cb\u0983"
+      },
+      {
+        "replace": "Farhana",
+        "find": "\u09ab\u09be\u09b0\u09b9\u09be\u09a8\u09be"
+      },
+      {
+        "replace": "Ferdoshi",
+        "find": "\u09ab\u09c7\u09b0\u09a6\u09cc\u09b8\u09c0"
+      },
+      {
+        "replace": "ALYA",
+        "find": "\u0986\u09b2\u09c7\u09df\u09be"
+      },
+      {
+        "replace": "BABY",
+        "find": "\u09ac\u09c7\u09ac\u09c0"
+      },
+      {
+        "replace": "SUMON",
+        "find": "\u09b8\u09c1\u09ae\u09a8"
+      },
+      {
+        "replace": "Haron",
+        "find": "\u09b9\u09be\u09b0\u09c1\u09a8"
+      },
+      {
+        "replace": "?",
+        "find": "\u09ae\u09cb\u0983"
+      },
+      {
+        "replace": "??????",
+        "find": "\u0989\u09a6\u09cd\u09a6\u09bf\u09a8"
+      },
+      {
+        "replace": "Sahinur",
+        "find": "\u09b8\u09be\u09b9\u09bf\u09a8\u09c1\u09b0"
+      },
+      {
+        "replace": "Ruksana",
+        "find": "\u09b0\u09c1\u0995\u09b8\u09be\u09a8\u09be"
+      },
+      {
+        "replace": "Momotaz",
+        "find": "\u09ae\u09ae\u09a4\u09be\u099c"
+      },
+      {
+        "replace": "AILKIS",
+        "find": "\u09ac\u09bf\u09b2\u0995\u09bf\u099b"
+      },
+      {
+        "replace": "SHARIAR",
+        "find": "\u09b6\u09be\u09b9\u09b0\u09bf\u09df\u09be\u09b0"
+      },
+      {
+        "replace": "HEMEL",
+        "find": "\u09b9\u09bf\u09ae\u09c7\u09b2"
+      },
+      {
+        "replace": "GHOSH",
+        "find": "\u0998\u09cb\u09b7"
+      },
+      {
+        "replace": "MST.ASMA",
+        "find": "\u09ae\u09cb\u099b\u09be\u0983"
+      },
+      {
+        "replace": "Abrar",
+        "find": "\u0986\u09ac\u09b0\u09be\u09b0"
+      },
+      {
+        "replace": "Zaowad",
+        "find": "\u099c\u09be\u0993\u09df\u09be\u09a6"
+      },
+      {
+        "replace": "BHLAH",
+        "find": "\u09ac\u09bf\u09b2\u09cd\u09b2\u09be\u09b9"
+      },
+      {
+        "replace": "Manik",
+        "find": "\u09ae\u09be\u09a8\u09bf\u0995"
+      },
+      {
+        "replace": "Rotun",
+        "find": "\u09b0\u09a4\u09a8"
+      },
+      {
+        "replace": "Rulia",
+        "find": "\u09b0\u09c1\u09b2\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "Muslima",
+        "find": "\u09ae\u09c1\u09b8\u09b2\u09bf\u09ae\u09be"
+      },
+      {
+        "replace": "Afsar",
+        "find": "\u0986\u09ab\u099b\u09be\u09b0"
+      },
+      {
+        "replace": "Mohshin",
+        "find": "\u09ae\u09b9\u09b8\u09c0\u09a8"
+      },
+      {
+        "replace": "Joli",
+        "find": "\u099c\u09b2\u09bf\u09b2"
+      },
+      {
+        "replace": "RAHMAT",
+        "find": "\u09b0\u09b9\u09ae\u09a4"
+      },
+      {
+        "replace": "ne",
+        "find": "\u09ae\u09cb\u0983"
+      },
+      {
+        "replace": "ABDULLA",
+        "find": "\u09b9\u09be\u099c\u09ac\u09c0"
+      },
+      {
+        "replace": "MOLLA",
+        "find": "\u09ae\u09cb\u09b2\u09cd\u09b2\u09be"
+      },
+      {
+        "replace": "ALINUR",
+        "find": "\u0986\u09b2\u09c0\u09a8\u09c2\u09b0"
+      },
+      {
+        "replace": "MAHMUD",
+        "find": "\u09ae\u09be\u09b9\u09ae\u09c1\u09a6"
+      },
+      {
+        "replace": "Anwar",
+        "find": "\u0986\u09a8\u09cb\u09df\u09be\u09b0"
+      },
+      {
+        "replace": "NAYAN",
+        "find": "\u09a8\u09df\u09a8"
+      },
+      {
+        "replace": "Jahid",
+        "find": "\u099c\u09be\u09b9\u09bf\u09a6"
+      },
+      {
+        "replace": "RAKIB",
+        "find": "\u09b0\u09be\u0995\u09bf\u09ac"
+      },
+      {
+        "replace": "Fulmon",
+        "find": "\u09ab\u09c1\u09b2\u09ae\u09a8"
+      },
+      {
+        "replace": "Ara",
+        "find": "\u0986\u09b0\u09be"
+      },
+      {
+        "replace": "Kashem",
+        "find": "\u0995\u09be\u09b6\u09c7\u09ae"
+      },
+      {
+        "replace": "Monammed",
+        "find": "\u09b6\u09cb\u09df\u09c7\u09ac"
+      },
+      {
+        "replace": "Younus",
+        "find": "\u0987\u0989\u09a8\u09c1\u099b"
+      },
+      {
+        "replace": "Iqbal",
+        "find": "\u0987\u0995\u09ac\u09be\u09b2"
+      },
+      {
+        "replace": "Janger",
+        "find": "\u099c\u09be\u09b9\u09be\u0999\u09cd\u0997\u09c0\u09b0"
+      },
+      {
+        "replace": "SOROWAR",
+        "find": "\u09b8\u09b0\u09cb\u09df\u09be\u09b0"
+      },
+      {
+        "replace": "Nahid",
+        "find": "\u09b9\u09be\u09b8\u09be\u09a8"
+      },
+      {
+        "replace": "GOFFAR",
+        "find": "\u0997\u09ab\u09ab\u09be\u09b0"
+      },
+      {
+        "replace": "RAZHA",
+        "find": "\u09b0\u09c7\u099c\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "Jafar",
+        "find": "\u099c\u09be\u09ab\u09b0"
+      },
+      {
+        "replace": "N",
+        "find": "\u098f\u09a8"
+      },
+      {
+        "replace": "Makibul",
+        "find": "\u098f\u09ae"
+      },
+      {
+        "replace": "TAHMINA",
+        "find": "\u09a4\u09be\u09b9\u09ae\u09bf\u09a8\u09be"
+      },
+      {
+        "replace": "AKTHER",
+        "find": "\u0986\u0995\u09cd\u09a4\u09be\u09b0"
+      },
+      {
+        "replace": "ASHAN",
+        "find": "\u0986\u09b8\u09be\u09a8"
+      },
+      {
+        "replace": "Khurshida",
+        "find": "\u0996\u09c1\u09b0\u09cd\u09b6\u09bf\u09a6\u09be"
+      },
+      {
+        "replace": "RIFAT",
+        "find": "\u09b0\u09bf\u09ab\u09be\u09a4"
+      },
+      {
+        "replace": "SUHAAKTHEE",
+        "find": "\u09b8\u09c1\u09ab\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "KERAMAT",
+        "find": "\u0995\u09c7\u09b0\u09be\u09ae\u09a4"
+      },
+      {
+        "replace": "Pintu",
+        "find": "\u09aa\u09bf\u09a8\u09cd\u099f\u09c1"
+      },
+      {
+        "replace": "RAHABEGUM",
+        "find": "\u09b0\u09be\u09ab\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "HAJERA",
+        "find": "\u09b9\u09be\u099c\u09c7\u09b0\u09be"
+      },
+      {
+        "replace": "KHANAM",
+        "find": "\u0996\u09be\u09a8\u09ae"
+      },
+      {
+        "replace": "HABIB",
+        "find": "\u09b9\u09be\u09ac\u09bf\u09ac"
+      },
+      {
+        "replace": "ISTIAQUE",
+        "find": "\u0987\u09b8\u09a4\u09bf\u09df\u09be\u0995"
+      },
+      {
+        "replace": "NIZAMUDDIN",
+        "find": "\u09a8\u09bf\u099c\u09be\u09ae"
+      },
+      {
+        "replace": "APU",
+        "find": "\u0989\u09a6\u09cd\u09a6\u09bf\u09a8"
+      },
+      {
+        "replace": "SAZEDA",
+        "find": "\u09b8\u09be\u099c\u09c7\u09a6\u09be"
+      },
+      {
+        "replace": "Kalpana",
+        "find": "\u0995\u09b2\u09cd\u09aa\u09a8\u09be"
+      },
+      {
+        "replace": "Roy",
+        "find": "\u09b0\u09be\u09df"
+      },
+      {
+        "replace": "SK.",
+        "find": "\u09a8\u09be\u09b8\u09bf\u09b0"
+      },
+      {
+        "replace": "SAYEEF",
+        "find": "\u09b8\u09be\u0987\u09ab"
+      },
+      {
+        "replace": "FOYSAL",
+        "find": "\u09ab\u09df\u09b8\u09be\u09b2"
+      },
+      {
+        "replace": "SHAHANAJ",
+        "find": "\u09b6\u09be\u09b9\u09be\u09a8\u09be\u099c"
+      },
+      {
+        "replace": "ALOM",
+        "find": "\u0986\u09b2\u09ae"
+      },
+      {
+        "replace": "Sheuly",
+        "find": "\u09b6\u09bf\u0989\u09b2\u09bf"
+      },
+      {
+        "replace": "Sanjida",
+        "find": "\u09b8\u09be\u09a8\u099c\u09bf\u09a6\u09be"
+      },
+      {
+        "replace": "Shambhu",
+        "find": "\u09b6\u09ae\u09cd\u09ad\u09c1"
+      },
+      {
+        "replace": "RUMA",
+        "find": "\u09b0\u09c1\u09ae\u09be"
+      },
+      {
+        "replace": "SEZANUAL",
+        "find": "\u09b8\u09c7\u099c\u09be\u09a8\u09c1\u09b2"
+      },
+      {
+        "replace": "SINBAD",
+        "find": "\u09b8\u09bf\u09a8\u09ac\u09be\u09a6"
+      },
+      {
+        "replace": "SHIRAZUL",
+        "find": "\u09b8\u09bf\u09b0\u09be\u099c\u09c1\u09b2"
+      },
+      {
+        "replace": "ROUF",
+        "find": "\u09b0\u0989\u09ab"
+      },
+      {
+        "replace": "HUMAYONKABIR",
+        "find": "\u09b9\u09c1\u09ae\u09be\u09df\u09a8"
+      },
+      {
+        "replace": "Merajul",
+        "find": "\u09ae\u09c7\u09b0\u09be\u099c\u09c1\u09b2"
+      },
+      {
+        "replace": "SOHEL",
+        "find": "\u09b8\u09cb\u09b9\u09c7\u09b2"
+      },
+      {
+        "replace": "DEBATOSH",
+        "find": "\u09a6\u09c7\u09ac\u09a4\u09cb\u09b7"
+      },
+      {
+        "replace": "MITHUN",
+        "find": "\u09ae\u09bf\u09a0\u09c1\u09a8"
+      },
+      {
+        "replace": "BALA",
+        "find": "\u09ac\u09be\u09b2\u09be"
+      },
+      {
+        "replace": "Sagar",
+        "find": "\u09b8\u09be\u0997\u09b0"
+      },
+      {
+        "replace": "Karati",
+        "find": "\u0995\u09b0\u09be\u09a4\u09bf"
+      },
+      {
+        "replace": "BIBIHAFSA",
+        "find": "\u09ac\u09bf\u09ac"
+      },
+      {
+        "replace": "MUSLIMA",
+        "find": "\u09ae\u09c1\u09b8\u09b2\u09bf\u09ae\u09be"
+      },
+      {
+        "replace": "Arifa",
+        "find": "\u0986\u09b0\u09bf\u09ab\u09be"
+      },
+      {
+        "replace": "Fatema",
+        "find": "\u09ac\u09c7\u0997\u09ae"
+      },
+      {
+        "replace": "Uz",
+        "find": "\u0989\u099c"
+      },
+      {
+        "replace": "Zaman",
+        "find": "\u099c\u09be\u09ae\u09be\u09a8"
+      },
+      {
+        "replace": "FATIMA",
+        "find": "\u09ab\u09be\u09a4\u09c7\u09ae\u09be"
+      },
+      {
+        "replace": "TONIMA",
+        "find": "\u09a4\u09a8\u09bf\u09ae\u09be"
+      },
+      {
+        "replace": "AZIZ",
+        "find": "\u0986\u099c\u09bf\u099c"
+      },
+      {
+        "replace": "Dr.",
+        "find": "\u09a1\u09be\u0983"
+      },
+      {
+        "replace": "Hosne",
+        "find": "\u09b9\u09cb\u09b8\u09a8\u09c7"
+      },
+      {
+        "replace": "Idris",
+        "find": "\u0987\u09a6\u09cd\u09b0\u09bf\u09b8"
+      },
+      {
+        "replace": "MOSTAK",
+        "find": "\u09ae\u09b8\u09cd\u09a4\u09be\u0995"
+      },
+      {
+        "replace": "AHIMED",
+        "find": "\u0986\u09b9\u09ae\u09a6"
+      },
+      {
+        "replace": "TILKA",
+        "find": "\u09a4\u09bf\u09b2\u0995\u09be"
+      },
+      {
+        "replace": "ADINA",
+        "find": "\u0986\u09ae\u09bf\u09a8\u09be"
+      },
+      {
+        "replace": "Suhel",
+        "find": "\u09b8\u09c1\u09b9\u09c7\u09b2"
+      },
+      {
+        "replace": "ANWARA",
+        "find": "\u0986\u09a8\u09cb\u09df\u09be\u09b0\u09be"
+      },
+      {
+        "replace": "URMI",
+        "find": "\u0989\u09b0\u09cd\u09ae\u09bf"
+      },
+      {
+        "replace": "Umu",
+        "find": "\u0989\u09b0\u09cd\u09ae\u09bf"
+      },
+      {
+        "replace": "Rupia",
+        "find": "\u09b0\u09c1\u09aa\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "AMENA",
+        "find": "\u0986\u09ae\u09c7\u09a8\u09be"
+      },
+      {
+        "replace": "ABBASI",
+        "find": "\u0986\u09ac\u09cd\u09ac\u09be\u099b\u09c0"
+      },
+      {
+        "replace": "Arafat",
+        "find": "\u0986\u09b0\u09be\u09ab\u09be\u09a4"
+      },
+      {
+        "replace": "MIR",
+        "find": "\u09ae\u09c0\u09b0"
+      },
+      {
+        "replace": "KASHEM",
+        "find": "\u0995\u09be\u09b6\u09c7\u09ae"
+      },
+      {
+        "replace": "Mahmudul",
+        "find": "\u09ae\u09be\u09b9\u09ae\u09c1\u09a6\u09c1\u09b2"
+      },
+      {
+        "replace": "Mani",
+        "find": "\u09ae\u09a8\u09bf"
+      },
+      {
+        "replace": "SAYIDUR",
+        "find": "\u09b8\u09be\u0987\u09a6\u09c1\u09b0"
+      },
+      {
+        "replace": "Banera",
+        "find": "\u09ac\u09be\u09a8\u09c7\u09b0\u09be"
+      },
+      {
+        "replace": "FARIYA",
+        "find": "\u09ab\u09be\u09b0\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "DIDAER",
+        "find": "\u09a6\u09bf\u09a6\u09be\u09b0"
+      },
+      {
+        "replace": "Eusuf",
+        "find": "\u0987\u0989\u099b\u09c1\u09ab"
+      },
+      {
+        "replace": "Robezan",
+        "find": "\u09b0\u09ac\u09c7\u099c\u09be\u09a8"
+      },
+      {
+        "replace": "Bewa",
+        "find": "\u09ac\u09c7\u0993\u09df\u09be"
+      },
+      {
+        "replace": "PIARY",
+        "find": "\u09aa\u09bf\u09df\u09be\u09b0\u09c0"
+      },
+      {
+        "replace": "Abbas",
+        "find": "\u0986\u09ac\u09cd\u09ac\u09be\u099b"
+      },
+      {
+        "replace": "Md.Rasel",
+        "find": "\u09ae\u09cb\u0983"
+      },
+      {
+        "replace": "Sikder",
+        "find": "\u09b0\u09be\u09b8\u09c7\u09b2"
+      },
+      {
+        "replace": "KAPIL",
+        "find": "\u0995\u09aa\u09bf\u09b2"
+      },
+      {
+        "replace": "THANBIRIR",
+        "find": "\u09a4\u09be\u09a8\u09ad\u09c0\u09b0"
+      },
+      {
+        "replace": "SIKDER",
+        "find": "\u09b6\u09bf\u0995\u09a6\u09be\u09b0"
+      },
+      {
+        "replace": "TONMOY",
+        "find": "\u09a4\u09a8\u09cd\u09ae\u09df"
+      },
+      {
+        "replace": "Monir",
+        "find": "\u09ae\u09a8\u09bf\u09b0"
+      },
+      {
+        "replace": "SHAHANAZ",
+        "find": "\u09b6\u09be\u09b9\u09be\u09a8\u09be\u099c"
+      },
+      {
+        "replace": "MONTAJ",
+        "find": "\u09ae\u09a8\u09cd\u09a4\u09be\u099c"
+      },
+      {
+        "replace": "ISIRAJUL",
+        "find": "\u09b8\u09bf\u09b0\u09be\u099c\u09c1\u09b2"
+      },
+      {
+        "replace": "Famim",
+        "find": "\u09ab\u09be\u09ae\u09bf\u09ae"
+      },
+      {
+        "replace": "Araf",
+        "find": "\u0986\u09b0\u09be\u09ab"
+      },
+      {
+        "replace": "SHAWON",
+        "find": "\u09b6\u09be\u0993\u09a8"
+      },
+      {
+        "replace": "TAPU",
+        "find": "\u09a4\u09aa\u09c1"
+      },
+      {
+        "replace": "Runa",
+        "find": "\u09b0\u09c1\u09a3\u09cd\u099f\u09be"
+      },
+      {
+        "replace": "SIFULLAH",
+        "find": "\u09b8\u09be\u0987\u09ab\u09c1\u09b2\u09cd\u09b2\u09be\u09b9"
+      },
+      {
+        "replace": "JAYNAL",
+        "find": "\u099c\u09df\u09a8\u09be\u09b2"
+      },
+      {
+        "replace": "AHAMMAD",
+        "find": "\u0986\u09b9\u09be\u09ae\u09be\u09a6"
+      },
+      {
+        "replace": "TUNAZZINA",
+        "find": "\u09a4\u09c1\u09a8\u09be\u099c\u09cd\u099c\u09bf\u09a8\u09be"
+      },
+      {
+        "replace": "CHANCHALALANE",
+        "find": "\u09b2\u09be"
+      },
+      {
+        "replace": "lqbal",
+        "find": "\u0987\u0995\u09ac\u09be\u09b2"
+      },
+      {
+        "replace": "Nuru",
+        "find": "\u09a8\u09c1\u09b0"
+      },
+      {
+        "replace": "TAMJID",
+        "find": "\u09a4\u09be\u09ae\u099c\u09bf\u09a6"
+      },
+      {
+        "replace": "IMAM",
+        "find": "\u0987\u09ae\u09be\u09ae"
+      },
+      {
+        "replace": "MIM",
+        "find": "\u09ae\u09bf\u09ae"
+      },
+      {
+        "replace": "ARIFUL",
+        "find": "\u0986\u09b0\u09bf\u09ab\u09c1\u09b2"
+      },
+      {
+        "replace": "Julekha",
+        "find": "\u099c\u09c1\u09b2\u09c7\u0996\u09be"
+      },
+      {
+        "replace": "Ranu",
+        "find": "\u09b0\u09be\u09a8\u09c1"
+      },
+      {
+        "replace": "Sahera",
+        "find": "\u099b\u09be\u09b9\u09c7\u09b0\u09be"
+      },
+      {
+        "replace": "ALIPRODHANIA",
+        "find": "\u0986\u09b2\u09c0"
+      },
+      {
+        "replace": "Sahabul",
+        "find": "\u09b6\u09be\u09b9\u09be\u09ac\u09c1\u09b2"
+      },
+      {
+        "replace": "SHAHADATHOSSAN",
+        "find": "\u09b6\u09be\u09b9\u09be\u09a6\u09be\u09a4"
+      },
+      {
+        "replace": "HASANUR",
+        "find": "\u09b9\u09be\u09b8\u09be\u09a8\u09c1\u09b0"
+      },
+      {
+        "replace": "SARDER",
+        "find": "\u09b8\u09b0\u09a6\u09be\u09b0"
+      },
+      {
+        "replace": "Hakim",
+        "find": "\u09b9\u09be\u0995\u09bf\u09ae"
+      },
+      {
+        "replace": "SAFAYAT",
+        "find": "\u09b6\u09be\u09ab\u09be\u09df\u09c7\u09a4"
+      },
+      {
+        "replace": "UBRAHIM",
+        "find": "\u0987\u09ac\u09cd\u09b0\u09be\u09b9\u09c0\u09ae"
+      },
+      {
+        "replace": "KHALIL",
+        "find": "\u0996\u09b2\u09bf\u09b2"
+      },
+      {
+        "replace": "Monira",
+        "find": "\u09ae\u09a8\u09bf\u09b0\u09be"
+      },
+      {
+        "replace": "RAZIUL",
+        "find": "\u09b0\u09be\u099c\u09bf\u0989\u09b2"
+      },
+      {
+        "replace": "NACK",
+        "find": "\u09a8\u09c7\u0995"
+      },
+      {
+        "replace": "MAH",
+        "find": "\u09ae\u09c7\u09b9\u09c7\u099c\u09be\u09ac\u09bf\u09a8"
+      },
+      {
+        "replace": "JABIN",
+        "find": "\u09a6\u09bf\u09ac\u09be"
+      },
+      {
+        "replace": "MOURI",
+        "find": "\u09ae\u09cc\u09b0\u09bf"
+      },
+      {
+        "replace": "JONY",
+        "find": "\u099c\u09a8\u09bf"
+      },
+      {
+        "replace": "R.",
+        "find": "\u0986\u09b0"
+      },
+      {
+        "replace": "Mahin",
+        "find": "\u09ae\u09be\u09b9\u09bf\u09a8"
+      },
+      {
+        "replace": "Redwan",
+        "find": "\u09b0\u09bf\u09a6\u0993\u09df\u09be\u09a8"
+      },
+      {
+        "replace": "Ripan",
+        "find": "\u09b0\u09bf\u09aa\u09a8"
+      },
+      {
+        "replace": "Chandra",
+        "find": "\u099a\u09a8\u09cd\u09a6\u09cd\u09b0"
+      },
+      {
+        "replace": "Shaha",
+        "find": "\u09b8\u09be\u09b9\u09be"
+      },
+      {
+        "replace": "AZMIR",
+        "find": "\u0986\u099c\u09ae\u09c0\u09b0"
+      },
+      {
+        "replace": "Sojibul",
+        "find": "\u09b8\u099c\u09bf\u09ac\u09c1\u09b2"
+      },
+      {
+        "replace": "HAZRAT",
+        "find": "\u09b9\u099c\u09b0\u09a4"
+      },
+      {
+        "replace": "ZAHIDUR",
+        "find": "\u099c\u09be\u09b9\u09bf\u09a6\u09c1\u09b0"
+      },
+      {
+        "replace": "Ashraful",
+        "find": "\u0986\u09b6\u09b0\u09be\u09ab\u09c1\u09b2"
+      },
+      {
+        "replace": "SARWAR",
+        "find": "\u09b8\u09be\u09b0\u09cb\u09df\u09be\u09b0"
+      },
+      {
+        "replace": "TALEB",
+        "find": "\u09a4\u09be\u09b2\u09c7\u09ac"
+      },
+      {
+        "replace": "Sathi",
+        "find": "\u09b8\u09be\u09a5\u09c0"
+      },
+      {
+        "replace": "Aktar",
+        "find": "\u0986\u0995\u09cd\u09a4\u09be\u09b0"
+      },
+      {
+        "replace": "K.H.",
+        "find": "\u0995\u09c7."
+      },
+      {
+        "replace": "Asaduzzman",
+        "find": "\u098f\u0987\u099a"
+      },
+      {
+        "replace": "Biplob",
+        "find": "\u0986\u09b8\u09be\u09a6\u09c1\u099c\u09cd\u099c\u09be\u09ae\u09be\u09a8"
+      },
+      {
+        "replace": "Sarifa",
+        "find": "\u0986\u0995\u09cd\u09a4\u09be\u09b0"
+      },
+      {
+        "replace": "RAHUL",
+        "find": "\u09b0\u09be\u09b9\u09c1\u09b2"
+      },
+      {
+        "replace": "AHMMED",
+        "find": "\u0986\u09b9\u09ae\u09c7\u09a6"
+      },
+      {
+        "replace": "AMARAT",
+        "find": "\u09b9\u09cb\u09b8\u09c7\u09a8"
+      },
+      {
+        "replace": "TANMRUL",
+        "find": "\u09a4\u09be\u09a8\u09ad\u09c0\u09b0\u09c1\u09b2"
+      },
+      {
+        "replace": "Rashed",
+        "find": "\u09b0\u09be\u09b6\u09c7\u09a6"
+      },
+      {
+        "replace": "MST.SUMSUNNAHAR",
+        "find": "\u09ae\u09cb\u099b\u09be\u0983"
+      },
+      {
+        "replace": "MARIAM",
+        "find": "\u09ae\u09b0\u09bf\u09df\u09ae"
+      },
+      {
+        "replace": "HEGAM",
+        "find": "\u09ac\u09c7\u0997\u09ae"
+      },
+      {
+        "replace": "Rubel",
+        "find": "\u09b0\u09c1\u09ac\u09c7\u09b2"
+      },
+      {
+        "replace": "Ahamed",
+        "find": "\u0986\u09b9\u09ae\u09c7\u09a6"
+      },
+      {
+        "replace": "Mannan",
+        "find": "\u09ae\u09be\u09a8\u09cd\u09a8\u09be\u09a8"
+      },
+      {
+        "replace": "All",
+        "find": "\u0986\u09b2\u09c0"
+      },
+      {
+        "replace": "AFTAR",
+        "find": "\u0986\u09ab\u09a4\u09be\u09b0"
+      },
+      {
+        "replace": "IKBAL",
+        "find": "\u0987\u0995\u09ac\u09be\u09b2"
+      },
+      {
+        "replace": "TAIEB",
+        "find": "\u09a4\u09be\u09df\u09c7\u09ac"
+      },
+      {
+        "replace": "Mamataj",
+        "find": "\u09ae\u09ae\u09a4\u09be\u099c"
+      },
+      {
+        "replace": "AIKUL",
+        "find": "\u0986\u0987\u0995\u09c1\u09b2"
+      },
+      {
+        "replace": "Kh",
+        "find": "\u0996\u09a8\u09cd\u09a6\u0983"
+      },
+      {
+        "replace": "Asikhur",
+        "find": "\u0986\u09b6\u09bf\u0995\u09c1\u09b0"
+      },
+      {
+        "replace": "RAKIBUR",
+        "find": "\u09b0\u09be\u0995\u09bf\u09ac\u09c1\u09b0"
+      },
+      {
+        "replace": "TOWHID",
+        "find": "\u09a4\u09cc\u09b9\u09bf\u09a6"
+      },
+      {
+        "replace": "TOWFIK",
+        "find": "\u09a4\u09cc\u09ab\u09bf\u0995"
+      },
+      {
+        "replace": "Jharna",
+        "find": "\u099d\u09b0\u09cd\u09a8\u09be"
+      },
+      {
+        "replace": "BhoumicK",
+        "find": "\u09ad\u09cc\u09ae\u09bf\u0995"
+      },
+      {
+        "replace": "PARDOSEAKTER",
+        "find": "\u09ab\u09c7\u09b0\u09a6\u09cb\u09b8"
+      },
+      {
+        "replace": "JINNAT",
+        "find": "\u099c\u09bf\u09a8\u09cd\u09a8\u09be\u09a4"
+      },
+      {
+        "replace": "PAL",
+        "find": "\u09aa\u09be\u09b2\u09cb\u09df\u09be\u09a8"
+      },
+      {
+        "replace": "SHAHRAB",
+        "find": "\u09b6\u09be\u09b9\u09b0\u09be\u09ac"
+      },
+      {
+        "replace": "MAKSUDUR",
+        "find": "\u09b0\u09b9\u09ae\u09be\u09a8"
+      },
+      {
+        "replace": "ASHRAFUL",
+        "find": "\u0986\u09b6\u09b0\u09be\u09ab\u09c1\u09b2"
+      },
+      {
+        "replace": "MOZID",
+        "find": "\u09ae\u099c\u09bf\u09a6"
+      },
+      {
+        "replace": "TANIM",
+        "find": "\u09a4\u09be\u09a8\u09bf\u09ae"
+      },
+      {
+        "replace": "SHISHIR",
+        "find": "\u09b6\u09bf\u09b6\u09bf\u09b0"
+      },
+      {
+        "replace": "Namm",
+        "find": "\u09b8\u09c1\u099c\u09a8"
+      },
+      {
+        "replace": "KAMRUL",
+        "find": "\u0995\u09be\u09ae\u09b0\u09c1\u09b2"
+      },
+      {
+        "replace": "Sabrina",
+        "find": "\u09b8\u09be\u09ac\u09b0\u09bf\u09a8\u09be"
+      },
+      {
+        "replace": "Jahan",
+        "find": "\u099c\u09be\u09b9\u09be\u09a8"
+      },
+      {
+        "replace": "AHAD",
+        "find": "\u0986\u09b9\u09be\u09a6"
+      },
+      {
+        "replace": "KALLOL",
+        "find": "\u0995\u09b2\u09cd\u09b2\u09cb\u09b2"
+      },
+      {
+        "replace": "KUMER",
+        "find": "\u0995\u09c1\u09ae\u09be\u09b0"
+      },
+      {
+        "replace": "SAHA",
+        "find": "\u09b8\u09be\u09b9\u09be"
+      },
+      {
+        "replace": "Laila",
+        "find": "\u09b2\u09be\u09df\u09b2\u09be"
+      },
+      {
+        "replace": "ASFAQUR",
+        "find": "\u0986\u09b8\u09ab\u09be\u0995\u09c1\u09b0"
+      },
+      {
+        "replace": "RAF",
+        "find": "\u09b0\u09b9\u09ae\u09be\u09a8"
+      },
+      {
+        "replace": "IMAN",
+        "find": "\u0986\u09b8\u09bf\u09ab"
+      },
+      {
+        "replace": "Lotfur",
+        "find": "\u09b2\u09c1\u09ce\u09ab\u09c1\u09b0"
+      },
+      {
+        "replace": "MUNSHI",
+        "find": "\u09ae\u09c1\u09a8\u09cd\u09b8\u09c0"
+      },
+      {
+        "replace": "MASF",
+        "find": "\u09ae\u09be\u09b6\u09ab\u09bf\u0995\u09c1\u09b0"
+      },
+      {
+        "replace": "EQUUR",
+        "find": "\u09b0\u09b9\u09ae\u09be\u09a8"
+      },
+      {
+        "replace": "Maksudur",
+        "find": "\u09ae\u09be\u0995\u09b8\u09c1\u09aa\u09c1\u09b0"
+      },
+      {
+        "replace": "SWAPNAISLAM",
+        "find": "\u09b8\u09cd\u09ac\u09aa\u09cd\u09a8\u09be"
+      },
+      {
+        "replace": "ZOHAIMEE",
+        "find": "\u099c\u09cb\u09b9\u09be\u0987\u09ae\u09c0"
+      },
+      {
+        "replace": "SADIAHOSSAIN",
+        "find": "\u09b8\u09be\u09a6\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "Razia",
+        "find": "\u09b0\u09be\u099c\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "SATHI",
+        "find": "\u09b8\u09be\u0996\u09c0"
+      },
+      {
+        "replace": "HAI",
+        "find": "\u09b9\u09be\u0987"
+      },
+      {
+        "replace": "FATAMA",
+        "find": "NONE"
+      },
+      {
+        "replace": "PIAR",
+        "find": "\u09aa\u09bf\u09df\u09be\u09b0"
+      },
+      {
+        "replace": "BINOY",
+        "find": "\u09ac\u09bf\u09a8\u09df"
+      },
+      {
+        "replace": "BHUSHAN",
+        "find": "\u09ad\u09c2\u09b7\u09a8"
+      },
+      {
+        "replace": "BARMAN",
+        "find": "\u09ac\u09b0\u09cd\u09ae\u09a8"
+      },
+      {
+        "replace": "FARZAN",
+        "find": "\u09ab\u09be\u09b0\u099c\u09be\u09a8\u09be"
+      },
+      {
+        "replace": "EYSMIN",
+        "find": "\u0987\u09df\u09be\u09b8\u09ae\u09bf\u09a8"
+      },
+      {
+        "replace": "Yausuf",
+        "find": "\u0987\u0989\u09b8\u09c1\u09aa"
+      },
+      {
+        "replace": "???",
+        "find": "\u0986\u099c\u09be\u099c\u09be\u099c\u09be\u099c\u09be\u099c\u09be\u09ae\u09cb"
+      },
+      {
+        "replace": "Rohima",
+        "find": "\u09b0\u09be\u09b9\u09bf\u09ae\u09be"
+      },
+      {
+        "replace": "ISTIAK",
+        "find": "\u0987\u09b8\u09a4\u09bf\u09df\u09be\u0995"
+      },
+      {
+        "replace": "SHAHADAT",
+        "find": "\u09b6\u09be\u09b9\u09be\u09a6\u09be\u09a4"
+      },
+      {
+        "replace": "FAKIR",
+        "find": "\u09ab\u0995\u09bf\u09b0"
+      },
+      {
+        "replace": "MOJAHID",
+        "find": "\u09ae\u09c1\u099c\u09be\u09b9\u09bf\u09a6"
+      },
+      {
+        "replace": "SAIDUR",
+        "find": "\u099b\u0987\u09a6\u09c1\u09b0"
+      },
+      {
+        "replace": "Shahjalal",
+        "find": "\u09b6\u09be\u09b9\u099c\u09be\u09b2\u09b2\u09bf"
+      },
+      {
+        "replace": "MAHARTAYE",
+        "find": "\u09ae\u09c7\u09b9\u09c7\u09a6\u09c0"
+      },
+      {
+        "replace": "SYDUR",
+        "find": "\u099b\u09be\u09df\u09c7\u09a6\u09c1\u09b0"
+      },
+      {
+        "replace": "Anwarul",
+        "find": "\u0986\u09a8\u09cb\u09df\u09be\u09b0\u09c1\u09b2"
+      },
+      {
+        "replace": "OVRIN",
+        "find": "\u0985\u09ad\u09bf\u09b0\u09a8"
+      },
+      {
+        "replace": "RAITUL",
+        "find": "\u09b0\u09be\u0987\u09a4\u09c1\u09b2"
+      },
+      {
+        "replace": "SHARIFUR",
+        "find": "\u09b6\u09b0\u09c0\u09ab\u09c1\u09b0"
+      },
+      {
+        "replace": "RUDRA",
+        "find": "\u09b0\u09c1\u09a6\u09cd\u09b0"
+      },
+      {
+        "replace": "MARUF",
+        "find": "\u09ae\u09be\u09b0\u09c1\u09ab"
+      },
+      {
+        "replace": "SAGOR",
+        "find": "\u09b8\u09be\u0997\u09b0"
+      },
+      {
+        "replace": "MD.ARIF",
+        "find": "\u09ae\u09cb\u0983"
+      },
+      {
+        "replace": "SAYEF",
+        "find": "\u09b8\u09be\u0987\u09ab"
+      },
+      {
+        "replace": "Aktare",
+        "find": "\u0986\u0995\u09cd\u09a4\u09be\u09b0\u09c0"
+      },
+      {
+        "replace": "MERI",
+        "find": "\u09ae\u09c7\u09b0\u09c0"
+      },
+      {
+        "replace": "PARUL",
+        "find": "\u09aa\u09be\u09b0\u09c1\u09b2"
+      },
+      {
+        "replace": "KHANDOKAR",
+        "find": "\u0996\u09a8\u09cd\u09a6\u0995\u09be\u09b0"
+      },
+      {
+        "replace": "TARIQUL",
+        "find": "\u09a4\u09b0\u09bf\u0995\u09c1\u09b2"
+      },
+      {
+        "replace": "Moshiur",
+        "find": "\u09ae\u09b6\u09bf\u0989\u09b0"
+      },
+      {
+        "replace": "Ful",
+        "find": "\u09ab\u09c1\u09b2"
+      },
+      {
+        "replace": "CHAN",
+        "find": "\u099a\u09be\u0981\u09a8"
+      },
+      {
+        "replace": "DOEL",
+        "find": "\u09a6\u09cb\u09df\u09c7\u09b2"
+      },
+      {
+        "replace": "TARIF",
+        "find": "\u09a4\u09be\u09b0\u09bf\u09ab"
+      },
+      {
+        "replace": "DHRUBA",
+        "find": "\u09a7\u09cd\u09b0\u09c1\u09ac"
+      },
+      {
+        "replace": "Naninu",
+        "find": "\u09a8\u09be\u09a8\u09cd\u09a8\u09c1"
+      },
+      {
+        "replace": "ISMAIL",
+        "find": "\u0987\u09b8\u09ae\u09be\u0987\u09b2"
+      },
+      {
+        "replace": "MOHANTO",
+        "find": "\u09ae\u09b9\u09b8\u09cd\u09a4"
+      },
+      {
+        "replace": "Anowar",
+        "find": "\u0986\u09a8\u09cb\u09df\u09be\u09b0"
+      },
+      {
+        "replace": "Howlader",
+        "find": "\u09b9\u09be\u0993\u09b2\u09be\u09a6\u09be\u09b0"
+      },
+      {
+        "replace": "HAMEEM",
+        "find": "\u09b9\u09be\u09ae\u09bf\u09ae"
+      },
+      {
+        "replace": "MAHDAD",
+        "find": "\u09ae\u09c7\u09b9\u09a6\u09be\u09a6"
+      },
+      {
+        "replace": "KADER",
+        "find": "\u0995\u09be\u09a6\u09c7\u09b0"
+      },
+      {
+        "replace": "TAMIM",
+        "find": "\u09a4\u09be\u09ae\u09bf\u09ae"
+      },
+      {
+        "replace": "Golam",
+        "find": "\u0997\u09cb\u09b2\u09be\u09ae"
+      },
+      {
+        "replace": "Kibria",
+        "find": "\u0995\u09bf\u09ac\u09b0\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "Prodip",
+        "find": "\u09aa\u09cd\u09b0\u09a6\u09c0\u09aa"
+      },
+      {
+        "replace": "ASGAR",
+        "find": "\u0986\u099c\u0997\u09b0"
+      },
+      {
+        "replace": "ATKUJJAMAN",
+        "find": "\u0986\u09a4\u09bf\u0995\u09c1\u099c\u09cd\u099c\u09be\u09ae\u09be\u09a8"
+      },
+      {
+        "replace": "Mahmud",
+        "find": "\u09ae\u09be\u09b9\u09ae\u09c1\u09a6"
+      },
+      {
+        "replace": "Javed",
+        "find": "\u099c\u09be\u09ac\u09c7\u09a6"
+      },
+      {
+        "replace": "MUHAMMED",
+        "find": "\u09ae"
+      },
+      {
+        "replace": "KEFAYET",
+        "find": "\u09ae\u09cb\u09b9\u09be\u09ae\u09cd\u09ae\u09a6"
+      },
+      {
+        "replace": "HUSSAIN",
+        "find": "\u0995\u09c7\u09ab\u09be\u09df\u09c7\u09a4"
+      },
+      {
+        "replace": "Mridha",
+        "find": "\u09ae\u09c3\u09a7\u09be"
+      },
+      {
+        "replace": "Nayan",
+        "find": "\u09a8\u09df\u09a8"
+      },
+      {
+        "replace": "MAHIUDDIN",
+        "find": "\u09ae\u09b9\u09bf\u0989\u09a6\u09cd\u09a6\u09bf\u09a8"
+      },
+      {
+        "replace": "MASHA",
+        "find": "\u09ae\u09be\u09b6\u09be"
+      },
+      {
+        "replace": "No",
+        "find": "\u09ae\u09cb\u0983"
+      },
+      {
+        "replace": "ToAz",
+        "find": "\u09a4\u09cb\u09df\u09be\u099c"
+      },
+      {
+        "replace": "MAHMODUL",
+        "find": "\u09ae\u09be\u09b9\u09ae\u09c1\u09a6\u09c1\u09b2"
+      },
+      {
+        "replace": "JAHIDUL",
+        "find": "\u099c\u09be\u09b9\u09bf\u09a6\u09c1\u09b2"
+      },
+      {
+        "replace": "Sujon",
+        "find": "\u09b8\u09c1\u099c\u09a8"
+      },
+      {
+        "replace": "Mahamud",
+        "find": "\u09ae\u09be\u09b9\u09be\u09ae\u09c1\u09a6"
+      },
+      {
+        "replace": "ZUBAYE",
+        "find": "\u099c\u09cb\u09ac\u09be\u09df\u09c7\u09b0"
+      },
+      {
+        "replace": "Sanu",
+        "find": "\u09b8\u09be\u09a8\u09c1"
+      },
+      {
+        "replace": "FAZLAY",
+        "find": "\u09ab\u099c\u09b2\u09c7"
+      },
+      {
+        "replace": "ALLAHI",
+        "find": "\u098f\u09b2\u09be\u09b9\u09c0"
+      },
+      {
+        "replace": "FAKHRULISLAM",
+        "find": "\u09ab\u0996\u09b0\u09c1\u09b2"
+      },
+      {
+        "replace": "SATU",
+        "find": "\u09b8\u09c7\u09a4\u09c1"
+      },
+      {
+        "replace": "ROKIBUL",
+        "find": "\u09b0\u0995\u09bf\u09ac\u09c1\u09b2"
+      },
+      {
+        "replace": "ROKON",
+        "find": "\u09b0\u09cb\u0995\u09a8"
+      },
+      {
+        "replace": "RUMAN",
+        "find": "\u09b0\u09c1\u09ae\u09be\u09a8"
+      },
+      {
+        "replace": "FAYJUL",
+        "find": "\u09ab\u09be\u0987\u099c\u09c1\u09b2"
+      },
+      {
+        "replace": "JAHIR",
+        "find": "\u099c\u09b9\u09bf\u09b0"
+      },
+      {
+        "replace": "TOFAZZAL",
+        "find": "\u09a4\u09cb\u09ab\u09be\u099c\u09cd\u099c\u09b2"
+      },
+      {
+        "replace": "RABBIL",
+        "find": "\u09b0\u09be\u09ac\u09cd\u09ac\u09c0\u09b2"
+      },
+      {
+        "replace": "SHAKH",
+        "find": "\u09b6\u09c7\u0996"
+      },
+      {
+        "replace": "SHYDUL",
+        "find": "\u09b8\u09be\u0987\u09a6\u09c1\u09b2"
+      },
+      {
+        "replace": "SHOUAB",
+        "find": "\u09b8\u09cb\u09df\u09c7\u09ac"
+      },
+      {
+        "replace": "Parvin",
+        "find": "\u09aa\u09be\u09b0\u09ad\u09c0\u09a8"
+      },
+      {
+        "replace": "AFRUZA",
+        "find": "\u0986\u09ab\u09b0\u09cb\u099c\u09be"
+      },
+      {
+        "replace": "ARIE",
+        "find": "\u0986\u09b0\u09bf\u09ab"
+      },
+      {
+        "replace": "ABDUS",
+        "find": "\u0986\u09ac\u09cd\u09a6\u09c1\u09b8"
+      },
+      {
+        "replace": "SALAM",
+        "find": "\u09b8\u09be\u09b2\u09be\u09ae"
+      },
+      {
+        "replace": "SAIKAT",
+        "find": "\u09b8\u09c8\u0995\u09a4"
+      },
+      {
+        "replace": "SYEDA",
+        "find": "\u09b8\u09c8\u09df\u09a6\u09be"
+      },
+      {
+        "replace": "MAHBUBA",
+        "find": "\u09ae\u09be\u09b9\u09be\u09ac\u09c1\u09ac\u09be"
+      },
+      {
+        "replace": "SUL",
+        "find": "\u09b8\u09c1\u09b2\u09a4\u09be\u09a8\u09be"
+      },
+      {
+        "replace": "MONJUR",
+        "find": "\u09ae\u09a8\u099c\u09c1\u09b0"
+      },
+      {
+        "replace": "ABBAS",
+        "find": "\u0986\u09ac\u09cd\u09ac\u09be\u09b8"
+      },
+      {
+        "replace": "Mizanur",
+        "find": "\u09ae\u09bf\u099c\u09be\u09a8\u09c1\u09b0"
+      },
+      {
+        "replace": "ANJUM",
+        "find": "\u0986\u09a8\u099c\u09c1\u09ae"
+      },
+      {
+        "replace": "KHAIR",
+        "find": "\u0996\u09be\u09df\u09c7\u09b0"
+      },
+      {
+        "replace": "GOSTO",
+        "find": "\u0997\u09cb\u09b8\u09cd\u099f"
+      },
+      {
+        "replace": "PAUL",
+        "find": "\u09aa\u09be\u09b2"
+      },
+      {
+        "replace": "ISHANKOR",
+        "find": "\u09b6\u0982\u0995\u09b0"
+      },
+      {
+        "replace": "JAMADAR",
+        "find": "\u099c\u09be\u09ae\u09be\u09a6\u09be\u09b0"
+      },
+      {
+        "replace": "KAMRUZZAMAN",
+        "find": "\u0995\u09be\u09ae\u09b0\u09c1\u099c\u09cd\u099c\u09be\u09ae\u09be\u09a8"
+      },
+      {
+        "replace": "LEON",
+        "find": "\u09b2\u09bf\u0993\u09a8"
+      },
+      {
+        "replace": "AB.M.",
+        "find": "\u098f"
+      },
+      {
+        "replace": "ABSAR",
+        "find": "\u098f\u09ae"
+      },
+      {
+        "replace": "KHALEDA",
+        "find": "\u0996\u09be\u09b2\u09c7\u09a6\u09be"
+      },
+      {
+        "replace": "Fakhrul",
+        "find": "\u09ab\u0996\u09b0\u09c1\u09b2"
+      },
+      {
+        "replace": "Nizamuddulla",
+        "find": "\u09a8\u09bf\u099c\u09be\u09ae\u09c1\u09a6\u09cc\u09b2\u09be"
+      },
+      {
+        "replace": "Nasim",
+        "find": "\u09a8\u09be\u099b\u09bf\u09ae"
+      },
+      {
+        "replace": "MARUFA",
+        "find": "\u09ae\u09be\u09b0\u09c1\u09ab\u09be"
+      },
+      {
+        "replace": "BAKARSIDOIK",
+        "find": "\u099b\u09bf\u09a6\u09cd\u09a6\u09bf\u0995"
+      },
+      {
+        "replace": "KHORSHEDUL",
+        "find": "\u0996\u09cb\u09b0\u09b6\u09c7\u09a6\u09c1\u09b2"
+      },
+      {
+        "replace": "MORSHED",
+        "find": "\u09ae\u09cb\u09b0\u09cd\u09b6\u09bf\u09a6"
+      },
+      {
+        "replace": "Sohel",
+        "find": "\u09b8\u09cb\u09b9\u09c7\u09b2"
+      },
+      {
+        "replace": "NAFISA",
+        "find": "\u09a8\u09be\u09ab\u09bf\u09b8\u09be"
+      },
+      {
+        "replace": "ISLALM",
+        "find": "\u0987\u09b8\u09b2\u09be\u09ae"
+      },
+      {
+        "replace": "SAILA",
+        "find": "\u09b6\u09be\u09df\u09b2\u09be"
+      },
+      {
+        "replace": "BATEN",
+        "find": "\u09ac\u09be\u09a4\u09c7\u09a8"
+      },
+      {
+        "replace": "SAMSUL",
+        "find": "\u09b8\u09be\u09ae\u09b8\u09c1\u09b2"
+      },
+      {
+        "replace": "BEPARE",
+        "find": "\u09ac\u09c7\u09aa\u09be\u09b0\u09c0"
+      },
+      {
+        "replace": "KAZI",
+        "find": "\u0995\u09be\u099c\u09c0"
+      },
+      {
+        "replace": "MOSFIQUR",
+        "find": "\u09ae\u09c1\u09b6\u09ab\u09bf\u0995\u09c1\u09b0"
+      },
+      {
+        "replace": "Kabir",
+        "find": "\u0995\u09ac\u09bf\u09b0"
+      },
+      {
+        "replace": "uddin",
+        "find": "\u0989\u09a6\u09cd\u09a6\u09bf\u09a8"
+      },
+      {
+        "replace": "IMD",
+        "find": "\u09ae\u09cb\u0983"
+      },
+      {
+        "replace": "RANL",
+        "find": "\u09b0\u09a8\u09bf"
+      },
+      {
+        "replace": "RAHAT",
+        "find": "\u09b0\u09be\u09b9\u09be\u09a4"
+      },
+      {
+        "replace": "Saidul",
+        "find": "\u09b8\u09be\u0987\u09a6\u09c1\u09b2"
+      },
+      {
+        "replace": "Azim",
+        "find": "\u0986\u099c\u09bf\u09ae"
+      },
+      {
+        "replace": "ZUBAER",
+        "find": "\u099c\u09c1\u09ac\u09be\u09df\u09c7\u09b0"
+      },
+      {
+        "replace": "Wasique",
+        "find": "\u0993\u09df\u09be\u09b8\u09bf\u0995"
+      },
+      {
+        "replace": "Bin",
+        "find": "\u09ac\u09bf\u09a8"
+      },
+      {
+        "replace": "Safin",
+        "find": "\u09b8\u09be\u09ab\u09bf\u09a8"
+      },
+      {
+        "replace": "Shiful",
+        "find": "\u09b8\u09be\u0987\u09ab\u09c1\u09b2"
+      },
+      {
+        "replace": "KHANDAKER",
+        "find": "\u0996\u09a8\u09cd\u09a6\u0995\u09be\u09b0"
+      },
+      {
+        "replace": "Arshad",
+        "find": "\u098f\u09b0\u09b6\u09be\u09a6"
+      },
+      {
+        "replace": "MSTPAPPA",
+        "find": "\u09ae\u09cb\u099b\u09be\u0983"
+      },
+      {
+        "replace": "Juthy",
+        "find": "\u09b6\u09be\u09b0\u09ae\u09bf\u09a8"
+      },
+      {
+        "replace": "MD.SHAHELHOSSAN",
+        "find": "\u09ae\u09cb\u0983"
+      },
+      {
+        "replace": "FAZLARABBY",
+        "find": "\u09ab\u099c\u09b2\u09c7"
+      },
+      {
+        "replace": "SHOWKOT",
+        "find": "\u09b6\u0993\u0995\u09a4"
+      },
+      {
+        "replace": "RIYAD",
+        "find": "\u09b0\u09bf\u09df\u09be\u09a6"
+      },
+      {
+        "replace": "CHARLES",
+        "find": "\u099a\u09be\u09b0\u09cd\u09b2\u09b8"
+      },
+      {
+        "replace": "BIPLOB",
+        "find": "\u09ac\u09bf\u09aa\u09cd\u09b2\u09ac"
+      },
+      {
+        "replace": "JOL",
+        "find": "\u099c\u09b2\u09be\u0987"
+      },
+      {
+        "replace": "BIDHAN",
+        "find": "\u09ac\u09bf\u09a7\u09be\u09a8"
+      },
+      {
+        "replace": "MOLLICK",
+        "find": "\u09ae\u09b2\u09cd\u09b2\u09bf\u0995"
+      },
+      {
+        "replace": "SUMAYA",
+        "find": "\u09b8\u09c1\u09ae\u09be\u0987\u09df\u09be"
+      },
+      {
+        "replace": "Farhad",
+        "find": "\u09ab\u09b0\u09b9\u09be\u09a6"
+      },
+      {
+        "replace": "Sha",
+        "find": "\u09b6\u09be\u09b9"
+      },
+      {
+        "replace": "SHAIKH",
+        "find": "\u09b6\u09c7\u0996"
+      },
+      {
+        "replace": "HAFIZUR",
+        "find": "\u09b9\u09be\u09ab\u09bf\u099c\u09c1\u09b0"
+      },
+      {
+        "replace": "SIAMUR",
+        "find": "\u09b8\u09bf\u09df\u09be\u09ae\u09c1\u09b0"
+      },
+      {
+        "replace": "Syful",
+        "find": "\u09b8\u09be\u0987\u09ab\u09c1\u09b2"
+      },
+      {
+        "replace": "FAHIMA",
+        "find": "\u09ab\u09be\u09b9\u09bf\u09ae\u09be"
+      },
+      {
+        "replace": "ACHAL",
+        "find": "\u0986\u0981\u099a\u09b2"
+      },
+      {
+        "replace": "Shihab",
+        "find": "\u09b6\u09bf\u09b9\u09be\u09ac"
+      },
+      {
+        "replace": "Salam",
+        "find": "\u09b8\u09be\u09b2\u09be\u09ae"
+      },
+      {
+        "replace": "MSTRABEYA",
+        "find": "\u09ae\u09cb\u09b8\u09be\u0983"
+      },
+      {
+        "replace": "SAMIUL",
+        "find": "\u09b8\u09be\u09ae\u09bf\u0989\u09b2"
+      },
+      {
+        "replace": "Sufia",
+        "find": "\u09b8\u09c1\u09ab\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "MD.SASOR",
+        "find": "\u09ae\u09cb\u0983"
+      },
+      {
+        "replace": "AMINUR",
+        "find": "\u0986\u09ae\u09bf\u09a8\u09c1\u09b0"
+      },
+      {
+        "replace": "THAKUR",
+        "find": "\u09a0\u09be\u0995\u09c1\u09b0"
+      },
+      {
+        "replace": "Monoara",
+        "find": "\u09ae\u09a8\u09cb\u09df\u09be\u09b0\u09be"
+      },
+      {
+        "replace": "JABEBUR",
+        "find": "\u099c\u09be\u09ac\u09c7\u09a6\u09c1\u09b0"
+      },
+      {
+        "replace": "TULIB",
+        "find": "\u09a4\u09c1\u09b2\u09bf\u09ac"
+      },
+      {
+        "replace": "Anjo",
+        "find": "\u0986\u099c\u09cd\u099c\u09c1"
+      },
+      {
+        "replace": "Jakir",
+        "find": "\u099c\u09be\u0995\u09bf\u09b0"
+      },
+      {
+        "replace": "SAHIDA",
+        "find": "\u09b8\u09be\u09b9\u09bf\u09a6\u09be"
+      },
+      {
+        "replace": "SILPY",
+        "find": "\u09b6\u09bf\u09b2\u09cd\u09aa\u09c0"
+      },
+      {
+        "replace": "Abedin",
+        "find": "\u0986\u09ac\u09c7\u09a6\u09c0\u09a8"
+      },
+      {
+        "replace": "SHAELA",
+        "find": "\u09b6\u09be\u09ab\u09b2\u09be"
+      },
+      {
+        "replace": "SALEHIN",
+        "find": "\u09b8\u09be\u09b2\u09c7\u09b9\u09c0\u09a8"
+      },
+      {
+        "replace": "ARSHADY",
+        "find": "\u0986\u09b0\u09b6\u09be\u09a6\u09c0"
+      },
+      {
+        "replace": "KERAMATALI",
+        "find": "\u0995\u09c7\u09b0\u09be\u09ae\u09a4"
+      },
+      {
+        "replace": "Kader",
+        "find": "\u0995\u09be\u09a6\u09c7\u09b0"
+      },
+      {
+        "replace": "Rabilul",
+        "find": "\u0987\u09b8\u09b2\u09be\u09ae"
+      },
+      {
+        "replace": "SAAD",
+        "find": "Name"
+      },
+      {
+        "replace": "TA2UL",
+        "find": "\u09a4\u09be\u099c\u09c1\u09b2"
+      },
+      {
+        "replace": "BODRUL",
+        "find": "\u09ac\u09a6\u09b0\u09c1\u09b2"
+      },
+      {
+        "replace": "HABIBUR",
+        "find": "\u09b9\u09be\u09ac\u09bf\u09ac\u09c1\u09b0"
+      },
+      {
+        "replace": "RAKIBHASAN",
+        "find": "\u09b0\u09be\u0995\u09bf\u09ac"
+      },
+      {
+        "replace": "Mortoza",
+        "find": "\u09ae\u09c2\u09b0\u09cd\u09a4\u099c\u09be"
+      },
+      {
+        "replace": "ROBIUL",
+        "find": "\u09b0\u09ac\u09bf\u0989\u09b2"
+      },
+      {
+        "replace": "Mir",
+        "find": "\u09b6\u09be\u09b6\u09c7\u09ae"
+      },
+      {
+        "replace": "Jesmin",
+        "find": "\u099c\u09c7\u09b8\u09ae\u09bf\u09a8"
+      },
+      {
+        "replace": "Salma",
+        "find": "\u099b\u09be\u09b2\u09ae\u09be"
+      },
+      {
+        "replace": "khatun",
+        "find": "\u0996\u09be\u09a4\u09c1\u09a8"
+      },
+      {
+        "replace": "UUIOL",
+        "find": "\u0989\u099c\u09cd\u099c\u09b2"
+      },
+      {
+        "replace": "AZIZA",
+        "find": "\u0986\u099c\u09bf\u099c\u09be"
+      },
+      {
+        "replace": "Mohibbuliah",
+        "find": "\u09ae\u09b9\u09bf\u09ac\u09c1\u09b2\u09cd\u09b2\u09cd\u09af\u09be\u09b9"
+      },
+      {
+        "replace": "Altaf",
+        "find": "\u0986\u09b2\u09a4\u09be\u09ab"
+      },
+      {
+        "replace": "SOJIBSORDER",
+        "find": "\u09b8\u099c\u09bf\u09ac"
+      },
+      {
+        "replace": "SADAT",
+        "find": "\u09b8\u09be\u09a6\u09be\u09a4"
+      },
+      {
+        "replace": "Salauddin",
+        "find": "\u09b8\u09be\u09b2\u09be\u0989\u09a6\u09cd\u09a6\u09bf\u09a8"
+      },
+      {
+        "replace": "Mrigdad",
+        "find": "\u09ae\u09c3\u0997\u09a6\u09be\u09a6"
+      },
+      {
+        "replace": "EYACIN",
+        "find": "\u0987\u09df\u09be\u099b\u09bf\u09a8"
+      },
+      {
+        "replace": "WALIZA",
+        "find": "\u0985\u09b2\u09bf\u099c\u09be"
+      },
+      {
+        "replace": "NOVA",
+        "find": "\u09a8\u09cb\u09ad\u09be"
+      },
+      {
+        "replace": "JOHN",
+        "find": "\u099c\u09a8"
+      },
+      {
+        "replace": "SAIMA",
+        "find": "\u09b8\u09be\u09df\u09ae\u09be"
+      },
+      {
+        "replace": "NADI",
+        "find": "\u09a8\u09a6\u09c0"
+      },
+      {
+        "replace": "Yousuf",
+        "find": "\u0987\u0989\u09b8\u09c1\u09ab"
+      },
+      {
+        "replace": "PAVEL",
+        "find": "\u09aa\u09be\u09ad\u09c7\u09b2"
+      },
+      {
+        "replace": "RAFSANUL",
+        "find": "\u09b0\u09be\u09ab\u09b8\u09be\u09a8\u09c1\u09b2"
+      },
+      {
+        "replace": "CHOTAN",
+        "find": "\u099b\u09cb\u099f\u09a8"
+      },
+      {
+        "replace": "Hosna",
+        "find": "\u09ac\u09c7\u0997\u09ae"
+      },
+      {
+        "replace": "Azam",
+        "find": "\u0986\u099c\u09ae"
+      },
+      {
+        "replace": "REHANA",
+        "find": "\u09b0\u09c7\u09b9\u09be\u09a8\u09be"
+      },
+      {
+        "replace": "REZAUL",
+        "find": "\u09b0\u09c7\u099c\u09be\u0989\u09b2"
+      },
+      {
+        "replace": "KARIM",
+        "find": "\u0995\u09b0\u09bf\u09ae"
+      },
+      {
+        "replace": "Nasir",
+        "find": "\u09a8\u09be\u099b\u09bf\u09b0"
+      },
+      {
+        "replace": "Asger",
+        "find": "\u0986\u099c\u0997\u09be\u09b0"
+      },
+      {
+        "replace": "NAZIA",
+        "find": "\u09a8\u09be\u099c\u09bf\u09df\u09be"
+      },
+      {
+        "replace": "SHAITY",
+        "find": "\u09b6\u09c8\u09a4\u09c0"
+      },
+      {
+        "replace": "MUZAHIDUL",
+        "find": "\u09ae\u09c1\u099c\u09be\u09b9\u09bf\u09a6\u09c1\u09b2"
+      },
+      {
+        "replace": "WAHIDA",
+        "find": "\u09a4\u09df\u09be\u09b9\u09bf\u09a6\u09be"
+      },
+      {
+        "replace": "SAKIB",
+        "find": "\u09b8\u09be\u0995\u09bf\u09ac"
+      },
+      {
+        "replace": "DHRUBO",
+        "find": "\u0995\u09cd\u09b0\u09ac"
+      },
+      {
+        "replace": "INASIR",
+        "find": "\u09a8\u09be\u09b8\u09bf\u09b0"
+      }
+    ]
+  }
+}
