@@ -4,6 +4,8 @@ from rest_framework.response import Response
 from .serializers import Bn2EnSerializer
 from pybengengphonetic import hinavro
 
+discard_delim = ['<BGD', 'I <BGD', 'I<BGD', 'Place of Birth', 'Blood Group', 'Issue Date']
+
 
 class Entry(object):
     def __init__(self, **kwargs):
@@ -15,7 +17,9 @@ class Bn2EnView(viewsets.ViewSet):
     serializer_class = Bn2EnSerializer
 
     def list(self, request):
-        en_text = hinavro.parse(request.data['text']).capitalize()
+        req_text = str(request.data['text'])
+
+        en_text = hinavro.parse(req_text).capitalize()
         entries = {
             1: Entry(text=en_text),
         }

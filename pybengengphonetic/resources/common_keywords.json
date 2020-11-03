@@ -1,0 +1,58 @@
+{
+  "data": {
+    "common_keywords": [
+      {
+        "replace": "Md.",
+        "find": "মোঃ"
+      },
+      {
+        "replace": "Late",
+        "find": "মৃত"
+      },
+      {
+        "replace": "Village",
+        "find": "গ্রাম"
+      },
+      {
+        "replace": "Road",
+        "find": "রাস্তা"
+      },
+      {
+        "replace": "Sector",
+        "find": "সেক্টর"
+      },
+      {
+        "replace": "Section",
+        "find": "সেকশন"
+      },
+      {
+        "replace": "Flat",
+        "find": "ফ্ল্যাট"
+      },
+      {
+        "replace": "District",
+        "find": "জেলা"
+      },
+      {
+        "replace": "P.O.",
+        "find": "ডাকঘর"
+      },
+      {
+        "replace": "P.S.",
+        "find": "মোঃ"
+      },
+      {
+        "replace": "House",
+        "find": "বাসা"
+      },
+      {
+        "replace": "Holding",
+        "find": "হোল্ডিং"
+      },
+      {
+        "replace": "No.",
+        "find": "নং"
+      }
+    ]
+  }
+}

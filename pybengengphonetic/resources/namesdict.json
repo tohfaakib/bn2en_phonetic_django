@@ -50,18 +50,6 @@
         "find": "\u0993\u09ae\u09b0"
       },
       {
-        "replace": "F",
-        "find": "\u09ab\u09be\u09b0\u09c1\u0995"
-      },
-      {
-        "replace": "aruk",
-        "find": "\u09ac\u09bf\u09b6\u09cd\u09ac\u09be\u09b8"
-      },
-      {
-        "replace": "MD.",
-        "find": "\u09ae\u09cb\u0983"
-      },
-      {
         "replace": "FAZLE",
         "find": "\u09ab\u099c\u09b2\u09c7"
       },
@@ -134,10 +122,6 @@
         "find": "\u099b\u09bf\u09a6\u09cd\u09a6\u09bf\u0995"
       },
       {
-        "replace": "IMD.",
-        "find": "\u09ae\u09cb\u0983"
-      },
-      {
         "replace": "RAJU",
         "find": "\u09b0\u09be\u099c\u09c1"
       },
@@ -170,16 +154,12 @@
         "find": "\u09ab\u0995\u09bf\u09b0"
       },
       {
-        "replace": "MD.ABU",
-        "find": "\u09ae\u09cb\u0983"
+        "replace": "ABU",
+        "find": "আবু"
       },
       {
         "replace": "BAKAR",
         "find": "\u0986\u09ac\u09c1"
-      },
-      {
-        "replace": "Md.",
-        "find": "\u09ae\u09cb\u0983"
       },
       {
         "replace": "Mahade",
@@ -702,14 +682,6 @@
         "find": "\u09ab\u09b0\u09b9\u09be\u09a6"
       },
       {
-        "replace": "B.",
-        "find": "\u09ac\u09bf"
-      },
-      {
-        "replace": "MI",
-        "find": "\u098f\u09ae"
-      },
-      {
         "replace": "MAHRUF",
         "find": "\u09ae\u09be\u09b0\u09c1\u09ab"
       },
@@ -790,8 +762,8 @@
         "find": "\u09b8\u09be\u0987\u09ab\u09c1\u09b2"
       },
       {
-        "replace": "Md.Shipon",
-        "find": "\u09ae\u09cb\u0983"
+        "replace": "Shipon",
+        "find": "শিপন"
       },
       {
         "replace": "Miah",
@@ -1126,10 +1098,6 @@
         "find": "\u09ae\u09be\u09b9\u09ae\u09c1\u09a6"
       },
       {
-        "replace": "Ime",
-        "find": "\u0995\u09c1\u09ae\u09be"
-      },
-      {
         "replace": "HAZERA",
         "find": "\u09b9\u09be\u099c\u09c7\u09b0\u09be"
       },
@@ -1222,12 +1190,8 @@
         "find": "\u09a4\u09be\u09b0\u09c7\u0995"
       },
       {
-        "replace": "me",
+        "replace": "Jahangir",
         "find": "\u099c\u09be\u09b9\u09be\u0999\u09cd\u0997\u09c0\u09b0"
-      },
-      {
-        "replace": "JAHANGIR",
-        "find": "\u09ae\u09bf\u09df\u09be"
       },
       {
         "replace": "SHOHIDUZZAMAN",
@@ -1236,10 +1200,6 @@
       {
         "replace": "MRIDHA",
         "find": "\u09ae\u09c3\u09a7\u09be"
-      },
-      {
-        "replace": "MM",
-        "find": "\u09ae\u09bf\u09df\u09be"
       },
       {
         "replace": "ZIAUL",
@@ -1522,8 +1482,8 @@
         "find": "\u0987\u09ae\u09b0\u09be\u09a8"
       },
       {
-        "replace": "MD.SUJAN",
-        "find": "\u09ae\u09cb\u0983"
+        "replace": "SUJAN",
+        "find": "সুজন"
       },
       {
         "replace": "Azizul",
@@ -1662,20 +1622,20 @@
         "find": "\u09ae\u09cb\u09dc\u09b2"
       },
       {
-        "replace": "Md.Asraf",
-        "find": "\u09ae\u09cb\u0983"
+        "replace": "Asraf",
+        "find": "আশরাফ"
       },
       {
-        "replace": "MD.AL",
-        "find": "\u09ae\u09cb\u0983"
+        "replace": "AL",
+        "find": "আল"
       },
       {
         "replace": "MOFIZUL",
         "find": "\u09ae\u09ab\u09bf\u099c\u09c1\u09b2"
       },
       {
-        "replace": "Md.Shamsul",
-        "find": "\u09ae\u09cb\u0983"
+        "replace": "Shamsul",
+        "find": "শামসুল"
       },
       {
         "replace": "RABIUL",
@@ -1820,10 +1780,6 @@
       {
         "replace": "AKTAR",
         "find": "\u0986\u0995\u09cd\u09a4\u09be\u09b0"
-      },
-      {
-        "replace": "ime",
-        "find": "\u09ae"
       },
       {
         "replace": "SAKIL",
@@ -1990,8 +1946,8 @@
         "find": "\u0986\u09ac\u09c7\u09a6\u09c0\u09a8"
       },
       {
-        "replace": "MD.SEPUL",
-        "find": "\u09ae\u09cb\u0983"
+        "replace": "SEPUL",
+        "find": "সিপুল"
       },
       {
         "replace": "Vame",
@@ -2058,8 +2014,8 @@
         "find": "\u099c\u09be\u0987\u099c\u09c1\u09a6\u09cd\u09a6\u09bf\u09a8"
       },
       {
-        "replace": "Md.Anwar",
-        "find": "\u09ae\u09cb\u0983"
+        "replace": "Anwar",
+        "find": "আনোয়ার"
       },
       {
         "replace": "Kafil",
@@ -2154,8 +2110,8 @@
         "find": "\u09ae\u09bf\u09df\u09be"
       },
       {
-        "replace": "MD.AMINUL",
-        "find": "\u09ae\u09cb\u0983"
+        "replace": "AMINUL",
+        "find": "আমিনুল"
       },
       {
         "replace": "RAJAUL",
@@ -2398,10 +2354,6 @@
         "find": "\u09b9\u09c1\u09ae\u09be\u09df\u09c1\u09a8"
       },
       {
-        "replace": "TANMIR",
-        "find": "\u09ae"
-      },
-      {
         "replace": "AHAMMED",
         "find": "\u09a4\u09be\u09a8\u09ad\u09c0\u09b0"
       },
@@ -2614,10 +2566,6 @@
         "find": "\u099c\u09b9\u09bf\u09b0\u09c1\u09b2"
       },
       {
-        "replace": "NASRIN",
-        "find": "\u09ae"
-      },
-      {
         "replace": "ZAHANARA",
         "find": "\u099c\u09be\u09b9\u09be\u09a8\u09be\u09b0\u09be"
       },
@@ -2650,8 +2598,8 @@
         "find": "\u09ae\u09be\u099c\u09c7\u09a6\u09c1\u09b2"
       },
       {
-        "replace": "MD.AZIZUL",
-        "find": "\u09ae\u09cb\u0983"
+        "replace": "AZIZUL",
+        "find": "আজিজুল"
       },
       {
         "replace": "ASMA",
@@ -3134,8 +3082,8 @@
         "find": "\u09b9\u09be\u099b\u09bf\u09a8\u09be"
       },
       {
-        "replace": "MD.AKRAM",
-        "find": "\u09ae\u09cb\u0983"
+        "replace": "AKRAM",
+        "find": "আকরাম"
       },
       {
         "replace": "Farhana",
@@ -3642,8 +3590,8 @@
         "find": "\u0986\u09ac\u09cd\u09ac\u09be\u099b"
       },
       {
-        "replace": "Md.Rasel",
-        "find": "\u09ae\u09cb\u0983"
+        "replace": "Rasel",
+        "find": "রাসেল"
       },
       {
         "replace": "Sikder",
@@ -3716,10 +3664,6 @@
       {
         "replace": "TUNAZZINA",
         "find": "\u09a4\u09c1\u09a8\u09be\u099c\u09cd\u099c\u09bf\u09a8\u09be"
-      },
-      {
-        "replace": "CHANCHALALANE",
-        "find": "\u09b2\u09be"
       },
       {
         "replace": "lqbal",
@@ -4222,8 +4166,8 @@
         "find": "\u09b8\u09be\u0997\u09b0"
       },
       {
-        "replace": "MD.ARIF",
-        "find": "\u09ae\u09cb\u0983"
+        "replace": "ARIF",
+        "find": "আরিফ"
       },
       {
         "replace": "SAYEF",
@@ -4336,10 +4280,6 @@
       {
         "replace": "Javed",
         "find": "\u099c\u09be\u09ac\u09c7\u09a6"
-      },
-      {
-        "replace": "MUHAMMED",
-        "find": "\u09ae"
       },
       {
         "replace": "KEFAYET",
@@ -4674,11 +4614,7 @@
         "find": "\u09b6\u09be\u09b0\u09ae\u09bf\u09a8"
       },
       {
-        "replace": "MD.SHAHELHOSSAN",
-        "find": "\u09ae\u09cb\u0983"
-      },
-      {
-        "replace": "FAZLARABBY",
+        "replace": "FAZLA",
         "find": "\u09ab\u099c\u09b2\u09c7"
       },
       {
@@ -4766,8 +4702,8 @@
         "find": "\u09b8\u09c1\u09ab\u09bf\u09df\u09be"
       },
       {
-        "replace": "MD.SASOR",
-        "find": "\u09ae\u09cb\u0983"
+        "replace": "SAGOR",
+        "find": "সাগর"
       },
       {
         "replace": "AMINUR",
@@ -4835,10 +4771,10 @@
       },
       {
         "replace": "SAAD",
-        "find": "Name"
+        "find": "সাদ"
       },
       {
-        "replace": "TA2UL",
+        "replace": "TAZUL",
         "find": "\u09a4\u09be\u099c\u09c1\u09b2"
       },
       {

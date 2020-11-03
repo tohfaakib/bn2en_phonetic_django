@@ -7,11 +7,23 @@ from pybengengphonetic import config
 
 # Constants
 NAMES = config.NAMES_DICT['data']['names']
-SUB_DISTRICT = config.AVRO_DICT['data']['sub_district']
-DISTRICT = config.AVRO_DICT['data']['district']
-PATTERNS = NAMES + SUB_DISTRICT + DISTRICT + config.AVRO_DICT['data']['patterns']
+SUB_DISTRICT = config.SUBDISTRICT_DICT['data']['sub_district']
+DISTRICT = config.DISTRICT_DICT['data']['district']
+COMMON_KEYWORDS = config.COMMON_KEYWORDS_DICT['data']['common_keywords']
+PATTERNS = COMMON_KEYWORDS + DISTRICT + NAMES + SUB_DISTRICT + config.AVRO_DICT['data']['patterns']
 NON_RULE_PATTERNS = [p for p in PATTERNS if 'rules' not in p]
 RULE_PATTERNS = [p for p in PATTERNS if 'rules' in p]
+discard_delim = ['<BGD', 'I <BGD', 'I<BGD', 'Place of Birth', 'Blood Group', 'Issue Date']
+
+
+def discard_text(text):
+    for d in discard_delim:
+        if d in text:
+            req_text = text.split(d)[0]
+            return req_text
+        else:
+            return text
+
 
 def parse(text):
     """Parses input text, matches and replaces using avrodict
@@ -26,6 +38,8 @@ def parse(text):
       hinavro.parse(u'\u0995\u09c7\u09ae\u09a8 \u0986\u099b')
 
     """
+
+    text = ' '.join(str(discard_text(text)).split())
                             
     # Sanitize text case to meet phonetic comparison standards
     fixed_text = validate.fix_string_case(text)
